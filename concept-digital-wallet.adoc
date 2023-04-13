@@ -1,0 +1,41 @@
+---
+sidebar: sidebar 
+permalink: concept-digital-wallet.html 
+keywords: digital wallet, bluexp digital wallet, licensing, licenses, services, supported services 
+summary: '您可以通过BlueXP数字电子钱包管理和监控从NetApp购买的BlueXP许可证(BYOL)、BlueXP Marketplace订阅和NetApp Keystone。' 
+---
+= 了解有关BlueXP数字市场的信息
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/media/
+
+
+[role="lead"]
+您可以通过BlueXP数字电子钱包管理和监控从NetApp购买的BlueXP许可证(BYOL)、BlueXP Marketplace订阅和NetApp Keystone。
+
+
+
+== 功能
+
+* 管理Cloud Volumes ONTAP 的基于容量和基于节点的许可证
+* 添加和管理BlueXP数据服务的许可证
+* 管理PAYGO的订阅以及与您的BlueXP帐户和Astra相关的年度合同
+* 管理用于Cloud Volumes ONTAP 的Keystone Flex订阅并请求更改已提交容量
+* 查看内部ONTAP 集群的硬件和软件合同状态信息
+
+
+
+
+== 支持的服务
+
+您可以通过BlueXP数字电子钱包管理以下BlueXP服务的许可：
+
+* 云备份
+* 云数据感知
+* 云分层
+* Cloud Volumes ONTAP
+* 内部 ONTAP 集群
+

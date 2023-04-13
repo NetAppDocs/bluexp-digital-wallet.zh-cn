@@ -1,0 +1,113 @@
+---
+sidebar: sidebar 
+permalink: whats-new.html 
+keywords: 'what"s new, features, new, release notes, enhancements, fixes' 
+summary: 了解BlueXP数字电子钱包的新增功能。 
+---
+= 新增功能
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+了解BlueXP数字电子钱包的新增功能。
+
+
+
+== 2023年4月3日
+
+
+
+=== 电子邮件通知
+
+现在、Digital Wallet支持电子邮件通知。
+
+如果您配置了通知设置、则在BYOL许可证即将过期("警告"通知)或已过期("错误"通知)时、您可以收到电子邮件通知。
+
+https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-monitor-cm-operations.html["了解如何设置电子邮件通知"^]
+
+
+
+=== 市场订阅的许可容量
+
+现在、在查看Cloud Volumes ONTAP 基于容量的许可时、"数字电子钱包"将显示您随Marketplace Private优惠购买的许可容量。
+
+https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-capacity-licenses.html["了解如何查看帐户中的已用容量"]。
+
+
+
+== 2022年11月6日
+
+
+
+=== 订阅和年度合同
+
+您的BlueXP PAYGO订阅和年度合同现在可从Digital Wallet查看和管理。
+
+https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-subscriptions.html["了解如何管理您的订阅"]。
+
+
+
+== 2022年9月18日
+
+
+
+=== 优化的I/O和WORM容量
+
+现在、"数字电子钱包"将显示您的帐户中Cloud Volumes ONTAP 系统的优化I/O许可包和已配置WORM容量的摘要。
+
+这些详细信息可以帮助您更好地了解如何为您付费以及是否需要购买额外容量。
+
+https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-capacity-licenses.html["了解如何查看帐户中的已用容量"]。
+
+
+
+== 2022年7月31日
+
+
+
+=== 更改充电方法
+
+现在、您可以更改使用基于容量的许可的Cloud Volumes ONTAP 系统的收费方法。例如、如果您使用Essentials软件包部署了Cloud Volumes ONTAP 系统、则可以在业务需求发生变化时将其更改为"Professional软件包"。
+
+https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-capacity-licenses.html["了解如何更改充电方法"]。
+
+
+
+== 2022年7月3日
+
+
+
+=== 已用容量
+
+现在、Digital Wallet将按许可包显示您帐户中的总已用容量和已用容量。这有助于您了解如何为您付费以及是否需要购买额外容量。
+
+image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/media/screenshot-digital-wallet-summary.png["屏幕截图显示了基于容量的许可证的\"数字电子钱包\"页面。此页面概述了您帐户中的已用容量、然后按许可包细分已用容量。"]
+
+
+
+== 2022 年 2 月 27 日
+
+
+
+=== 内部ONTAP 集群的许可证
+
+现在、您可以查看内部ONTAP 集群的清单及其硬件和服务合同到期日期。此外，我们还提供了有关这些集群的其他详细信息。
+
+https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-on-prem-clusters.html["了解如何管理内部ONTAP 集群的许可证"]。
+
+
+
+== 2022 年 1 月 2 日
+
+
+
+=== 许可条款会自动更新
+
+如果您更改了任何许可证的容量或期限，则许可证条款现在会自动在数字电子钱包中更新。您不需要自己手动更新许可证。
+
+自动许可证更新适用于所有类型的 Cloud Volumes ONTAP 许可证以及数据服务的所有许可证。

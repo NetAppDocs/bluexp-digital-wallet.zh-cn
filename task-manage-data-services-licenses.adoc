@@ -1,0 +1,100 @@
+---
+sidebar: sidebar 
+permalink: task-manage-data-services-licenses.html 
+keywords: data services, byol, cloud backup, cloud tiering, data sense, cloud data sense, obtain license file, nlf, add license, update license 
+summary: '借助BlueXP数字电子钱包、您可以管理直接从NetApp购买的许可证(BYOL)、这些许可证可用于Cloud Backup、Cloud Data sense和Cloud Tiering。您可以查看已用许可证容量、剩余的可用容量、如果达到容量限制或到期日期、您将看到通知。' 
+---
+= 管理BlueXP数据服务的许可证
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: https://docs.netapp.com/us-en/cloud-manager-backup-restore/media/
+
+
+[role="lead"]
+借助BlueXP数字电子钱包、您可以管理直接从NetApp购买的许可证(BYOL)、这些许可证可用于Cloud Backup、Cloud Data sense和Cloud Tiering。您可以查看已用许可证容量、剩余的可用容量、如果达到容量限制或到期日期、您将看到通知。
+
+此页面上的说明提供了有关适用场景 每个服务的信息。有关这些服务的许可的更多具体信息、请参见以下页面：
+
+* https://docs.netapp.com/us-en/cloud-manager-backup-restore/task-licensing-cloud-backup.html["为 Cloud Backup 设置许可"^]
+* https://docs.netapp.com/us-en/cloud-manager-data-sense/task-licensing-datasense.html["为 Cloud Data sense 设置许可"^]
+* https://docs.netapp.com/us-en/cloud-manager-tiering/task-licensing-cloud-tiering.html["为 Cloud Tiering 设置许可"^]
+
+
+
+
+== 获取许可证文件
+
+购买许可证后、您可以通过输入序列号和NSS帐户或上传NetApp许可证文件(NLF)在BlueXP中激活许可证。以下步骤显示了如果您计划使用此方法，如何获取 NLF 许可证文件。
+
+.步骤
+. 登录到 https://mysupport.netapp.com["NetApp 支持站点"^] 然后单击 * 系统 > 软件许可证 * 。
+. 输入许可证的序列号。
++
+image:screenshot_cloud_backup_license_step1.gif["按序列号搜索后显示许可证表的屏幕截图。"]
+
+. 在 * 许可证密钥 * 列中，单击 * 获取 NetApp 许可证文件 * 。
+. 输入您的BlueXP帐户ID (在支持站点上称为租户ID)、然后单击*提交*下载许可证文件。
++
+image:screenshot_cloud_backup_license_step2.gif["屏幕截图显示了获取许可证对话框，您可以在其中输入租户 ID ，然后单击提交下载许可证文件。"]
+
++
+您可以通过从BlueXP顶部选择*帐户*下拉列表、然后单击您的帐户旁边的*管理帐户*来查找您的BlueXP帐户ID。您的帐户 ID 位于概述选项卡中。
+
+
+
+
+
+== 添加许可证
+
+在为BlueXP数据服务购买许可证后、您需要将此许可证添加到BlueXP中。
+
+.步骤
+. 从BlueXP菜单中、单击*监管>数字电子钱包*、然后选择*数据服务许可证*选项卡。
+. 单击 * 添加许可证 * 。
+. 在 _Add License_ 对话框中，输入许可证信息并单击 * 添加许可证 * ：
++
+** 如果您知道序列号并知道您的NSS帐户、请选择*输入序列号*选项并输入该信息。
++
+如果下拉列表中没有您的 NetApp 支持站点帐户， https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-adding-nss-accounts.html["将NSS帐户添加到BlueXP"^]
+
+** 如果您有许可证文件(在专用模式下使用BlueXP时需要此文件)、请选择*上传许可证文件*选项、然后按照提示附加此文件。
++
+image:screenshot_services_license_add2.png["显示用于添加 Cloud Backup BYOL 许可证的页面的屏幕截图。"]
+
+
+
+
+
+.结果
+BlueXP添加了许可证。
+
+
+
+== 更新许可证
+
+如果您的许可期限即将到期、或者您的许可容量即将达到限制、您将在"数字电子钱包"中收到通知。您可以在许可证到期之前对其进行更新、以确保您使用BlueXP数据服务的能力不会中断。
+
+image:screenshot_services_license_expire.png["在 \" 数字电子钱包 \" 页面中显示即将到期许可证的屏幕截图。"]
+
+.步骤
+. 单击BlueXP右下角的聊天图标或联系支持部门、请求延长您的期限或为特定序列号请求许可证的额外容量。
++
+在您为许可证付费并将其注册到NetApp 支持站点 后、BlueXP会自动在数字电子钱包中更新许可证、并且数据服务许可证页面将在5到10分钟内反映此更改。
+
+. 如果BlueXP无法自动更新许可证(例如、在专用模式下使用BlueXP时)、则需要手动上传许可证文件。
++
+.. 您可以 <<获取许可证文件,从 NetApp 支持站点获取许可证文件>>。
+.. 在_Data Services Licenses_选项卡上、单击 image:screenshot_horizontal_more_button.gif["更多图标"] 对于要更新的服务序列号，请单击 * 更新许可证 * 。
++
+image:screenshot_services_license_update1.png["选择特定服务的更新许可证按钮的屏幕截图。"]
+
+.. 在 _Update License_ 页面中，上传许可证文件并单击 * 更新许可证 * 。
+
+
+
+
+.结果
+BlueXP会更新许可证。
