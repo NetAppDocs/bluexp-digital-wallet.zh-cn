@@ -85,7 +85,6 @@
   <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="list-text">Cloud Volumes ONTAP</block>
   <block id="d0f1687c68ee0f0d9bac765716d18923" category="list-text">内部 ONTAP 集群</block>
   <block id="a4f0f752cbc0651ce6551bad053b1ae6" category="summary">通过BlueXP数字电子钱包、您可以集中管理和监控许可证和订阅。</block>
-  <block id="7b432de78427e2c7ffdddf3f0a09ce52" category="doc">BlueXP数字电子钱包</block>
   <block id="243263104c829e77835d632f591230d5" category="summary">在向NetApp技术支持部门创建支持案例之前、您需要向BlueXP添加一个NetApp 支持站点 帐户、然后注册获取支持。</block>
   <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">注册以获得支持</block>
   <block id="8bf30fadf784022b073adb9233678a71" category="paragraph">在向NetApp技术支持部门创建支持案例之前、您需要向BlueXP添加NetApp 支持站点 (NSS)帐户、然后注册获取支持。</block>
@@ -549,4 +548,5 @@
   <block id="bd5465eb0e8cf8f303aee7ea9420c8b1" category="sidebar">BlueXP博客</block>
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">云网络研讨会</block>
   <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">所有BlueXP文档</block>
+  <block id="49f326995814ee311b340478f99f992f" category="doc">BlueXP数字电子钱包文档</block>
 </blocks>
