@@ -74,14 +74,9 @@
   <block id="98f770b0af18ca763421bac22b4b6805" category="section-title">功能</block>
   <block id="012ae05db65bea80da7b7050b5d96f9e" category="list-text">管理Cloud Volumes ONTAP 的基于容量和基于节点的许可证</block>
   <block id="62d9aca3bac1caa2d9cff120588c3e35" category="list-text">添加和管理BlueXP数据服务的许可证</block>
-  <block id="94c8d5dbc233a7f83819d5552acfe787" category="list-text">管理PAYGO的订阅以及与您的BlueXP帐户和Astra相关的年度合同</block>
   <block id="68893f701c3397a3a6f6ae5a965a7ef6" category="list-text">管理用于Cloud Volumes ONTAP 的Keystone Flex订阅并请求更改已提交容量</block>
   <block id="385b7e85ac73053263ffe4f49784da13" category="list-text">查看内部ONTAP 集群的硬件和软件合同状态信息</block>
   <block id="ea22f9957523103248d84695e98b17ba" category="section-title">支持的服务</block>
-  <block id="0cf6e0b36272b906da65f6af3ab672b0" category="paragraph">您可以通过BlueXP数字电子钱包管理以下BlueXP服务的许可：</block>
-  <block id="dad57e95fc9a5390302ad830888cbdb9" category="list-text">云备份</block>
-  <block id="d882bf73cd5caf1e5aa39edbf893ad74" category="list-text">云数据感知</block>
-  <block id="92d2b6aba6afa3f690540cf3dba9b633" category="list-text">云分层</block>
   <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="list-text">Cloud Volumes ONTAP</block>
   <block id="d0f1687c68ee0f0d9bac765716d18923" category="list-text">内部 ONTAP 集群</block>
   <block id="a4f0f752cbc0651ce6551bad053b1ae6" category="summary">通过BlueXP数字电子钱包、您可以集中管理和监控许可证和订阅。</block>
@@ -240,15 +235,8 @@
   <block id="f791bc685c526af8296381acff10f6a0" category="list-text">*关闭案例*：提供关闭案例的详细信息、然后单击*关闭案例*。</block>
   <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">屏幕截图、显示在表的最后一列中选择菜单后可以执行的操作。</block>
   <block id="e9a5c374fb47ed2ae5cc6108fb36d829" category="paragraph"><block ref="e9a5c374fb47ed2ae5cc6108fb36d829" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="4dc97d13f8afbf15e0936287290445d1" category="summary">借助BlueXP数字电子钱包、您可以管理直接从NetApp购买的许可证(BYOL)、这些许可证可用于Cloud Backup、Cloud Data sense和Cloud Tiering。您可以查看已用许可证容量、剩余的可用容量、如果达到容量限制或到期日期、您将看到通知。</block>
   <block id="e9598339aeb07702e2b24ef63fca36cc" category="doc">管理BlueXP数据服务的许可证</block>
   <block id="9733849463a86c6a043ab58c8ddf1ac4" category="paragraph">此页面上的说明提供了有关适用场景 每个服务的信息。有关这些服务的许可的更多具体信息、请参见以下页面：</block>
-  <block id="854a5b181af5166b0412d0786c77db0b" category="inline-link">为 Cloud Backup 设置许可</block>
-  <block id="b984bca5aec62e5640849a3ce56f3a6c" category="list-text"><block ref="b984bca5aec62e5640849a3ce56f3a6c" category="inline-link-rx"></block></block>
-  <block id="0ed0a0ad5aadf8f8ef3ea382b8f4a106" category="inline-link">为 Cloud Data sense 设置许可</block>
-  <block id="b3b23402aeecfc18bdb1d8932564085d" category="list-text"><block ref="b3b23402aeecfc18bdb1d8932564085d" category="inline-link-rx"></block></block>
-  <block id="4b75686c0a14158ec6b99e93fbf1828b" category="inline-link">为 Cloud Tiering 设置许可</block>
-  <block id="f896a045834fbc7eb21af1d43d98136b" category="list-text"><block ref="f896a045834fbc7eb21af1d43d98136b" category="inline-link-rx"></block></block>
   <block id="73acd586df3bf9938d39f0e738d5c161" category="section-title">获取许可证文件</block>
   <block id="f11bf973a6c8039ecfd0152979db21be" category="paragraph">购买许可证后、您可以通过输入序列号和NSS帐户或上传NetApp许可证文件(NLF)在BlueXP中激活许可证。以下步骤显示了如果您计划使用此方法，如何获取 NLF 许可证文件。</block>
   <block id="9d2169c1c2855b78a7aeaa4f42d27dc7" category="inline-link">NetApp 支持站点</block>
@@ -269,15 +257,10 @@
   <block id="bae190eec3db4a0dd635ae72756acde8" category="inline-link">将NSS帐户添加到BlueXP</block>
   <block id="3a7d2aab6d3f158a52978777da89804f" category="paragraph">如果下拉列表中没有您的 NetApp 支持站点帐户，<block ref="6d9745cd4f1d60b55f06aef4c5cb6ec4" category="inline-link-rx"></block></block>
   <block id="6e2573cea3af840a0c24f94975047370" category="list-text">如果您有许可证文件(在专用模式下使用BlueXP时需要此文件)、请选择*上传许可证文件*选项、然后按照提示附加此文件。</block>
-  <block id="b91c77235ab93af32b475ca05ffa1ab2" category="inline-image-macro">显示用于添加 Cloud Backup BYOL 许可证的页面的屏幕截图。</block>
-  <block id="78364824176e311173787bc994b841d4" category="paragraph"><block ref="78364824176e311173787bc994b841d4" category="inline-image-macro-rx" type="image"></block></block>
   <block id="9f7100a1f5980a935ee73427b4e84228" category="paragraph">BlueXP添加了许可证。</block>
   <block id="6c1c5737355a8b30e87ad5d7c6da9553" category="section-title">更新许可证</block>
-  <block id="f2325e725df0937d64ac12917b15a3b3" category="paragraph">如果您的许可期限即将到期、或者您的许可容量即将达到限制、您将在"数字电子钱包"中收到通知。您可以在许可证到期之前对其进行更新、以确保您使用BlueXP数据服务的能力不会中断。</block>
   <block id="89ec6475bcd2a52ce9ca1c8fa843339e" category="inline-image-macro">在 " 数字电子钱包 " 页面中显示即将到期许可证的屏幕截图。</block>
   <block id="b16535eaa5694c59eb7ff71777c5cd59" category="paragraph"><block ref="b16535eaa5694c59eb7ff71777c5cd59" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="bb99d6c3efadbec99aeab8b89922e30d" category="list-text">单击BlueXP右下角的聊天图标或联系支持部门、请求延长您的期限或为特定序列号请求许可证的额外容量。</block>
-  <block id="8061535eb5e8bab52c4a8a0fdc119d14" category="paragraph">在您为许可证付费并将其注册到NetApp 支持站点 后、BlueXP会自动在数字电子钱包中更新许可证、并且数据服务许可证页面将在5到10分钟内反映此更改。</block>
   <block id="b74318cb9e5cf2bae938953860aade06" category="list-text">如果BlueXP无法自动更新许可证(例如、在专用模式下使用BlueXP时)、则需要手动上传许可证文件。</block>
   <block id="b2b168bd64a341a85c749cb61bba40cb" category="inline-xref">从 NetApp 支持站点获取许可证文件</block>
   <block id="5281a9b97c306047dc796d618670919d" category="list-text">您可以 <block ref="2ee9df93e68c4a0ffa870dc00950ab97" category="inline-xref-macro-rx"></block>。</block>
@@ -324,22 +307,18 @@
   <block id="490414e0366b091220802d406e52c076" category="doc">新增功能</block>
   <block id="102787ed6297b34a7504b527e91d01d3" category="section-title">2023年4月3日</block>
   <block id="a67ce68ccac082ad54a552bdbcb6ecd7" category="section-title">电子邮件通知</block>
-  <block id="a08572617e25a61e8569807ac103ab07" category="paragraph">现在、Digital Wallet支持电子邮件通知。</block>
   <block id="380d0a0b2cec998dcd9f52b91b24304c" category="paragraph">如果您配置了通知设置、则在BYOL许可证即将过期("警告"通知)或已过期("错误"通知)时、您可以收到电子邮件通知。</block>
   <block id="335e7f21f0fdfecbe9c04540dcb8cdd6" category="inline-link">了解如何设置电子邮件通知</block>
   <block id="497d867daded8927a3cf934337006373" category="paragraph"><block ref="497d867daded8927a3cf934337006373" category="inline-link-rx"></block></block>
   <block id="164bf9dea8d8396a2e7501258b908616" category="section-title">市场订阅的许可容量</block>
-  <block id="1b8d4ee3ff5e577bc8524d6a5e73790e" category="paragraph">现在、在查看Cloud Volumes ONTAP 基于容量的许可时、"数字电子钱包"将显示您随Marketplace Private优惠购买的许可容量。</block>
   <block id="207aaa44f72ba634c18fcc9bae44d655" category="inline-link">了解如何查看帐户中的已用容量</block>
   <block id="1e9f781ad3dabc2f942313854ce94883" category="paragraph"><block ref="bcd8bf14da5e102dbc4b48dd0870869e" category="inline-link-rx"></block>。</block>
   <block id="5a4346a01828d72104a6540080377b25" category="section-title">2022年11月6日</block>
   <block id="36e33f823d687cad39366d44fd0b326d" category="section-title">订阅和年度合同</block>
-  <block id="a7dad5ac7e311dedf2a82e4bb5a713dd" category="paragraph">您的BlueXP PAYGO订阅和年度合同现在可从Digital Wallet查看和管理。</block>
   <block id="949b19dd7e9f6496c1125f7166270450" category="inline-link">了解如何管理您的订阅</block>
   <block id="02a7eedc354fe91b04b9ff906dc9c760" category="paragraph"><block ref="dcb08a7187e62f8d5d6c3eba08ea6b8f" category="inline-link-rx"></block>。</block>
   <block id="f7ba76d5c9beab0576f118a6254843e9" category="section-title">2022年9月18日</block>
   <block id="b269d65b4fd592fc59288f3c9c3917b9" category="section-title">优化的I/O和WORM容量</block>
-  <block id="e1de90a0937196074c7abb9f8b5e5edf" category="paragraph">现在、"数字电子钱包"将显示您的帐户中Cloud Volumes ONTAP 系统的优化I/O许可包和已配置WORM容量的摘要。</block>
   <block id="c3304f9cf1f523f219fc4a936bde8242" category="paragraph">这些详细信息可以帮助您更好地了解如何为您付费以及是否需要购买额外容量。</block>
   <block id="3f10ba55f7b5ee2ce092504fcea72477" category="section-title">2022年7月31日</block>
   <block id="b69737a8aa6d54e160fd215ef53825b5" category="section-title">更改充电方法</block>
@@ -348,9 +327,6 @@
   <block id="8c8503ff8c21813561363b608190163e" category="paragraph"><block ref="24cab88ee4e7cc87558a54f6745deabe" category="inline-link-rx"></block>。</block>
   <block id="1511b856d0328cfba458b8f83c2e94e3" category="section-title">2022年7月3日</block>
   <block id="dd83b22a815febb6c6547eab078bbf30" category="section-title">已用容量</block>
-  <block id="d5503d6062daaaa4326462970164cbac" category="paragraph">现在、Digital Wallet将按许可包显示您帐户中的总已用容量和已用容量。这有助于您了解如何为您付费以及是否需要购买额外容量。</block>
-  <block id="232ac716fdabb7e9b9ba7c3a108574a7" category="inline-image-macro">屏幕截图显示了基于容量的许可证的"数字电子钱包"页面。此页面概述了您帐户中的已用容量、然后按许可包细分已用容量。</block>
-  <block id="998e6cc07bc5c3b4a2329ad21093316c" category="paragraph"><block ref="998e6cc07bc5c3b4a2329ad21093316c" category="inline-image-macro-rx" type="image"></block></block>
   <block id="ba26e4556a0f160834687982b0479336" category="section-title">2022 年 2 月 27 日</block>
   <block id="ad542dc76a1c13d716648648c7052561" category="section-title">内部ONTAP 集群的许可证</block>
   <block id="cc6992a66b9fc6bd5f23a20beff49e2a" category="paragraph">现在、您可以查看内部ONTAP 集群的清单及其硬件和服务合同到期日期。此外，我们还提供了有关这些集群的其他详细信息。</block>
@@ -358,7 +334,6 @@
   <block id="770294ba582707dbf5d21f7add8b531e" category="paragraph"><block ref="d28003d0743d6fc8a920f6982b9bd603" category="inline-link-rx"></block>。</block>
   <block id="586301717819197e24001cac47efdaaa" category="section-title">2022 年 1 月 2 日</block>
   <block id="d5ce756f503ae6211b9ef6c827e757be" category="section-title">许可条款会自动更新</block>
-  <block id="310c945b52669c8754bf13907cbb5859" category="paragraph">如果您更改了任何许可证的容量或期限，则许可证条款现在会自动在数字电子钱包中更新。您不需要自己手动更新许可证。</block>
   <block id="b2d68f8e07e0e6ca8d81ba9d15e96e7e" category="paragraph">自动许可证更新适用于所有类型的 Cloud Volumes ONTAP 许可证以及数据服务的所有许可证。</block>
   <block id="94fd71e366753efc2c71fcdd0fc3afd4" category="summary">您可以通过BlueXP数字电子钱包查看每个内部ONTAP 集群的合同详细信息。如果您尚未在BlueXP中发现集群、也可以从数字市场中进行此操作。</block>
   <block id="dc8526e1d318113e071717b2a8bb27b7" category="doc">管理内部ONTAP 集群的许可证</block>
@@ -400,16 +375,12 @@
   <block id="2b3c797a98693bc95eb014beb60621b8" category="list-text"><block ref="2b3c797a98693bc95eb014beb60621b8" category="inline-link-rx"></block></block>
   <block id="299867ed6070a6cda18ae92e5d434213" category="inline-link">了解如何管理直接发现的集群</block>
   <block id="99d7f3ff9fb7308bda3abc7d58891657" category="list-text"><block ref="99d7f3ff9fb7308bda3abc7d58891657" category="inline-link-rx"></block></block>
-  <block id="4d17b7f0d1f8c0ae69c0ec8d32fea349" category="summary">当您从云提供商的市场订阅BlueXP时、系统会将您重定向到BlueXP网站、您需要在该网站上保存订阅并将其与特定帐户关联。订阅后、每个订阅均可通过数字电子钱包进行管理。</block>
   <block id="b01b1be092b95233172f870dc729234b" category="doc">管理PAYGO订阅和合同</block>
   <block id="e858f445394700e621aa67dd8e3fe958" category="section-title">查看您的订阅</block>
-  <block id="9c1b3fb5f48f73ce89025933ec931382" category="paragraph">Digital Wallet提供了有关与您的BlueXP帐户和Astra (Astra使用BlueXP的计费服务)关联的每个PAYGO订阅和年度合同的详细信息。</block>
   <block id="8c3682e85d7f4dbe8a46485082335dec" category="list-text">选择*订阅*。</block>
   <block id="1422eb9c77ef6c74d6abe35beedc5d64" category="paragraph">您将只看到与当前正在查看的帐户关联的订阅。</block>
   <block id="572e470335e0a6d55da05c732a01aed3" category="list-text">在查看订阅信息时、您可以按如下所示与表中的详细信息进行交互：</block>
   <block id="6a1de13d318f22872902849cd26467b4" category="list-text">展开一行可查看更多详细信息。</block>
-  <block id="d61aec883b403c61da2d8d8e19d78473" category="inline-image-macro">数字电子邮件中订阅选项卡的屏幕截图、您可以在其中选择行末尾的箭头将其展开。</block>
-  <block id="3a9d2caf2b3b63f1b3ab7d00e469b158" category="paragraph"><block ref="3a9d2caf2b3b63f1b3ab7d00e469b158" category="inline-image-macro-rx" type="image"></block></block>
   <block id="56594b7222b35921f9fe676eadf6bbdf" category="inline-image-macro">表标题末尾的加号图标</block>
   <block id="33d90cc16eaedf37738a3faf06f00f36" category="list-text">选择 ... <block ref="98b11313fea6c4106e5a3c018f0ffbc9" category="inline-image-macro-rx" type="image"></block> 可选择表中显示的列。</block>
   <block id="c090ce3dc0b8ea780bfa95c666328c67" category="paragraph">请注意、默认情况下不会显示"术语"和"自动续订"列。自动续订列仅显示Azure合同的续订信息。</block>
@@ -419,11 +390,8 @@
   <block id="382b0f5185773fa0f67a8ed8056c7759" category="list-text">不适用</block>
   <block id="716e98867696fbbeed00e3dcd1f76758" category="list-text">如果表中显示不适用、则目前无法从云提供商的API获取此信息。</block>
   <block id="cd494d76449d5dfe0c0adfb2f3447761" category="list-text">合同</block>
-  <block id="8090b542b799e2f0268fddd048d44eda" category="list-text">如果您扩展了合同的详细信息、则数字电子钱包将显示您当前计划的可用内容：合同选项和单位(容量或节点数)。</block>
-  <block id="7f96d1365390f4c6a7c1befe0b068769" category="list-text">数字电子钱包将确定结束日期、以及合同是否将尽快续订、即将结束或是否已结束。</block>
   <block id="def1d5f1d4a6db4b59f941bed287221d" category="list-text">如果您拥有AWS合同、并且在开始日期之后更改了合同的任何选项、请务必从AWS Marketplace验证您的合同选项。</block>
   <block id="6942b724002d90bb0f705f478cdd6bf3" category="section-title">管理您的订阅</block>
-  <block id="ac3dad7b0d90a8896f44e77f84726619" category="paragraph">您可以通过重命名订阅并选择与订阅关联的帐户、从数字电子钱包中管理订阅。</block>
   <block id="0c3ef8839b737ed6600351348aace81b" category="paragraph">例如，假设您有两个帐户，每个帐户都通过单独的订阅付费。您可能会解除某个订阅与某个帐户的关联、以便该帐户中的用户在创建Cloud Volumes ONTAP 工作环境时不会意外选择错误的订阅。</block>
   <block id="e97d1d1134e32a84fb4d6d796e3e56a9" category="list-text">在与要管理的订阅对应的行中选择操作菜单。</block>
   <block id="1dea06c0cd8c3b77e4597670a860c155" category="inline-image-macro">订阅的操作菜单的屏幕截图。</block>
@@ -431,7 +399,6 @@
   <block id="1201c1bd99e40a424aee33ac62838b92" category="list-text">选择重命名订阅或管理与订阅关联的BlueXP帐户。</block>
   <block id="7e3a4c0ec1aee45acf094839bb9c449f" category="summary">在数字电子钱包中管理基于节点的许可证，以确保每个 Cloud Volumes ONTAP 系统都有一个具有所需容量的有效许可证。</block>
   <block id="de94398a333e3b7bdafad2ddf3232331" category="doc">管理基于节点的许可证</block>
-  <block id="15d021d83ccb68dbaf63683ce6741fee" category="paragraph">在数字电子钱包中管理基于节点的许可证，以确保每个 Cloud Volumes ONTAP 系统都有一个具有所需容量的有效许可证。</block>
   <block id="4627bd080634e9380c75a1cc04a09486" category="paragraph">基于节点的许可证 _ 是上一代许可模式（不适用于新客户）：</block>
   <block id="81f9d97336a30fb7be6f8d770fee25eb" category="list-text">从 NetApp 购买的 BYOL 许可证</block>
   <block id="17ac9e85cf5b6f7b77acf61fb7721242" category="list-text">从云提供商的市场订阅每小时按需购买（ PAYGO ）</block>
@@ -549,4 +516,37 @@
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">云网络研讨会</block>
   <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">所有BlueXP文档</block>
   <block id="49f326995814ee311b340478f99f992f" category="doc">BlueXP数字电子钱包文档</block>
+  <block id="d73d2254cb7a33ffdc126efbce99e623" category="list-text">管理PAYGO的订阅以及与BlueXP帐户和Astra Control关联的年度合同</block>
+  <block id="bf4700247951934a88713e31aa00a0a6" category="paragraph">BlueXP数字钱包可用于管理以下许可证：</block>
+  <block id="be062cdcabbb3055334e8f19b4bdf378" category="list-text">备份和恢复</block>
+  <block id="5c9335b28e6277ddbe0137f04e5e58a7" category="list-text">分类</block>
+  <block id="337c62c6b6eb7319bae58701105e889c" category="list-text">分层</block>
+  <block id="fd75ff71faa02dfc85d4684cc9a98740" category="summary">通过BlueXP数字钱包、您可以管理直接从NetApp (BYOL)购买的用于BlueXP备份和恢复、分类和分层的许可证。您可以查看已用许可证容量、剩余的可用容量、如果达到容量限制或到期日期、您将看到通知。</block>
+  <block id="f4b04af639ebf32754e26b928989f33f" category="inline-link">为BlueXP备份和恢复设置许可</block>
+  <block id="10ec558978234bae716554274b27c5bc" category="list-text"><block ref="10ec558978234bae716554274b27c5bc" category="inline-link-rx"></block></block>
+  <block id="6212c283c0695ee1a154f1a6cdde74ef" category="inline-link">为BlueXP分类设置许可</block>
+  <block id="393acb1dea64f92d858ed4b9c5d6deda" category="list-text"><block ref="393acb1dea64f92d858ed4b9c5d6deda" category="inline-link-rx"></block></block>
+  <block id="8202299929ccdfe388049a03c2c36d60" category="inline-link">为BlueXP分层设置许可</block>
+  <block id="7446ed3e56afcef7894742c01a3465b0" category="list-text"><block ref="7446ed3e56afcef7894742c01a3465b0" category="inline-link-rx"></block></block>
+  <block id="f5b39d30a98c93c6a597de76a3901496" category="inline-image-macro">显示用于添加BYOL许可证的页面的屏幕截图。</block>
+  <block id="2ab8c9555cb0a7278c9c119126d09972" category="paragraph"><block ref="2ab8c9555cb0a7278c9c119126d09972" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8d16d75f7a68c03867a9fa6a0c1e8e53" category="paragraph">如果您的许可期限即将到期、或者您的许可容量即将达到限制、您将在BlueXP电子钱包中收到通知。您可以在许可证到期之前对其进行更新、以确保您使用BlueXP数据服务的能力不会中断。</block>
+  <block id="2778ca24e217e309a35a740dcd70d977" category="list-text">单击BlueXP右下角的聊天图标、或联系支持部门、请求延长您的期限或为特定序列号的许可证增加容量。</block>
+  <block id="1b87732cda1ee77b5952013e06e1ac10" category="paragraph">在您购买许可证并将其注册到NetApp 支持站点 之后、BlueXP会自动更新电子钱包中的许可证、并且数据服务许可证页面将在5到10分钟内反映此更改。</block>
+  <block id="d128bda2634e1051cc984231da065144" category="paragraph">BlueXP电子钱包现在支持电子邮件通知。</block>
+  <block id="016c818ed3128119f94a31cbec32bf1f" category="paragraph">查看Cloud Volumes ONTAP 基于容量的许可时、BlueXP数字钱包现在会显示您通过Marketplace Private Offers购买的许可容量。</block>
+  <block id="b3e680bd6b6b80e2fd4f5bd19f3ad015" category="paragraph">您的BlueXP PAYGO订阅和年度合同现在可通过BlueXP电子钱包进行查看和管理。</block>
+  <block id="dfc3d3012360c41f119ce032ebb3ed8b" category="paragraph">BlueXP数字钱包现在可显示帐户中Cloud Volumes ONTAP 系统的优化I/O许可包和配置WORM容量摘要。</block>
+  <block id="290fbe7a9d91cd4191566b8d26837eb2" category="paragraph">现在、将按许可包显示帐户中的总已用容量和已用容量。这有助于您了解如何为您付费以及是否需要购买额外容量。</block>
+  <block id="61589f40a840f6f60d0d36160690dc0e" category="inline-image-macro">显示基于容量的许可证页面的屏幕截图。此页面概述了您帐户中的已用容量、然后按许可包细分已用容量。</block>
+  <block id="ec263309aca016e16fe4380d1c571c9e" category="paragraph"><block ref="ec263309aca016e16fe4380d1c571c9e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="ccb04438d71ca79f2a97704ba47b5adf" category="paragraph">如果您更改了任何许可证的容量或期限，许可证期限现在将在中自动更新。您不需要自己手动更新许可证。</block>
+  <block id="682e041ff00069faf1e43f1e418221a6" category="summary">当您从云提供商的市场订阅BlueXP时、系统会将您重定向到BlueXP网站、您需要在该网站上保存订阅并将其与特定帐户关联。订阅后、您可以从BlueXP数字钱包管理每个订阅。</block>
+  <block id="65459c618528464246bc4dd16dea72ba" category="paragraph">BlueXP数字钱包提供与您的BlueXP帐户和Astra Control (Astra Control使用BlueXP的收费服务)关联的每个PAYGO订阅和年度合同的详细信息。</block>
+  <block id="69cda14c45037fc1c766e6b7626c706b" category="inline-image-macro">数字钱包中的"订阅"选项卡的屏幕截图、您可以在其中选择行尾的箭头以展开该选项卡。</block>
+  <block id="d6e80e5ccdacdc912b76ab91b58f6023" category="paragraph"><block ref="d6e80e5ccdacdc912b76ab91b58f6023" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="41f51117bfa13081af4c8a2db1a7ab58" category="list-text">如果您展开合同的详细信息、BlueXP数字钱包将显示您当前计划的可用内容：合同选项和单元(容量或节点数)。</block>
+  <block id="25b3c421a2199fb638256d316af13699" category="list-text">BlueXP数字钱包可确定结束日期以及合同是即将续订、即将结束还是已结束。</block>
+  <block id="c2e2efadf42aef45b4e8e6b176f32df0" category="paragraph">您可以通过重命名订阅并选择与订阅关联的帐户、从BlueXP数字钱包管理您的订阅。</block>
+  <block id="5a91158751eaabe4d195cd633fa37db6" category="paragraph">在电子钱包中管理基于节点的许可证、以确保每个Cloud Volumes ONTAP 系统都具有具有所需容量的有效许可证。</block>
 </blocks>
