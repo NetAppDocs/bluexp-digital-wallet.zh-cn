@@ -74,7 +74,6 @@
   <block id="98f770b0af18ca763421bac22b4b6805" category="section-title">功能</block>
   <block id="012ae05db65bea80da7b7050b5d96f9e" category="list-text">管理Cloud Volumes ONTAP 的基于容量和基于节点的许可证</block>
   <block id="62d9aca3bac1caa2d9cff120588c3e35" category="list-text">添加和管理BlueXP数据服务的许可证</block>
-  <block id="68893f701c3397a3a6f6ae5a965a7ef6" category="list-text">管理用于Cloud Volumes ONTAP 的Keystone Flex订阅并请求更改已提交容量</block>
   <block id="385b7e85ac73053263ffe4f49784da13" category="list-text">查看内部ONTAP 集群的硬件和软件合同状态信息</block>
   <block id="ea22f9957523103248d84695e98b17ba" category="section-title">支持的服务</block>
   <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="list-text">Cloud Volumes ONTAP</block>
@@ -270,8 +269,6 @@
   <block id="9d37072f5a1b76b16e647a14826ade70" category="paragraph"><block ref="9d37072f5a1b76b16e647a14826ade70" category="inline-image-macro-rx" type="image"></block></block>
   <block id="41e921305ae1b027e5d364af4a2a9df2" category="list-text">在 _Update License_ 页面中，上传许可证文件并单击 * 更新许可证 * 。</block>
   <block id="34674441113c2bf2e8f3d38a0e8276bb" category="paragraph">BlueXP会更新许可证。</block>
-  <block id="75b8c5a187d84d0b9176c9a71ca76c92" category="summary">通过数字电子钱包页面，您可以从一个位置管理 Cloud Volumes ONTAP 的许可证。您可以添加新许可证并更新现有许可证。</block>
-  <block id="46172ce69f0d69dc6b2a28ea9573950b" category="doc">管理 Keystone Flex 订阅</block>
   <block id="541be6e1dda8fc9678c974d148e15469" category="paragraph">通过启用与 Cloud Volumes ONTAP 一起使用的订阅，从数字电子钱包中管理 Keystone Flex 订阅。您还可以请求更改已提交容量，并取消订阅链接。</block>
   <block id="144db5f18aa0a48a9fe63c8b55bd0275" category="paragraph">Keystone Flex 订阅是 NetApp 提供的按需购买存储服务。</block>
   <block id="4edb70089cdbc18de22fa9ead5189bc8" category="section-title">授权您的帐户</block>
@@ -505,7 +502,6 @@
   <block id="fbf5bb26f6374732410ccc529ef29ffa" category="sidebar">管理 Cloud Volumes ONTAP 的许可证</block>
   <block id="f52ead6bbf1fb1c871d206603e5a2347" category="sidebar">基于容量的许可证</block>
   <block id="d56bf07ec8cd4e9f29339d605ffef95c" category="sidebar">基于节点的许可证</block>
-  <block id="5800a1d9dbde53529f0b345493ff9e4e" category="sidebar">管理Keystone Flex订阅</block>
   <block id="064ff692e4b4a468969f66368c68e2c8" category="sidebar">管理内部ONTAP 集群的许可证</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">知识和支持</block>
   <block id="25b1fde564bb1fc860069167d8668df6" category="sidebar">管理许可证</block>
@@ -563,4 +559,7 @@
   <block id="cf5f3091e30dee6597885d8c0e0c357f" category="list-text">期限</block>
   <block id="314c4a4eeddb6d1cd1f813b95714f7a2" category="list-text">如果您的Google Cloud订阅与某个私人优惠关联、并且该私人优惠在创建并接受后进行了修改、则该术语将显示不适用在这种情况下、我们从Google Cloud Marketplace收到的API响应不包含术语相关信息。</block>
   <block id="3b3f3f7253f4c57a7eb145d69d119e28" category="list-text">如果您有Google Cloud Private优惠、则合同选项不可用。</block>
+  <block id="885ce97feb1a2410a348b3f3764dee9d" category="list-text">管理用于Cloud Volumes ONTAP 的Keystone订阅服务、并请求更改已提交容量</block>
+  <block id="e29dbbc5408d2fe6da0ae9249031fad5" category="summary">通过启用与Cloud Volumes ONTAP 一起使用的订阅、从电子钱包管理Keystone订阅服务。您还可以请求更改已提交容量，并取消订阅链接。</block>
+  <block id="8cd29d21eeca72789ed2e573a1032dbd" category="doc">管理Keystone订阅服务</block>
 </blocks>
