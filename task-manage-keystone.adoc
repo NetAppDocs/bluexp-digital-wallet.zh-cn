@@ -14,19 +14,19 @@ summary: 通过启用与Cloud Volumes ONTAP 一起使用的订阅、从电子钱
 
 
 [role="lead"]
-通过启用与 Cloud Volumes ONTAP 一起使用的订阅，从数字电子钱包中管理 Keystone Flex 订阅。您还可以请求更改已提交容量，并取消订阅链接。
+通过启用与Cloud Volumes ONTAP 配合使用的订阅、从BlueXP数字钱包管理Keystone订阅。您还可以请求更改已提交容量，并取消订阅链接。
 
-Keystone Flex 订阅是 NetApp 提供的按需购买存储服务。
+Keystone订阅是NetApp提供的"按需购买"存储服务。
 
-通过数字电子钱包 _ ，您可以从一个位置管理 Cloud Volumes ONTAP 的许可证。您可以添加新许可证并更新现有许可证。
+通过_BlueXP数字钱包_、您可以从一个位置管理Cloud Volumes ONTAP 的许可证。您可以添加新许可证并更新现有许可证。
 
-https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/concept-licensing.html["了解有关 Cloud Volumes ONTAP 许可证的更多信息"]。
+https://["了解有关 Cloud Volumes ONTAP 许可证的更多信息"]。
 
 
 
 == 授权您的帐户
 
-在BlueXP中使用和管理Keystone Flex订阅之前、您需要联系NetApp为您的BlueXP用户帐户授予Keystone Flex订阅的权限。
+在BlueXP中使用和管理Keystone订阅之前、您需要联系NetApp、为您的BlueXP用户帐户授权Keystone订阅。
 
 .步骤
 . 从BlueXP导航菜单中、选择*监管>数字电子钱包*。
@@ -35,9 +35,9 @@ https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/concept-licensin
 +
 NetApp 代表将通过授权您的用户帐户访问订阅来处理您的请求。
 
-. 返回 * Keystone Flex 订阅 * 以查看您的订阅。
+. 返回到* Keystone订阅*查看您的订阅。
 +
-image:screenshot-keystone-overview.png["显示 Keystone Flex 订阅列表的屏幕截图。"]
+image:screenshot-keystone-overview.png["显示Keystone订阅列表的屏幕截图。"]
 
 
 
@@ -48,7 +48,7 @@ image:screenshot-keystone-overview.png["显示 Keystone Flex 订阅列表的屏�
 
 == 链接订阅
 
-在 NetApp 授权您的帐户后，您需要链接 Keystone Flex 订阅以用于 Cloud Volumes ONTAP 。通过此操作，用户可以选择订阅作为新 Cloud Volumes ONTAP 系统的收费方法。
+在NetApp授权您的帐户后、您需要链接Keystone订阅、以便用于Cloud Volumes ONTAP。通过此操作，用户可以选择订阅作为新 Cloud Volumes ONTAP 系统的收费方法。
 
 .步骤
 . 从BlueXP导航菜单中、选择*监管>数字电子钱包*。
@@ -86,7 +86,7 @@ image:screenshot-keystone-request.png["屏幕截图显示了请求更改订阅�
 
 == 取消订阅链接
 
-如果您不再希望对新的 Cloud Volumes ONTAP 系统使用 Keystone Flex 订阅，则可以取消订阅链接。请注意，您只能取消链接未附加到现有 Cloud Volumes ONTAP 订阅的订阅。
+如果您不想再对新的Cloud Volumes ONTAP 系统使用Keystone订阅、则可以取消订阅链接。请注意，您只能取消链接未附加到现有 Cloud Volumes ONTAP 订阅的订阅。
 
 .步骤
 . 从BlueXP导航菜单中、选择*监管>数字电子钱包*。
