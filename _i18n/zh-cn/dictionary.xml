@@ -549,4 +549,18 @@
   <block id="25b3c421a2199fb638256d316af13699" category="list-text">BlueXP数字钱包可确定结束日期以及合同是即将续订、即将结束还是已结束。</block>
   <block id="c2e2efadf42aef45b4e8e6b176f32df0" category="paragraph">您可以通过重命名订阅并选择与订阅关联的帐户、从BlueXP数字钱包管理您的订阅。</block>
   <block id="5a91158751eaabe4d195cd633fa37db6" category="paragraph">在电子钱包中管理基于节点的许可证、以确保每个Cloud Volumes ONTAP 系统都具有具有所需容量的有效许可证。</block>
+  <block id="71bff2737bdd059023a4784358e71a64" category="section-title">2023年5月7日</block>
+  <block id="060a6559f6065c5058aca6b22d897bce" category="section-title">Google Cloud Private优惠</block>
+  <block id="bfe876190faa5e7a4cd6d5029395b658" category="paragraph">BlueXP数字钱包现在可识别与私人优惠相关的Google Cloud Marketplace订阅、并显示订阅的结束日期和期限。通过此增强功能、您可以验证是否已成功接受此私人优惠并验证其条款。</block>
+  <block id="2cd5985150a2728c0c6295c5162b2b1d" category="section-title">充电使用情况细分</block>
+  <block id="d0f5a029263e80e902caf444fa5e9080" category="paragraph">现在、您可以了解订阅基于容量的许可证时要支付的费用。以下类型的使用情况报告可从BlueXP数字钱包下载。使用情况报告提供了您的订阅的容量详细信息、并告诉您Cloud Volumes ONTAP 订阅中的资源收费情况。可下载的报告可以轻松地与他人共享。</block>
+  <block id="ed54fb55b53f11e61f612ff99520f4bc" category="list-text">Cloud Volumes ONTAP 软件包使用情况</block>
+  <block id="160ba974abba347f5e939a1a0acd5982" category="list-text">使用情况概要</block>
+  <block id="bf951096cc9eea5fae867ec94f06dfa3" category="list-text">Storage VM使用情况</block>
+  <block id="3c5979c173a0a4fe3ff27e0e6185a693" category="list-text">卷使用量</block>
+  <block id="8156321649d649dc3e16c2849d8aa212" category="paragraph">有关详细信息，请参见 <block ref="862b3811f42dd37621050f0605c0d301" category="inline-link-macro-rx"></block>。</block>
+  <block id="76631958e748db22b905b65fb2cba5d2" category="paragraph">对于Google Cloud、您还可以识别与私人报价关联的商城订阅、从而验证您是否已成功接受该报价。</block>
+  <block id="cf5f3091e30dee6597885d8c0e0c357f" category="list-text">期限</block>
+  <block id="314c4a4eeddb6d1cd1f813b95714f7a2" category="list-text">如果您的Google Cloud订阅与某个私人优惠关联、并且该私人优惠在创建并接受后进行了修改、则该术语将显示不适用在这种情况下、我们从Google Cloud Marketplace收到的API响应不包含术语相关信息。</block>
+  <block id="3b3f3f7253f4c57a7eb145d69d119e28" category="list-text">如果您有Google Cloud Private优惠、则合同选项不可用。</block>
 </blocks>
