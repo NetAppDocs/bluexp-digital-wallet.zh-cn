@@ -19,8 +19,8 @@ summary: 您可以通过BlueXP数字电子钱包查看每个内部ONTAP 集群�
 .开始之前
 BlueXP数字电子钱包显示有关您发现为工作环境或与您添加到BlueXP的NetApp 支持站点 帐户关联的内部ONTAP 集群的详细信息。
 
-* https://["了解如何发现内部ONTAP 集群"^]
-* https://["了解如何管理与您的BlueXP帐户关联的NSS凭据"^]
+* https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["了解如何发现内部ONTAP 集群"^]
+* https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-adding-nss-accounts.html["了解如何管理与您的BlueXP帐户关联的NSS凭据"^]
 
 
 
@@ -54,7 +54,7 @@ image:screenshot_digital_wallet_license_info.png["展开集群详细信息以查
 .开始之前
 您应了解发现和管理选项(使用Connector进行发现或不使用Connector进行直接发现)以及发现要求。
 
-https://["了解发现选项和要求"^]。
+https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["了解发现选项和要求"^]。
 
 .步骤
 . 从BlueXP导航菜单中、选择*监管>数字电子钱包*。
@@ -85,6 +85,6 @@ image:screenshot_onprem_cluster.png["Canvas 中的内部 ONTAP 集群的屏幕�
 
 现在、您可以开始管理集群。
 
-* https://["了解如何管理使用Connector发现的集群"^]
-* https://["了解如何管理直接发现的集群"^]
+* https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-manage-ontap-connector.html["了解如何管理使用Connector发现的集群"^]
+* https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-manage-ontap-direct.html["了解如何管理直接发现的集群"^]
 
