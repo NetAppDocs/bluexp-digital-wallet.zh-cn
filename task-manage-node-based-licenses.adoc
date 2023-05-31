@@ -10,7 +10,7 @@ summary: 在数字电子钱包中管理基于节点的许可证，以确保每�
 :nofooter: 
 :icons: font
 :linkattrs: 
-:imagesdir: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/media/
+:imagesdir: https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/media/
 
 
 [role="lead"]
@@ -24,7 +24,7 @@ summary: 在数字电子钱包中管理基于节点的许可证，以确保每�
 
 通过_BlueXP数字钱包_、您可以从一个位置管理Cloud Volumes ONTAP 的许可证。您可以添加新许可证并更新现有许可证。
 
-https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/concept-licensing.html["了解有关 Cloud Volumes ONTAP 许可证的更多信息"]。
+https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-licensing.html["了解有关 Cloud Volumes ONTAP 许可证的更多信息"]。
 
 
 
@@ -224,10 +224,10 @@ BlueXP将启动转换过程。在此过程中， Cloud Volumes ONTAP 会自动�
 . 创建新的 Cloud Volumes ONTAP 工作环境。
 . 在系统之间为需要复制的每个卷设置一次性数据复制。
 +
-https://docs.netapp.com/us-en/cloud-manager-replication/task-replicating-data.html["了解如何在系统之间复制数据"^]
+https://docs.netapp.com/us-en/bluexp-replication/task-replicating-data.html["了解如何在系统之间复制数据"^]
 
 . 通过删除原始工作环境来终止不再需要的 Cloud Volumes ONTAP 系统。
 +
-https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/task-deleting-working-env.html["了解如何删除Cloud Volumes ONTAP 工作环境"]。
+https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-deleting-working-env.html["了解如何删除Cloud Volumes ONTAP 工作环境"]。
 
 

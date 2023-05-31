@@ -4,7 +4,6 @@
   <block id="56a50532d8da2bebb09d6190c126140c" category="doc">管理基于容量的许可证</block>
   <block id="93ed65a89f306426be7980ddc22595e8" category="paragraph">_capacity-based licenses_ 使您能够按每 TiB 容量为 Cloud Volumes ONTAP 付费。</block>
   <block id="8caaaa4afae93c31b741be21eed669cc" category="inline-link">了解有关 Cloud Volumes ONTAP 许可证的更多信息</block>
-  <block id="6e987a799bff743a20629c6963efee7e" category="paragraph"><block ref="88e663ceca138a2ba6bdf07d4cbe79f1" category="inline-link-rx"></block>。</block>
   <block id="792eeb7f686f2ad37b664f6478d40bed" category="paragraph">从NetApp销售代表购买许可证后、NetApp将向您发送一封电子邮件、其中包含序列号和其他许可详细信息。</block>
   <block id="ad0be4bc913a8026a3f5e42fc7656d23" category="inline-xref">了解如何向您的帐户添加已购买的许可证</block>
   <block id="03021ab228ad1d1c921bbf536e2913a4" category="section-title">查看帐户中的已用容量</block>
@@ -17,7 +16,6 @@
   <block id="ea7c202c277e5ccf92e08be29b4a64e9" category="list-text">在摘要下、查看每个许可包的已用容量。</block>
   <block id="af61e314a8c2484dfcfef0afc2e5b8b9" category="list-text">_consumed capacity_显示该软件包的卷容量。有关特定软件包的详细信息、请将鼠标悬停在工具提示上。</block>
   <block id="d30bc4bd5cee7ac23a1df54311d1f4b3" category="inline-link">了解Essentials软件包的收费信息</block>
-  <block id="9bb754282eec4e66c9472848d18fa68b" category="paragraph">要更好地了解Essentials软件包显示的容量、您应熟悉充电的工作原理。<block ref="e0127f60c714803ed2bb7172384e02ad" category="inline-link-rx"></block>。</block>
   <block id="cfc852810f89c13febd473e12117d828" category="list-text">_Precommitted Capacity_是您从NetApp购买的许可容量(BYOL或Marketplace合同)。</block>
   <block id="b35741916171a2b4d1210c1ccf6e3920" category="list-text">_BYOL_显示您从NetApp为此软件包类型购买的许可容量。</block>
   <block id="59bdc4172870791ff34a990174b34a66" category="list-text">_Marketplace Contracts_显示您随此软件包类型的Marketplace合同购买的许可容量。</block>
@@ -29,7 +27,6 @@
   <block id="d59db7846bd10b6d60d21543df9faa9e" category="list-title">您需要的内容</block>
   <block id="160caa44a14b9421593597c51ec2a7e8" category="list-text">您需要为BlueXP提供许可证或许可证文件的序列号。</block>
   <block id="04b14ae402c3ab4f87916eed6238424b" category="inline-link">将您的NetApp 支持站点 帐户添加到BlueXP</block>
-  <block id="93902497f86e5fd83c90ceba7ab44f98" category="list-text">如果要输入序列号，首先需要输入<block ref="2db49b408be38f7749cbd1912ff32a1f" category="inline-link-rx"></block>。这是有权访问序列号的 NetApp 支持站点帐户。</block>
   <block id="666ac747a8d5a1aa317496f8add413a6" category="list-text">在* Cloud Volumes ONTAP 基于容量的许可证*选项卡上、保持选中状态、然后单击*添加许可证*。</block>
   <block id="5c55b043854250a04085395d6b5a3a9d" category="list-text">输入基于容量的许可证的序列号或上传许可证文件。</block>
   <block id="204d2b4625a88f2700ea6c08a4f85014" category="paragraph">如果您输入了序列号，则还需要选择有权访问此序列号的 NetApp 支持站点帐户。</block>
@@ -71,11 +68,8 @@
   <block id="0375f4855be072c7d856a0233cc21de9" category="section-title">支持云提供商解决方案</block>
   <block id="be845c219bb74b14349ffa6e27e7aef3" category="paragraph">有关已集成到BlueXP中的以下云提供商解决方案的技术支持、请参阅该产品的BlueXP文档中的"获得帮助"。</block>
   <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">适用于 ONTAP 的 Amazon FSX</block>
-  <block id="5bf5309465f91318228a7f956b826348" category="list-text"><block ref="5bf5309465f91318228a7f956b826348" category="inline-link-macro-rx"></block></block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="inline-link-macro">Azure NetApp Files</block>
-  <block id="0e2bc9c853e0af52ead12823c025e58b" category="list-text"><block ref="0e2bc9c853e0af52ead12823c025e58b" category="inline-link-macro-rx"></block></block>
   <block id="b0cee72642f5457a71ddd0b49efb6d93" category="inline-link-macro">适用于 Google Cloud 的 Cloud Volumes Service</block>
-  <block id="02efcbea18b9485a78a41871dce1e64d" category="list-text"><block ref="02efcbea18b9485a78a41871dce1e64d" category="inline-link-macro-rx"></block></block>
   <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">支持注册概述</block>
   <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">激活支持授权有两种形式的注册：</block>
   <block id="2322ca552c2b0ebe090c8485519246a8" category="list-text">注册您的BlueXP帐户ID支持订阅(您的20位960xxxxxxxxx序列号、位于BlueXP的支持资源页面上)。</block>
@@ -98,7 +92,6 @@
   <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">如果您拥有合作伙伴或经销商帐户、则可以添加一个或多个NSS帐户、但不能将其与客户级别的帐户同时添加。</block>
   <block id="1afe19576f77bb0073c93359ed2cbb18" category="list-text">在BlueXP控制台的右上角、单击帮助图标、然后选择*支持*。</block>
   <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">帮助菜单的屏幕截图，其中列出的第一个选项为支持</block>
-  <block id="868d9aa88f16ea923af1d15eac5d2647" category="paragraph"><block ref="868d9aa88f16ea923af1d15eac5d2647" category="inline-image-macro-rx" type="image"></block></block>
   <block id="d17d6b5dafebab6b7659da8850737e70" category="list-text">单击 * NSS 管理 &gt; 添加 NSS 帐户 * 。</block>
   <block id="8aaf101e623c543c7eef3c65f6233366" category="list-text">出现提示时，单击 * 继续 * 以重定向到 Microsoft 登录页面。</block>
   <block id="19d089db572ee6a1e154a0c9c9e57bfd" category="paragraph">NetApp 使用 Microsoft Azure Active Directory 作为身份提供程序来提供特定于支持和许可的身份验证服务。</block>
@@ -111,8 +104,6 @@
   <block id="a04a3a5322782e8c18d0d64be7e1ccbc" category="paragraph">如果您已有客户级别的NSS帐户、并尝试添加合作伙伴级别的帐户、则也是如此。</block>
   <block id="1afe8a81cfddc9fa9559e272bb6b9496" category="list-text">成功登录后、NetApp将存储NSS用户名。</block>
   <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">由三个水平点组成的图标</block>
-  <block id="452cd4df7b0d5eb1156519a2f3b0206b" category="paragraph">这是系统生成的ID、映射到您的电子邮件。在* NSS Management*页面上、您可以从显示电子邮件 <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> 菜单。</block>
-  <block id="fd02e84624a2fdfd58787131aa2820b5" category="list-text">如果您需要刷新登录凭据令牌、则中还会提供一个*更新凭据*选项 <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> 菜单。</block>
   <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">使用此选项将提示您重新登录。请注意、这些帐户的令牌将在90天后过期。系统将发布通知、提醒您注意这一点。</block>
   <block id="ad56c7289bc13dcf4f78c285f7f03878" category="section-title">向NetApp注册</block>
   <block id="f1bac79c2c71fbd93863b9fbd718094c" category="paragraph">如何注册NetApp支持取决于您是否已拥有NetApp 支持站点 (NSS)帐户。</block>
@@ -121,7 +112,6 @@
   <block id="25b94e7b58140f12be91fa8fd935fa59" category="list-text">如果您尚未将NSS帐户添加到BlueXP、请执行此操作。</block>
   <block id="819aff12752b7e6a1828e755c7664de7" category="list-text">在*资源*页面上、单击*注册支持*。</block>
   <block id="e8a3d9970b8fc1d92caaf33d9e116bd4" category="inline-image-macro">显示帐户序列号和注册支持选项的屏幕截图</block>
-  <block id="113f9cd7bac6f4faa6b8d58e3e099a8e" category="paragraph"><block ref="113f9cd7bac6f4faa6b8d58e3e099a8e" category="inline-image-macro-rx" type="image"></block></block>
   <block id="1ff5aefce774ec72a211f2b3bb10b950" category="section-title">现有客户、但无NSS帐户</block>
   <block id="cc1d3c161bcf25e6445c2fc771647849" category="paragraph">如果您是现有的NetApp客户、拥有现有许可证和序列号、但拥有_no_ NSS帐户、则只需创建一个NSS帐户即可。</block>
   <block id="5b2b7f628f804bcb786a097c7e45aa41" category="inline-link">NetApp 支持站点 用户注册表</block>
@@ -131,7 +121,6 @@
   <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">NetApp的新品牌</block>
   <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">如果您是NetApp的新客户、并且没有NSS帐户、请按照以下每个步骤进行操作。</block>
   <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">从支持注册页面找到您的帐户ID序列号。</block>
-  <block id="ef5e63bb6b6827440a13cc2ec7e9cf56" category="paragraph"><block ref="ef5e63bb6b6827440a13cc2ec7e9cf56" category="inline-image-macro-rx" type="image"></block></block>
   <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">NetApp的支持注册站点</block>
   <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">导航到<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block> 并选择*我不是NetApp注册客户*。</block>
   <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">填写必填字段(带有红色星号的字段)。</block>
@@ -180,7 +169,6 @@
   <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*附件(可选)*：一次最多上传五个附件。</block>
   <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">每个文件的附件数限制为25 MB。支持以下文件扩展名：txt、log、pdf、jp6/jpeu、rtf、 doc/docx、xls/xlsx和csv。</block>
   <block id="baaf0e61add7d12cf8d12e023d5aef18" category="inline-image-macro">创建案例表的屏幕截图、可用于向NetApp支持部门创建案例。</block>
-  <block id="a2ff30886e1baf1e7d5045b5fc24f5b9" category="paragraph"><block ref="a2ff30886e1baf1e7d5045b5fc24f5b9" category="inline-image-macro-rx" type="image"></block></block>
   <block id="18f487556417bb6d9721a7005ae097c9" category="paragraph">此时将显示一个弹出窗口、其中包含您的支持案例编号。NetApp支持专家将审核您的案例、并尽快与您联系。</block>
   <block id="04e15da1deae9568b4dcda64fbb0c8d5" category="paragraph">有关支持案例的历史记录、您可以单击*设置&gt;时间线*并查找名为"创建支持案例"的操作。 最右侧的按钮可用于展开操作以查看详细信息。</block>
   <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">尝试创建案例时、您可能会遇到以下错误消息：</block>
@@ -205,21 +193,15 @@
   <block id="27635a52fe4c34c39ffc6430f4244ec6" category="list-text">在*组织的案例*下、单击*查看*以查看与您的公司关联的所有案例。</block>
   <block id="059e856250b59be3069246887b74a23c" category="list-text">通过选择确切的日期范围或选择其他时间范围来修改日期范围。</block>
   <block id="dfb3764bce2548df4e06357403f9c7d0" category="inline-image-macro">案例管理页面上表上方选项的屏幕截图、可用于选择确切的日期范围或过去7天、30天或3个月。</block>
-  <block id="7fcba8aeefa9960d3fc3fa08b360ba2e" category="paragraph"><block ref="7fcba8aeefa9960d3fc3fa08b360ba2e" category="inline-image-macro-rx" type="image"></block></block>
   <block id="a1bb576be9e5a356290f231efb51b3f5" category="list-text">筛选列的内容。</block>
   <block id="3753f10a59e21f58b30e3e67d416453e" category="inline-image-macro">"状态"列中筛选选项的屏幕截图、可用于筛选与特定状态(如"活动"或"已关闭")匹配的案例。</block>
-  <block id="37709be3a43df07d5975287545d0ba12" category="paragraph"><block ref="37709be3a43df07d5975287545d0ba12" category="inline-image-macro-rx" type="image"></block></block>
   <block id="1c6ea5ef583389e18e7d7bda70beaa71" category="inline-image-macro">表中显示的加号图标</block>
-  <block id="1614dc8e47c0492434152c990d6c1040" category="list-text">通过单击更改表中显示的列 <block ref="effeab06130cddc8360822b2b706805b" category="inline-image-macro-rx" type="image"></block> 然后选择要显示的列。</block>
   <block id="370b44009f1b82d0b6b178bb80cc62fa" category="inline-image-macro">显示可在表中显示的列的屏幕截图。</block>
-  <block id="5de408d7cbad49634fb25f9047498132" category="paragraph"><block ref="5de408d7cbad49634fb25f9047498132" category="inline-image-macro-rx" type="image"></block></block>
   <block id="ad0ae9ea1f2e8d973a9a0f6bb169f494" category="inline-image-macro">包含三个点的图标、显示在表的最后一列中</block>
-  <block id="98efef1c8a47ed5791b41944e8ff4ec2" category="list-text">单击以管理现有案例 <block ref="a0b152b50a56901a75affebabc26ed61" category="inline-image-macro-rx" type="image"></block> 并选择一个可用选项：</block>
   <block id="6d9dd74e7709ef802d299966f7898f6b" category="list-text">*查看案例*：查看有关特定案例的完整详细信息。</block>
   <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*更新案例注释*：提供有关您的问题的更多详细信息、或者选择*上传文件*最多附加五个文件。</block>
   <block id="f791bc685c526af8296381acff10f6a0" category="list-text">*关闭案例*：提供关闭案例的详细信息、然后单击*关闭案例*。</block>
   <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">屏幕截图、显示在表的最后一列中选择菜单后可以执行的操作。</block>
-  <block id="e9a5c374fb47ed2ae5cc6108fb36d829" category="paragraph"><block ref="e9a5c374fb47ed2ae5cc6108fb36d829" category="inline-image-macro-rx" type="image"></block></block>
   <block id="e9598339aeb07702e2b24ef63fca36cc" category="doc">管理BlueXP数据服务的许可证</block>
   <block id="9733849463a86c6a043ab58c8ddf1ac4" category="paragraph">此页面上的说明提供了有关适用场景 每个服务的信息。有关这些服务的许可的更多具体信息、请参见以下页面：</block>
   <block id="73acd586df3bf9938d39f0e738d5c161" category="section-title">获取许可证文件</block>
@@ -240,7 +222,6 @@
   <block id="c1b2dc0798d3960e25b8a12c751f53ec" category="list-text">在 _Add License_ 对话框中，输入许可证信息并单击 * 添加许可证 * ：</block>
   <block id="929bfeada83228e2a76020a5050a605e" category="list-text">如果您知道序列号并知道您的NSS帐户、请选择*输入序列号*选项并输入该信息。</block>
   <block id="bae190eec3db4a0dd635ae72756acde8" category="inline-link">将NSS帐户添加到BlueXP</block>
-  <block id="3a7d2aab6d3f158a52978777da89804f" category="paragraph">如果下拉列表中没有您的 NetApp 支持站点帐户，<block ref="6d9745cd4f1d60b55f06aef4c5cb6ec4" category="inline-link-rx"></block></block>
   <block id="6e2573cea3af840a0c24f94975047370" category="list-text">如果您有许可证文件(在专用模式下使用BlueXP时需要此文件)、请选择*上传许可证文件*选项、然后按照提示附加此文件。</block>
   <block id="9f7100a1f5980a935ee73427b4e84228" category="paragraph">BlueXP添加了许可证。</block>
   <block id="6c1c5737355a8b30e87ad5d7c6da9553" category="section-title">更新许可证</block>
@@ -284,7 +265,6 @@
   <block id="a67ce68ccac082ad54a552bdbcb6ecd7" category="section-title">电子邮件通知</block>
   <block id="380d0a0b2cec998dcd9f52b91b24304c" category="paragraph">如果您配置了通知设置、则在BYOL许可证即将过期("警告"通知)或已过期("错误"通知)时、您可以收到电子邮件通知。</block>
   <block id="335e7f21f0fdfecbe9c04540dcb8cdd6" category="inline-link">了解如何设置电子邮件通知</block>
-  <block id="497d867daded8927a3cf934337006373" category="paragraph"><block ref="497d867daded8927a3cf934337006373" category="inline-link-rx"></block></block>
   <block id="164bf9dea8d8396a2e7501258b908616" category="section-title">市场订阅的许可容量</block>
   <block id="207aaa44f72ba634c18fcc9bae44d655" category="inline-link">了解如何查看帐户中的已用容量</block>
   <block id="1e9f781ad3dabc2f942313854ce94883" category="paragraph"><block ref="bcd8bf14da5e102dbc4b48dd0870869e" category="inline-link-rx"></block>。</block>
@@ -316,9 +296,7 @@
   <block id="135b308ed83c53f1516b7c754566d1c4" category="paragraph-title">开始之前</block>
   <block id="2b474be1d4faf7d5e70a3977fa183a0a" category="paragraph">BlueXP数字电子钱包显示有关您发现为工作环境或与您添加到BlueXP的NetApp 支持站点 帐户关联的内部ONTAP 集群的详细信息。</block>
   <block id="422bab6ebf30e7a3f981f61427aaba19" category="inline-link">了解如何发现内部ONTAP 集群</block>
-  <block id="ee77aca075c41e33c626b202c8aa8b8d" category="list-text"><block ref="ee77aca075c41e33c626b202c8aa8b8d" category="inline-link-rx"></block></block>
   <block id="9f7c8fad2f6cbf64994a97a18db097a3" category="inline-link">了解如何管理与您的BlueXP帐户关联的NSS凭据</block>
-  <block id="de45514bc9fd0b9604aa1c860a077256" category="list-text"><block ref="de45514bc9fd0b9604aa1c860a077256" category="inline-link-rx"></block></block>
   <block id="4bbcdd6338e8631576e63f1156b1c51d" category="section-title">查看集群信息和合同详细信息</block>
   <block id="dfaa8df1d6444411a1429b0866742025" category="paragraph">查看内部ONTAP 集群的硬件和软件合同状态、以便您可以在这些合同到期之前进行续订。</block>
   <block id="e65135bd79d15db91bec6c98a9f8dabe" category="list-text">选择*内部部署ONTAP *。</block>
@@ -333,7 +311,6 @@
   <block id="ab395f2156c2b2dd069758d285bf1831" category="paragraph">如果您尚未发现内部ONTAP 集群是一个工作环境、可以从BlueXP数字电子钱包中执行此操作。发现集群后、它将在BlueXP中用作工作环境、以便于您对其进行管理。</block>
   <block id="e2a716542f109d4a2fb34f69a07f4989" category="paragraph">您应了解发现和管理选项(使用Connector进行发现或不使用Connector进行直接发现)以及发现要求。</block>
   <block id="01b0421859ec2fed2ce4dff333e190ee" category="inline-link">了解发现选项和要求</block>
-  <block id="8728d93a5567e0ffeed42f1c7696c10e" category="paragraph"><block ref="c87751a78e1ec3740ccd8d6a5b7bbdf4" category="inline-link-rx"></block>。</block>
   <block id="705316ae4d75d35f1e961cab58a5d5df" category="inline-image-macro">内部 ONTAP 集群的 " 数字电子钱包 " 页面的屏幕截图。</block>
   <block id="7d584a90892954972995f98a62f03440" category="paragraph"><block ref="7d584a90892954972995f98a62f03440" category="inline-image-macro-rx" type="image"></block></block>
   <block id="e3c5f2c16e01a4bb5b1747361f4b1fdf" category="paragraph">此时、您的ONTAP 集群将显示一个状态、指示它们是否已在BlueXP中被发现。</block>
@@ -347,9 +324,7 @@
   <block id="55b907f18f62b7afccbe773678898915" category="paragraph"><block ref="55b907f18f62b7afccbe773678898915" category="inline-image-macro-rx" type="image"></block></block>
   <block id="d123a6bdeb75e456b3adf0e79646234d" category="paragraph">现在、您可以开始管理集群。</block>
   <block id="b1f50daaafce361695fc65132af507a0" category="inline-link">了解如何管理使用Connector发现的集群</block>
-  <block id="2b3c797a98693bc95eb014beb60621b8" category="list-text"><block ref="2b3c797a98693bc95eb014beb60621b8" category="inline-link-rx"></block></block>
   <block id="299867ed6070a6cda18ae92e5d434213" category="inline-link">了解如何管理直接发现的集群</block>
-  <block id="99d7f3ff9fb7308bda3abc7d58891657" category="list-text"><block ref="99d7f3ff9fb7308bda3abc7d58891657" category="inline-link-rx"></block></block>
   <block id="b01b1be092b95233172f870dc729234b" category="doc">管理PAYGO订阅和合同</block>
   <block id="e858f445394700e621aa67dd8e3fe958" category="section-title">查看您的订阅</block>
   <block id="8c3682e85d7f4dbe8a46485082335dec" category="list-text">选择*订阅*。</block>
@@ -447,10 +422,8 @@
   <block id="7f7c7e70efe0e6e29f5d0b207145f30e" category="list-text">创建新的 Cloud Volumes ONTAP 工作环境。</block>
   <block id="9bd20ffd5e91ec2bb61bc593be38bb13" category="list-text">在系统之间为需要复制的每个卷设置一次性数据复制。</block>
   <block id="95b10ad2ca24b4c8bd5673b7383531a2" category="inline-link">了解如何在系统之间复制数据</block>
-  <block id="0f1f7d0cff1734f943c2503c9febec73" category="paragraph"><block ref="0f1f7d0cff1734f943c2503c9febec73" category="inline-link-rx"></block></block>
   <block id="2dd15870a87ceaf45f31f08d066afaeb" category="list-text">通过删除原始工作环境来终止不再需要的 Cloud Volumes ONTAP 系统。</block>
   <block id="2464ba8f7f97ce117f749b75a1c60906" category="inline-link">了解如何删除Cloud Volumes ONTAP 工作环境</block>
-  <block id="180b09672bfae24bd56a0aee5f3b1b2b" category="paragraph"><block ref="a9e2b0598eacf571f92143c75c6c24a3" category="inline-link-rx"></block>。</block>
   <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">法律声明</block>
   <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="paragraph">法律声明提供对版权声明、商标、专利等的访问。</block>
   <block id="6016a2b341113bf496b719905398ecd2" category="section-title">版权</block>
@@ -466,7 +439,6 @@
   <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">开放源代码</block>
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">通知文件提供有关 NetApp 软件中使用的第三方版权和许可证的信息。</block>
   <block id="c95623cd0395d5a6bb6105b9d32f197b" category="inline-link">BlueXP通知</block>
-  <block id="e8a6d0f19a957eac14b9917a6c92899b" category="paragraph"><block ref="e8a6d0f19a957eac14b9917a6c92899b" category="inline-link-rx"></block></block>
   <block id="fa368619230133ce62a5c22840714a1d" category="sidebar">BlueXP数字电子钱包文档</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">发行说明</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">入门</block>
@@ -491,11 +463,8 @@
   <block id="337c62c6b6eb7319bae58701105e889c" category="list-text">分层</block>
   <block id="fd75ff71faa02dfc85d4684cc9a98740" category="summary">通过BlueXP数字钱包、您可以管理直接从NetApp (BYOL)购买的用于BlueXP备份和恢复、分类和分层的许可证。您可以查看已用许可证容量、剩余的可用容量、如果达到容量限制或到期日期、您将看到通知。</block>
   <block id="f4b04af639ebf32754e26b928989f33f" category="inline-link">为BlueXP备份和恢复设置许可</block>
-  <block id="10ec558978234bae716554274b27c5bc" category="list-text"><block ref="10ec558978234bae716554274b27c5bc" category="inline-link-rx"></block></block>
   <block id="6212c283c0695ee1a154f1a6cdde74ef" category="inline-link">为BlueXP分类设置许可</block>
-  <block id="393acb1dea64f92d858ed4b9c5d6deda" category="list-text"><block ref="393acb1dea64f92d858ed4b9c5d6deda" category="inline-link-rx"></block></block>
   <block id="8202299929ccdfe388049a03c2c36d60" category="inline-link">为BlueXP分层设置许可</block>
-  <block id="7446ed3e56afcef7894742c01a3465b0" category="list-text"><block ref="7446ed3e56afcef7894742c01a3465b0" category="inline-link-rx"></block></block>
   <block id="f5b39d30a98c93c6a597de76a3901496" category="inline-image-macro">显示用于添加BYOL许可证的页面的屏幕截图。</block>
   <block id="2ab8c9555cb0a7278c9c119126d09972" category="paragraph"><block ref="2ab8c9555cb0a7278c9c119126d09972" category="inline-image-macro-rx" type="image"></block></block>
   <block id="8d16d75f7a68c03867a9fa6a0c1e8e53" category="paragraph">如果您的许可期限即将到期、或者您的许可容量即将达到限制、您将在BlueXP电子钱包中收到通知。您可以在许可证到期之前对其进行更新、以确保您使用BlueXP数据服务的能力不会中断。</block>
@@ -507,7 +476,6 @@
   <block id="dfc3d3012360c41f119ce032ebb3ed8b" category="paragraph">BlueXP数字钱包现在可显示帐户中Cloud Volumes ONTAP 系统的优化I/O许可包和配置WORM容量摘要。</block>
   <block id="290fbe7a9d91cd4191566b8d26837eb2" category="paragraph">现在、将按许可包显示帐户中的总已用容量和已用容量。这有助于您了解如何为您付费以及是否需要购买额外容量。</block>
   <block id="61589f40a840f6f60d0d36160690dc0e" category="inline-image-macro">显示基于容量的许可证页面的屏幕截图。此页面概述了您帐户中的已用容量、然后按许可包细分已用容量。</block>
-  <block id="ec263309aca016e16fe4380d1c571c9e" category="paragraph"><block ref="ec263309aca016e16fe4380d1c571c9e" category="inline-image-macro-rx" type="image"></block></block>
   <block id="ccb04438d71ca79f2a97704ba47b5adf" category="paragraph">如果您更改了任何许可证的容量或期限，许可证期限现在将在中自动更新。您不需要自己手动更新许可证。</block>
   <block id="682e041ff00069faf1e43f1e418221a6" category="summary">当您从云提供商的市场订阅BlueXP时、系统会将您重定向到BlueXP网站、您需要在该网站上保存订阅并将其与特定帐户关联。订阅后、您可以从BlueXP数字钱包管理每个订阅。</block>
   <block id="65459c618528464246bc4dd16dea72ba" category="paragraph">BlueXP数字钱包提供与您的BlueXP帐户和Astra Control (Astra Control使用BlueXP的收费服务)关联的每个PAYGO订阅和年度合同的详细信息。</block>
@@ -596,4 +564,36 @@
   <block id="b7553c7fbdeaddba3cf075caca1654ea" category="paragraph">将基于节点的许可证添加到BlueXP数字工具包中、以便在创建新的Cloud Volumes ONTAP 系统时选择此许可证。电子钱包将这些许可证标识为_UNASSERUDE_。</block>
   <block id="5fd0d116f88accf7d18b80d146d87953" category="paragraph">BlueXP将许可证添加到电子钱包中。在将许可证与新的 Cloud Volumes ONTAP 系统关联之前，此许可证将被标识为未分配。之后，许可证将移至数字钱包中的*BYOL*选项卡。</block>
   <block id="637413a6c4ca962adade95ae4bcc1109" category="paragraph">如果您尚未使用Cloud Volumes ONTAP 的基于节点的未分配许可证、则可以通过将其转换为BlueXP备份和恢复许可证、BlueXP分类许可证或BlueXP分层许可证来交换此许可证。</block>
+  <block id="0f4ae6c1e816f147fccc8581ff8c2356" category="list-text"><block ref="0f4ae6c1e816f147fccc8581ff8c2356" category="inline-link-rx"></block></block>
+  <block id="e1e4c9b6f29f234db0d1d3981bd24dab" category="list-text"><block ref="e1e4c9b6f29f234db0d1d3981bd24dab" category="inline-link-rx"></block></block>
+  <block id="417c925b54c33cc7099af481238f8dde" category="list-text"><block ref="417c925b54c33cc7099af481238f8dde" category="inline-link-rx"></block></block>
+  <block id="33d6a436af3ae3b14d8c7687f2687c5c" category="paragraph">如果下拉列表中没有您的 NetApp 支持站点帐户，<block ref="06a3bc9d474b5d4e44d1a2733cac785a" category="inline-link-rx"></block></block>
+  <block id="25e7b507c919c21847b291c84a88ba36" category="paragraph"><block ref="73e1a6a2075a5d292111b694a644abf3" category="inline-link-rx"></block>。</block>
+  <block id="b2678f2b003e23f7f5f3a7cd8451a26b" category="paragraph">要更好地了解Essentials软件包显示的容量、您应熟悉充电的工作原理。<block ref="8d04d0643798fbb69d5260f477ea213c" category="inline-link-rx"></block>。</block>
+  <block id="fa4ae0264bd8c2dfafbe1d03e4bc2b9a" category="list-text">如果要输入序列号，首先需要输入<block ref="c7616a3371ef10b7d4b9bba9548cea1f" category="inline-link-rx"></block>。这是有权访问序列号的 NetApp 支持站点帐户。</block>
+  <block id="52ba8ac12050d2494572b940a0d65b25" category="paragraph"><block ref="52ba8ac12050d2494572b940a0d65b25" category="inline-link-rx"></block></block>
+  <block id="9d06990508d25d367d9158c6558eb9c8" category="list-text"><block ref="9d06990508d25d367d9158c6558eb9c8" category="inline-link-macro-rx"></block></block>
+  <block id="2e0c742f4616eb27b5b7646aa790edfe" category="list-text"><block ref="2e0c742f4616eb27b5b7646aa790edfe" category="inline-link-macro-rx"></block></block>
+  <block id="cf14bff66a8b72d3675db8ffe0f02ee3" category="list-text"><block ref="cf14bff66a8b72d3675db8ffe0f02ee3" category="inline-link-macro-rx"></block></block>
+  <block id="e8d4092baef6680c6a35d5228ae31de2" category="paragraph"><block ref="e8d4092baef6680c6a35d5228ae31de2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0dfcbbbe02d3e96f8ad78782e8772587" category="paragraph">这是系统生成的ID、映射到您的电子邮件。在* NSS Management*页面上、您可以从显示电子邮件 <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> 菜单。</block>
+  <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">如果您需要刷新登录凭据令牌、则中还会提供一个*更新凭据*选项 <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> 菜单。</block>
+  <block id="1bb5620ed3998fd776980cad36e22c9a" category="paragraph"><block ref="1bb5620ed3998fd776980cad36e22c9a" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="379f9cd57d97013f3f7fdd24f692a0b1" category="paragraph"><block ref="379f9cd57d97013f3f7fdd24f692a0b1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="b23696557397783ca9c44bd2c80b335d" category="list-text"><block ref="b23696557397783ca9c44bd2c80b335d" category="inline-link-rx"></block></block>
+  <block id="e60eaacf5c9817a22b4cc8e32d3e60ca" category="list-text"><block ref="e60eaacf5c9817a22b4cc8e32d3e60ca" category="inline-link-rx"></block></block>
+  <block id="da810fa51a2b9119147838a70412015f" category="paragraph"><block ref="a07feb0a336d59a2369adfa9ca88e728" category="inline-link-rx"></block>。</block>
+  <block id="b4fa3d19dea2a10db131d6dd7f714436" category="list-text"><block ref="b4fa3d19dea2a10db131d6dd7f714436" category="inline-link-rx"></block></block>
+  <block id="e82c60430ac236acfc954acd22ea737d" category="list-text"><block ref="e82c60430ac236acfc954acd22ea737d" category="inline-link-rx"></block></block>
+  <block id="6908c55ed2597c0891f949ee4c49f1df" category="paragraph"><block ref="6908c55ed2597c0891f949ee4c49f1df" category="inline-link-rx"></block></block>
+  <block id="4b661d618c68b40651187ff1169d6947" category="paragraph"><block ref="4b661d618c68b40651187ff1169d6947" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="882d5f98206dd8157654127073c920f2" category="paragraph"><block ref="882d5f98206dd8157654127073c920f2" category="inline-link-rx"></block></block>
+  <block id="f870932f389b07a18c35e61ebc668c91" category="paragraph"><block ref="161ab28684c427e4961f0c360c1dbce7" category="inline-link-rx"></block>。</block>
+  <block id="509259be6d5e15d8959f705cbe0cbcc1" category="paragraph"><block ref="509259be6d5e15d8959f705cbe0cbcc1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0972db30d942fdb65d1732e6e84bde99" category="paragraph"><block ref="0972db30d942fdb65d1732e6e84bde99" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="cb6a777dd3c6e43b0dc441d38519d219" category="paragraph"><block ref="cb6a777dd3c6e43b0dc441d38519d219" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0f6cac2f77150840994f84044fc1b12b" category="list-text">通过单击更改表中显示的列 <block ref="b574dd55d604ddb721d869a0fc302007" category="inline-image-macro-rx" type="image"></block> 然后选择要显示的列。</block>
+  <block id="e65065c4fd326b9f3a1eeb9453c30d73" category="paragraph"><block ref="e65065c4fd326b9f3a1eeb9453c30d73" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6ba7d68d8b3ef0f3398afb9d3ea96172" category="list-text">单击以管理现有案例 <block ref="566c029d89e7d5421080767a37bf443e" category="inline-image-macro-rx" type="image"></block> 并选择一个可用选项：</block>
+  <block id="2ea260929e27ffcb623c8aa35689bd18" category="paragraph"><block ref="2ea260929e27ffcb623c8aa35689bd18" category="inline-image-macro-rx" type="image"></block></block>
 </blocks>

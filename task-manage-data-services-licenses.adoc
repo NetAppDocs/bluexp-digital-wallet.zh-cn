@@ -10,7 +10,7 @@ summary: '通过BlueXP数字钱包、您可以管理直接从NetApp (BYOL)购买
 :nofooter: 
 :icons: font
 :linkattrs: 
-:imagesdir: https://docs.netapp.com/us-en/cloud-manager-backup-restore/media/
+:imagesdir: https://docs.netapp.com/us-en/bluexp-backup-recovery/media/
 
 
 [role="lead"]
@@ -18,9 +18,9 @@ summary: '通过BlueXP数字钱包、您可以管理直接从NetApp (BYOL)购买
 
 此页面上的说明提供了有关适用场景 每个服务的信息。有关这些服务的许可的更多具体信息、请参见以下页面：
 
-* https://docs.netapp.com/us-en/cloud-manager-backup-restore/task-licensing-cloud-backup.html["为BlueXP备份和恢复设置许可"^]
-* https://docs.netapp.com/us-en/cloud-manager-data-sense/task-licensing-datasense.html["为BlueXP分类设置许可"^]
-* https://docs.netapp.com/us-en/cloud-manager-tiering/task-licensing-cloud-tiering.html["为BlueXP分层设置许可"^]
+* https://docs.netapp.com/us-en/bluexp-backup-recovery/task-licensing-cloud-backup.html["为BlueXP备份和恢复设置许可"^]
+* https://docs.netapp.com/us-en/bluexp-classification/task-licensing-datasense.html["为BlueXP分类设置许可"^]
+* https://docs.netapp.com/us-en/bluexp-tiering/task-licensing-cloud-tiering.html["为BlueXP分层设置许可"^]
 
 
 
@@ -58,7 +58,7 @@ image:screenshot_cloud_backup_license_step2.gif["屏幕截图显示了获取许�
 +
 ** 如果您知道序列号并知道您的NSS帐户、请选择*输入序列号*选项并输入该信息。
 +
-如果下拉列表中没有您的 NetApp 支持站点帐户， https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-adding-nss-accounts.html["将NSS帐户添加到BlueXP"^]
+如果下拉列表中没有您的 NetApp 支持站点帐户， https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["将NSS帐户添加到BlueXP"^]
 
 ** 如果您有许可证文件(在专用模式下使用BlueXP时需要此文件)、请选择*上传许可证文件*选项、然后按照提示附加此文件。
 +

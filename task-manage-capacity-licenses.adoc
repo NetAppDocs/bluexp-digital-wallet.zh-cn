@@ -10,7 +10,7 @@ summary: 从数字电子钱包中管理基于容量的许可证，以确保您�
 :nofooter: 
 :icons: font
 :linkattrs: 
-:imagesdir: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/media/
+:imagesdir: https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/media/
 
 
 [role="lead"]
@@ -20,7 +20,7 @@ _capacity-based licenses_ 使您能够按每 TiB 容量为 Cloud Volumes ONTAP �
 
 通过_BlueXP数字钱包_、您可以从一个位置管理Cloud Volumes ONTAP 的许可证。您可以添加新许可证并更新现有许可证。
 
-https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/concept-licensing.html["了解有关 Cloud Volumes ONTAP 许可证的更多信息"]。
+https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-licensing.html["了解有关 Cloud Volumes ONTAP 许可证的更多信息"]。
 
 
 
@@ -58,7 +58,7 @@ image:screenshot_capacity-based-licenses.png["显示Cloud Volumes ONTAP 软件�
 +
 ** _consumed capacity_显示该软件包的卷容量。有关特定软件包的详细信息、请将鼠标悬停在工具提示上。
 +
-要更好地了解Essentials软件包显示的容量、您应熟悉充电的工作原理。 https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/concept-licensing.html#notes-about-charging["了解Essentials软件包的收费信息"]。
+要更好地了解Essentials软件包显示的容量、您应熟悉充电的工作原理。 https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-licensing.html#notes-about-charging["了解Essentials软件包的收费信息"]。
 
 ** _Precommitted Capacity_是您从NetApp购买的许可容量(BYOL或Marketplace合同)。
 +
@@ -152,7 +152,7 @@ NOTE: 此报告不包括FlexClone卷、因为这些类型的卷不会产生费�
 
 .您需要的内容
 * 您需要为BlueXP提供许可证或许可证文件的序列号。
-* 如果要输入序列号，首先需要输入 https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-adding-nss-accounts.html["将您的NetApp 支持站点 帐户添加到BlueXP"^]。这是有权访问序列号的 NetApp 支持站点帐户。
+* 如果要输入序列号，首先需要输入 https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["将您的NetApp 支持站点 帐户添加到BlueXP"^]。这是有权访问序列号的 NetApp 支持站点帐户。
 
 
 .步骤

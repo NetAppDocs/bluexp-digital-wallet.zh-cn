@@ -52,7 +52,7 @@ BlueXP电子钱包现在支持电子邮件通知。
 
 如果您配置了通知设置、则在BYOL许可证即将过期("警告"通知)或已过期("错误"通知)时、您可以收到电子邮件通知。
 
-https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-monitor-cm-operations.html["了解如何设置电子邮件通知"^]
+https://docs.netapp.com/us-en/bluexp-setup-admin/task-monitor-cm-operations.html["了解如何设置电子邮件通知"^]
 
 
 
@@ -110,7 +110,7 @@ https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-capacity-license
 
 现在、将按许可包显示帐户中的总已用容量和已用容量。这有助于您了解如何为您付费以及是否需要购买额外容量。
 
-image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/media/screenshot-digital-wallet-summary.png["显示基于容量的许可证页面的屏幕截图。此页面概述了您帐户中的已用容量、然后按许可包细分已用容量。"]
+image:https://raw.githubusercontent.com/NetAppDocs/bluexp-cloud-volumes-ontap/main/media/screenshot-digital-wallet-summary.png["显示基于容量的许可证页面的屏幕截图。此页面概述了您帐户中的已用容量、然后按许可包细分已用容量。"]
 
 
 
