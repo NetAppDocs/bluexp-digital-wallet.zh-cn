@@ -30,18 +30,18 @@ summary: '通过BlueXP数字钱包、您可以管理直接从NetApp (BYOL)购买
 购买许可证后、您可以通过输入序列号和NSS帐户或上传NetApp许可证文件(NLF)在BlueXP中激活许可证。以下步骤显示了如果您计划使用此方法，如何获取 NLF 许可证文件。
 
 .步骤
-. 登录到 https://mysupport.netapp.com["NetApp 支持站点"^] 然后单击 * 系统 > 软件许可证 * 。
+. 登录到 https://mysupport.netapp.com["NetApp 支持站点"^] 并选择*系统>软件许可证*。
 . 输入许可证的序列号。
 +
 image:screenshot_cloud_backup_license_step1.gif["按序列号搜索后显示许可证表的屏幕截图。"]
 
-. 在 * 许可证密钥 * 列中，单击 * 获取 NetApp 许可证文件 * 。
-. 输入您的BlueXP帐户ID (在支持站点上称为租户ID)、然后单击*提交*下载许可证文件。
+. 在*许可证密钥*列中，选择*获取NetApp许可证文件*。
+. 输入您的BlueXP帐户ID (在支持站点上称为租户ID)、然后选择*提交*以下载许可证文件。
 +
-image:screenshot_cloud_backup_license_step2.gif["屏幕截图显示了获取许可证对话框，您可以在其中输入租户 ID ，然后单击提交下载许可证文件。"]
+image:screenshot_cloud_backup_license_step2.gif["显示获取许可证对话框的屏幕截图、您可以在其中输入租户ID、然后选择提交以下载许可证文件。"]
 
 +
-您可以通过从BlueXP顶部选择*帐户*下拉列表、然后单击您的帐户旁边的*管理帐户*来查找您的BlueXP帐户ID。您的帐户 ID 位于概述选项卡中。
+您可以通过选择BlueXP顶部的*帐户*下拉列表、然后选择帐户旁边的*管理帐户*来查找BlueXP帐户ID。您的帐户 ID 位于概述选项卡中。
 
 
 
@@ -52,9 +52,9 @@ image:screenshot_cloud_backup_license_step2.gif["屏幕截图显示了获取许�
 在为BlueXP数据服务购买许可证后、您需要将此许可证添加到BlueXP中。
 
 .步骤
-. 从BlueXP菜单中、单击*监管>数字电子钱包*、然后选择*数据服务许可证*选项卡。
-. 单击 * 添加许可证 * 。
-. 在 _Add License_ 对话框中，输入许可证信息并单击 * 添加许可证 * ：
+. 从BlueXP菜单中选择*监管>数字钱包*，然后选择*数据服务许可证*选项卡。
+. 选择 * 添加许可证 * 。
+. 在_Add License_对话框中，输入许可证信息并选择*Add License*：
 +
 ** 如果您知道序列号并知道您的NSS帐户、请选择*输入序列号*选项并输入该信息。
 +
@@ -80,18 +80,18 @@ BlueXP添加了许可证。
 image:screenshot_services_license_expire.png["在 \" 数字电子钱包 \" 页面中显示即将到期许可证的屏幕截图。"]
 
 .步骤
-. 单击BlueXP右下角的聊天图标、或联系支持部门、请求延长您的期限或为特定序列号的许可证增加容量。
+. 选择BlueXP右下角的聊天图标或联系支持部门、请求延长您的期限或为特定序列号的许可证增加容量。
 +
 在您购买许可证并将其注册到NetApp 支持站点 之后、BlueXP会自动更新电子钱包中的许可证、并且数据服务许可证页面将在5到10分钟内反映此更改。
 
 . 如果BlueXP无法自动更新许可证(例如、在专用模式下使用BlueXP时)、则需要手动上传许可证文件。
 +
 .. 您可以 <<获取许可证文件,从 NetApp 支持站点获取许可证文件>>。
-.. 在_Data Services Licenses_选项卡上、单击 image:screenshot_horizontal_more_button.gif["更多图标"] 对于要更新的服务序列号，请单击 * 更新许可证 * 。
+.. 在_Data Services Licenses"选项卡上、选择 image:screenshot_horizontal_more_button.gif["更多图标"] 对于要更新的服务序列号，请选择*更新许可证*。
 +
 image:screenshot_services_license_update1.png["选择特定服务的更新许可证按钮的屏幕截图。"]
 
-.. 在 _Update License_ 页面中，上传许可证文件并单击 * 更新许可证 * 。
+.. 在_Update License_页面中，上传许可证文件并选择*Update License*。
 
 
 

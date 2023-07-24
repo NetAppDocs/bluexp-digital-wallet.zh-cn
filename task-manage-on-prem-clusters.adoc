@@ -38,8 +38,8 @@ BlueXP数字电子钱包显示有关您发现为工作环境或与您添加到Bl
 +
 如果系统提示您先输入NetApp 支持站点 (NSS)帐户凭据、请选择*添加NSS帐户*。添加帐户后、将显示与该NSS帐户关联的集群。
 
-. 如果合同即将到期或已到期、您可以单击BlueXP控制台右下角的聊天图标以请求延长合同。
-. 要查看更多详细信息、请单击 image:button_down_caret.png["停用图标"] 以展开集群信息。
+. 如果合同即将到期或已到期、您可以选择BlueXP控制台右下角的聊天图标来请求延长合同。
+. 要查看更多详细信息、请选择 image:button_down_caret.png["停用图标"] 以展开集群信息。
 +
 image:screenshot_digital_wallet_license_info.png["展开集群详细信息以查看集群许可证信息的屏幕截图。"]
 
@@ -68,8 +68,8 @@ image:screenshot_digital_wallet_onprem_main.png["内部 ONTAP 集群的 \" 数�
 +
 如果系统提示您先输入NetApp 支持站点 (NSS)帐户凭据、请选择*添加NSS帐户*。添加帐户后、将显示与该NSS帐户关联的集群。
 
-. 对于要通过BlueXP管理的集群、请单击*发现*。
-. 在 _Discover ONTAP Cluster_ 页面上，输入管理员用户帐户的密码，然后单击 * 发现 * 。
+. 为要通过BlueXP管理的集群选择*发现*。
+. 在_Discover ONTAP Cluster_页面上，输入管理员用户帐户的密码，然后选择*Discover。
 +
 image:screenshot_discover_ontap_wallet.png["屏幕截图显示了 ONTAP 集群详细信息页面的示例：集群管理 IP 地址，用户名和密码。"]
 
