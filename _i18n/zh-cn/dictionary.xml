@@ -473,7 +473,6 @@
   <block id="baf09c6c43fd26effd8f15e252649384" category="list-text">PAYGO总容量</block>
   <block id="76101a2de96d735db21249323914bc6c" category="list-text">* Cloud Volumes ONTAP 封装使用情况*：此报告显示了电子钱包中封装卡的确切内容。其中包括除优化I/O包之外的每个软件包的以下信息：</block>
   <block id="c01bbdbe6721d80a74779e943243486b" category="list-text">* Storage VM使用情况*：此报告显示如何在Cloud Volumes ONTAP 系统和Storage Virtual Machine (SVM)之间细分已充电容量。电子钱包中的任何屏幕均不提供此信息。其中包括以下信息：</block>
-  <block id="b16bfcaa9b0651f05b8e8894a2aebb31" category="list-text">工作环境ID (显示为UUID)</block>
   <block id="c8e2277ecfb1427838c488c217f99466" category="list-text">云</block>
   <block id="4736cd35bf5b3fe63e1b1785fb2aa664" category="list-text">NetApp帐户ID</block>
   <block id="bbfa34e8af02138b821f784c8962669b" category="list-text">工作环境配置</block>
@@ -599,4 +598,16 @@
   <block id="093ebe6e7f093a5d0ba33d387ce15bd0" category="list-text">要查看更多详细信息、请选择 <block ref="88c68341c12fbc9f1bcf1c9927535845" category="inline-image-macro-rx" type="image"></block> 以展开集群信息。</block>
   <block id="dd7c2502d7fdbd07b536ab7c70be2609" category="list-text">为要通过BlueXP管理的集群选择*发现*。</block>
   <block id="65fd12713cafdbaee90c518b8e719b8a" category="list-text">在_Discover ONTAP Cluster_页面上，输入管理员用户帐户的密码，然后选择*Discover。</block>
+  <block id="c94e28d852ce517312825c9ed339fc1d" category="section-title">2023年7月30日</block>
+  <block id="ee4272223579f1299444d14f2d185eb5" category="section-title">使用情况报告增强功能</block>
+  <block id="c1ab40aac4724ff5a3b9540c19eed579" category="paragraph">Cloud Volumes ONTAP使用情况报告现已有多项改进：</block>
+  <block id="4c63050f1e33aa32db50cc80b682e805" category="list-text">此时、TiB单元将包含在列名称中。</block>
+  <block id="c352c835cf612ee328fb7dba772bce4d" category="list-text">现在、包含了一个用于序列号的新_node (s)_字段。</block>
+  <block id="f949b800c66bf942c10c1e2b5847f5cf" category="list-text">现在、Storage VM使用情况报告下会包含一个新的_Workload Type_列。</block>
+  <block id="9f02e3f417792785e27aead6a388ce7b" category="list-text">现在、工作环境名称会包含在Storage VM和卷使用情况报告中。</block>
+  <block id="001f2392fde5e9977a349af817fa07e9" category="list-text">卷类型_file_现在标记为_Primary (Read/Write)_。</block>
+  <block id="af30dca925032347d49fd49d710f0164" category="list-text">卷类型_Secondary (DP)_现在标记为_Secondary (DP)_。</block>
+  <block id="2bb2d72e1ff09fcf49ad52f3b153b014" category="paragraph">有关使用情况报告的详细信息、请参见<block ref="8b82f3e29419f7f039b88f8e9f60bf47" category="inline-link-rx"></block></block>
+  <block id="4a9ebfe4f0e3302083955176f47a9519" category="list-text">工作环境ID和名称(显示为UUID)</block>
+  <block id="427af860f9733f0c5427a1408195bb2b" category="list-text">工作负载类型</block>
 </blocks>

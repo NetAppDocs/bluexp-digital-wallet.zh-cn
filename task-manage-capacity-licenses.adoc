@@ -107,7 +107,7 @@ image:screenshot-digital-wallet-usage-report.png["屏幕截图显示了Digital W
 
 * * Storage VM使用情况*：此报告显示如何在Cloud Volumes ONTAP 系统和Storage Virtual Machine (SVM)之间细分已充电容量。电子钱包中的任何屏幕均不提供此信息。其中包括以下信息：
 +
-** 工作环境ID (显示为UUID)
+** 工作环境ID和名称(显示为UUID)
 ** 云
 ** NetApp帐户ID
 ** 工作环境配置
@@ -118,11 +118,12 @@ image:screenshot-digital-wallet-usage-report.png["屏幕截图显示了Digital W
 ** Cloud Volumes ONTAP 软件包或功能
 ** 收取SaaS Marketplace订阅名称费用
 ** 向SaaS Marketplace订阅ID收费
+** 工作负载类型
 
 
 * *卷使用量*：此报告显示如何在工作环境中按卷细分已充电容量。电子钱包中的任何屏幕均不提供此信息。其中包括以下信息：
 +
-** 工作环境ID (显示为UUID)
+** 工作环境ID和名称(显示为UUID)
 ** SVN名称
 ** 卷 ID
 ** Volume type
