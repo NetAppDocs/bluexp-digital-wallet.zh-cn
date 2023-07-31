@@ -34,7 +34,7 @@ Cloud Volumes ONTAP使用情况报告现已有多项改进：
 * 卷类型_Secondary (DP)_现在标记为_Secondary (DP)_。
 
 
-有关使用情况报告的详细信息、请参见 https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-manage-capacity-licenses.html#download-usage-reports["下载使用情况报告"^]
+有关使用情况报告的详细信息、请参见 https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-capacity-licenses.html#download-usage-reports["下载使用情况报告"]。
 
 
 
@@ -58,7 +58,7 @@ BlueXP数字钱包现在可识别与私人优惠相关的Google Cloud Marketplac
 * 卷使用量
 
 
-有关详细信息，请参见 link:https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-capacity-licenses.html["管理基于容量的许可证"]。
+有关使用情况报告的详细信息、请参见 https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-capacity-licenses.html#download-usage-reports["下载使用情况报告"]。
 
 
 
