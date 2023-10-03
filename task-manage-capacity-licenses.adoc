@@ -13,7 +13,7 @@ summary: 从数字电子钱包中管理基于容量的许可证，以确保您�
 :imagesdir: https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/media/
 
 
-[role="lead"]
+[role="lead lead"]
 通过BlueXP数字钱包管理基于容量的许可证、确保您的NetApp帐户具有足够的容量来支持您的Cloud Volumes ONTAP 系统。
 
 _capacity-based licenses_ 使您能够按每 TiB 容量为 Cloud Volumes ONTAP 付费。
