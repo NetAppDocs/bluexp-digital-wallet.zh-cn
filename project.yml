@@ -13,7 +13,9 @@ sidebar:
   - title: BlueXP数字电子钱包文档
     url: "/index.html"
   - title: 发行说明
-    url: "/whats-new.html"
+    entries:
+    - title: 新增功能
+      url: "/whats-new.html"
   - title: 入门
     entries:
     - title: 了解有关BlueXP数字市场的信息
@@ -30,7 +32,7 @@ sidebar:
       url: "/task-manage-data-services-licenses.html"
     - title: 管理PAYGO订阅和合同
       url: "/task-manage-subscriptions.html"
-    - title: 管理Keystone订阅服务
+    - title: 管理Keystone订阅
       url: "/task-manage-keystone.html"
     - title: 管理内部ONTAP 集群的许可证
       url: "/task-manage-on-prem-clusters.html"

@@ -193,8 +193,6 @@
   <block id="492847bcbc9ec0bd3075b612aa43e4a7" category="list-text">选择* Keystone*。</block>
   <block id="daf4ae396784c74ec2cbf002eaaa25f4" category="list-text">如果您看到 * 欢迎使用 NetApp Keystone * 页面，请向此页面上列出的地址发送电子邮件。</block>
   <block id="16692c26ca4528e651bbb36d93c465c7" category="paragraph">NetApp 代表将通过授权您的用户帐户访问订阅来处理您的请求。</block>
-  <block id="58eaebf972358f1cf03d386a4ade1a0f" category="paragraph-title">下一步是什么？</block>
-  <block id="18dea2097f201a1ab3eb6d3305d42f0a" category="paragraph">链接要用于 Cloud Volumes ONTAP 的订阅。</block>
   <block id="06f358c39bc3b4633cefd78beb67e671" category="section-title">链接订阅</block>
   <block id="b0afff19aa3343a6f86619d833dbd316" category="inline-image-macro">一个由三个并排点组成的图标</block>
   <block id="fc6ada65ff8f08c80e7d6167f68c89c2" category="list-text">对于要链接的订阅，请单击 <block ref="c9c50c6d591d91ccce1ee232fa490fb4" category="inline-image-macro-rx" type="image"></block> 并选择 * 链接 * 。</block>
@@ -202,7 +200,6 @@
   <block id="53dd6d03631eca7d8e89d0d7d8cdeb77" category="paragraph"><block ref="53dd6d03631eca7d8e89d0d7d8cdeb77" category="inline-image-macro-rx" type="image"></block></block>
   <block id="c01bba3f5cf220440d62298c4287d655" category="paragraph">现在、订阅将链接到您的BlueXP帐户、并可在创建Cloud Volumes ONTAP 工作环境时进行选择。</block>
   <block id="1b02ed65c5ea56c85fffa6b88378d762" category="section-title">请求更多或更少的已提交容量</block>
-  <block id="51865ab5b1a727fd7b6804d74e80a1cd" category="paragraph">如果您需要调整订阅的已提交容量、可以直接从BlueXP界面发送请求。</block>
   <block id="a2748c51966db7db689a8801f6ae4150" category="list-text">对于要调整容量的订阅，请单击 <block ref="c9c50c6d591d91ccce1ee232fa490fb4" category="inline-image-macro-rx" type="image"></block> 并选择 * 查看详细信息并编辑 * 。</block>
   <block id="56ecf988dec174f4d23028e78eeed82c" category="list-text">输入一个或多个订阅请求的已提交容量。</block>
   <block id="b21f9c14aa5cab57ac732dac504b7b63" category="inline-image-macro">屏幕截图显示了请求更改订阅的已提交容量的功能。</block>
@@ -441,8 +438,6 @@
   <block id="314c4a4eeddb6d1cd1f813b95714f7a2" category="list-text">如果您的Google Cloud订阅与某个私人优惠关联、并且该私人优惠在创建并接受后进行了修改、则该术语将显示不适用在这种情况下、我们从Google Cloud Marketplace收到的API响应不包含术语相关信息。</block>
   <block id="3b3f3f7253f4c57a7eb145d69d119e28" category="list-text">如果您有Google Cloud Private优惠、则合同选项不可用。</block>
   <block id="885ce97feb1a2410a348b3f3764dee9d" category="list-text">管理用于Cloud Volumes ONTAP 的Keystone订阅服务、并请求更改已提交容量</block>
-  <block id="e29dbbc5408d2fe6da0ae9249031fad5" category="summary">通过启用与Cloud Volumes ONTAP 一起使用的订阅、从电子钱包管理Keystone订阅服务。您还可以请求更改已提交容量，并取消订阅链接。</block>
-  <block id="8cd29d21eeca72789ed2e573a1032dbd" category="doc">管理Keystone订阅服务</block>
   <block id="4112533811706ae9c45d956e68299f46" category="paragraph">通过BlueXP数字钱包管理基于容量的许可证、确保您的NetApp帐户具有足够的容量来支持您的Cloud Volumes ONTAP 系统。</block>
   <block id="b37ea3f4c93245969c515634c741e9bf" category="paragraph">通过_BlueXP数字钱包_、您可以从一个位置管理Cloud Volumes ONTAP 的许可证。您可以添加新许可证并更新现有许可证。</block>
   <block id="03fc5be3f1d32a032f3da42181c0e6ed" category="section-title">如何将许可证添加到BlueXP电子钱包中</block>
@@ -490,14 +485,9 @@
   <block id="325ef46eb3d6b63c4d60ef08cdd6176f" category="inline-image-macro">BlueXP数字钱包中Cloud Volumes ONTAP 页面的屏幕截图、其中更改充电方法按钮位于表的正上方。</block>
   <block id="bdc5814154b1b181ca8722ef08ed8a28" category="paragraph"><block ref="bdc5814154b1b181ca8722ef08ed8a28" category="inline-image-macro-rx" type="image"></block></block>
   <block id="d592a4e1d68c1047f1f5e39639bee6bf" category="paragraph">您可能还会注意到、BlueXP数字钱包会刷新每种包类型的已用容量、以反映您刚刚所做的更改。</block>
-  <block id="16c141e06e5f6ba408b4992a97c8b45f" category="paragraph">通过启用与Cloud Volumes ONTAP 配合使用的订阅、从BlueXP数字钱包管理Keystone订阅。您还可以请求更改已提交容量，并取消订阅链接。</block>
-  <block id="a99a383ab90c9f21375613d8a38ea1c8" category="paragraph">Keystone订阅是NetApp提供的"按需购买"存储服务。</block>
-  <block id="ef32689f1a32fe16e0893f8394486cba" category="paragraph">在BlueXP中使用和管理Keystone订阅之前、您需要联系NetApp、为您的BlueXP用户帐户授权Keystone订阅。</block>
   <block id="5da6315cfe65abaef2d0e00c90898ddc" category="list-text">返回到* Keystone订阅*查看您的订阅。</block>
   <block id="3d6aabe991edb10f282fd60995e725ca" category="inline-image-macro">显示Keystone订阅列表的屏幕截图。</block>
   <block id="6fd94fda3665b39867817d4700d184e8" category="paragraph"><block ref="6fd94fda3665b39867817d4700d184e8" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="b10dd47ec29edab7ffa21c2337ac7f5f" category="paragraph">在NetApp授权您的帐户后、您需要链接Keystone订阅、以便用于Cloud Volumes ONTAP。通过此操作，用户可以选择订阅作为新 Cloud Volumes ONTAP 系统的收费方法。</block>
-  <block id="7ec05ce6a514daa78763d92fa399d1b0" category="paragraph">如果您不想再对新的Cloud Volumes ONTAP 系统使用Keystone订阅、则可以取消订阅链接。请注意，您只能取消链接未附加到现有 Cloud Volumes ONTAP 订阅的订阅。</block>
   <block id="990d530a36683451e6ac666b1b224270" category="paragraph">在BlueXP数字钱包中管理基于节点的许可证、以确保每个Cloud Volumes ONTAP 系统都具有具有所需容量的有效许可证。</block>
   <block id="755544cd7e451192e8f70ab60b76986b" category="paragraph">通过BlueXP数字钱包页面、您可以查看有关每个PAYGO Cloud Volumes ONTAP 系统的详细信息、包括序列号和PAYGO许可证类型。</block>
   <block id="0ad53d9b2c46069812124453e75f768d" category="inline-image-macro">一个屏幕截图、显示BlueXP数字钱包页面中包含三个paygo许可证的表。每行都显示名称，系统类型，序列号，软件包以及用于管理许可证的链接。</block>
@@ -614,4 +604,22 @@
   <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">获得云提供商文件服务支持</block>
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">有关与云提供商文件服务、其基础架构或使用该服务的任何解决方案相关的技术支持、请参阅该产品的BlueXP文档中的"获得帮助"。</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">要获得针对BlueXP及其存储解决方案和服务的技术支持、请使用下面所述的支持选项。</block>
+  <block id="3982145b9641373c27bb8d4756883699" category="inline-link">了解如何订阅BlueXP (标准模式)</block>
+  <block id="7f5bf22f42b3df7661bb90a8ee910f75" category="list-text"><block ref="7f5bf22f42b3df7661bb90a8ee910f75" category="inline-link-rx"></block></block>
+  <block id="7d546f7fc3c445881a171d5c7ee674c2" category="inline-link">了解如何订阅BlueXP (受限模式)</block>
+  <block id="69dd33041899bf8cb4fdb69e6f455142" category="list-text"><block ref="69dd33041899bf8cb4fdb69e6f455142" category="inline-link-rx"></block></block>
+  <block id="c27b8e6a4f797d237583ca6d38a92cd6" category="summary">通过启用要用于Cloud Volumes ONTAP的订阅以及请求更改订阅服务级别的承诺容量、从BlueXP数字钱包管理Keystone订阅。请求增加服务级别的容量可为内部ONTAP集群或Cloud Volumes ONTAP系统提供更多存储。</block>
+  <block id="52ba144dbaac8239e9b6d8e287db93dc" category="doc">管理Keystone订阅</block>
+  <block id="a3b1d6e06d4fd8ccc20c61ce51e45853" category="paragraph">NetApp Keystone是一项基于订阅的灵活按需购买服务、可为更喜欢运营支出而非資本支出或租赁的客户提供混合云体验。</block>
+  <block id="8635fd9dae0faf14591abf5c00ba4c36" category="inline-link">详细了解Keystone</block>
+  <block id="d9e1f569a60d13d4540b611846d761f5" category="paragraph"><block ref="d9e1f569a60d13d4540b611846d761f5" category="inline-link-rx"></block></block>
+  <block id="79554ac40a8f3a03c9aaedab34165bd3" category="paragraph">在BlueXP中使用和管理Keystone订阅之前、您需要先联系NetApp、为您的BlueXP用户帐户授权Keystone订阅。</block>
+  <block id="8afaab6946e4a914b70539d7502e26ac" category="paragraph">在NetApp授权您的帐户后、您可以链接Keystone订阅以用于Cloud Volumes ONTAP。通过此操作，用户可以选择订阅作为新 Cloud Volumes ONTAP 系统的收费方法。</block>
+  <block id="6659aa983422f26fe41e5bcc67fa8466" category="paragraph">如果要更改订阅服务级别的已提交容量、可以直接从BlueXP向NetApp发送请求。为某个服务级别请求更多容量可为内部集群或Cloud Volumes ONTAP系统提供更多存储。</block>
+  <block id="ec6e0d1bd46f010ced65478c609b1636" category="section-title">监控使用情况</block>
+  <block id="4bb37917188b518967d0e67a2b819327" category="paragraph">通过BlueXP数字顾问信息板、您可以监控Keystone订阅使用情况并生成报告。</block>
+  <block id="20ea4c62f4c9e4254314fe7fbbef0319" category="inline-link">详细了解监控订阅使用情况</block>
+  <block id="d7105dd212dc96a8b292b6b48f84916f" category="paragraph"><block ref="d7105dd212dc96a8b292b6b48f84916f" category="inline-link-rx"></block></block>
+  <block id="28ca5cda5cdef790c457097830d81ca5" category="paragraph">如果您不想再将Keystone订阅与BlueXP结合使用、则可以取消订阅链接。请注意，您只能取消链接未附加到现有 Cloud Volumes ONTAP 订阅的订阅。</block>
+  <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新增功能</block>
 </blocks>

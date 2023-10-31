@@ -16,6 +16,10 @@ summary: 当您从云提供商的市场订阅BlueXP时、系统会将您重定�
 [role="lead"]
 当您从云提供商的市场订阅BlueXP时、系统会将您重定向到BlueXP网站、您需要在该网站上保存订阅并将其与特定帐户关联。订阅后、您可以从BlueXP数字钱包管理每个订阅。
 
+* https://docs.netapp.com/us-en/bluexp-setup-admin/task-subscribe-standard-mode.html["了解如何订阅BlueXP (标准模式)"^]
+* https://docs.netapp.com/us-en/bluexp-setup-admin/task-subscribe-restricted-mode.html["了解如何订阅BlueXP (受限模式)"^]
+
+
 
 
 == 查看您的订阅
