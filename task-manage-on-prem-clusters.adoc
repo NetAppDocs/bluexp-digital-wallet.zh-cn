@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: task-manage-on-prem-clusters.html 
-keywords: digital wallet, cluster, on-prem ontap cluster, onprem cluster, contract, licensing, ontap licensing, ontap contract 
+keywords: digital wallet, cluster, on-prem ontap cluster, onprem cluster, contract, licensing, ontap licensing, ontap contract, bluexp digital wallet 
 summary: 您可以通过BlueXP数字电子钱包查看每个内部ONTAP 集群的合同详细信息。如果您尚未在BlueXP中发现集群、也可以从数字市场中进行此操作。 
 ---
 = 管理内部ONTAP 集群的许可证
