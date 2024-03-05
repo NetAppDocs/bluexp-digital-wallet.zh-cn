@@ -18,6 +18,18 @@ summary: 了解BlueXP数字电子钱包的新增功能。
 
 
 
+== 2024年3月5日
+
+
+
+=== BlueXP灾难恢复
+
+BlueXP数字钱包现在可用于管理BlueXP灾难恢复的许可证。您可以添加许可证、更新许可证以及查看有关已许可容量的详细信息。
+
+https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-data-services-licenses.html["了解如何管理BlueXP数据服务的许可证"]
+
+
+
 == 2023年7月30日
 
 

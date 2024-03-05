@@ -23,7 +23,7 @@ summary: '您可以通过BlueXP数字电子钱包管理和监控从NetApp购买�
 * 管理Cloud Volumes ONTAP 的基于容量和基于节点的许可证
 * 添加和管理BlueXP数据服务的许可证
 * 管理PAYGO的订阅以及与BlueXP帐户和Astra Control关联的年度合同
-* 管理用于Cloud Volumes ONTAP 的Keystone订阅服务、并请求更改已提交容量
+* 管理用于Cloud Volumes ONTAP和内部ONTAP集群的Keystone订阅服务、并请求更改已提交的容量
 * 查看内部ONTAP 集群的硬件和软件合同状态信息
 
 
@@ -31,11 +31,12 @@ summary: '您可以通过BlueXP数字电子钱包管理和监控从NetApp购买�
 
 == 支持的服务
 
-BlueXP数字钱包可用于管理以下许可证：
+通过BlueXP数字钱包、您可以管理以下服务的许可证：
 
-* 备份和恢复
-* 分类
-* Cloud Volumes ONTAP
-* 内部 ONTAP 集群
-* 分层
+* https://docs.netapp.com/us-en/bluexp-backup-recovery/index.html["备份和恢复"^]
+* https://docs.netapp.com/us-en/bluexp-classification/index.html["分类"^]
+* https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/index.html["Cloud Volumes ONTAP"^]
+* https://docs.netapp.com/us-en/bluexp-disaster-recovery/index.html["灾难恢复"^] (仅限BYOL)
+* https://docs.netapp.com/us-en/bluexp-ontap-onprem/index.html["内部 ONTAP 集群"^]
+* https://docs.netapp.com/us-en/bluexp-tiering/index.html["分层"^]
 

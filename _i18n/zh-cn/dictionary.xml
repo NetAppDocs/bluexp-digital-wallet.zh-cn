@@ -76,7 +76,6 @@
   <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">如果您拥有客户级别的帐户、则可以添加一个或多个NSS帐户。</block>
   <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">如果您拥有合作伙伴或经销商帐户、则可以添加一个或多个NSS帐户、但不能将其与客户级别的帐户同时添加。</block>
   <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">帮助菜单的屏幕截图，其中列出的第一个选项为支持</block>
-  <block id="19d089db572ee6a1e154a0c9c9e57bfd" category="paragraph">NetApp 使用 Microsoft Azure Active Directory 作为身份提供程序来提供特定于支持和许可的身份验证服务。</block>
   <block id="465ec6d5eafa3524c948c99d8bfcd306" category="list-text">在登录页面上，提供 NetApp 支持站点注册的电子邮件地址和密码以执行身份验证过程。</block>
   <block id="cbc6cc3bb022583403171b447b2a962c" category="paragraph">通过这些操作、BlueXP可以使用您的NSS帐户执行许可证下载、软件升级验证和未来支持注册等操作。</block>
   <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">请注意以下事项：</block>
@@ -121,8 +120,6 @@
   <block id="00c5fef3bb9d593ae96bf5d2ee60354a" category="paragraph">加入BlueXP社区、关注正在进行的讨论或创建新的讨论。</block>
   <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">文档。</block>
   <block id="a4a6c2ea0078252eac2d74ef3e6c917c" category="paragraph">您当前正在查看的BlueXP文档。</block>
-  <block id="80b1b0d2b1ebf2b3cba2d25759801afd" category="list-text">mailto ： ng-cloudmanager-feedback@netapp.com （反馈电子邮件）</block>
-  <block id="6702efec14563f45f1ee2f8c613b8ad8" category="paragraph">我们非常重视您的反馈意见。提交反馈以帮助我们改进BlueXP。</block>
   <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">向NetApp支持部门创建案例</block>
   <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">除了上述自助支持选项之外、您还可以在激活支持后与NetApp支持专家合作解决任何问题。</block>
   <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">开始之前</block>
@@ -390,19 +387,11 @@
   <block id="d56bf07ec8cd4e9f29339d605ffef95c" category="sidebar">基于节点的许可证</block>
   <block id="064ff692e4b4a468969f66368c68e2c8" category="sidebar">管理内部ONTAP 集群的许可证</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">知识和支持</block>
-  <block id="25b1fde564bb1fc860069167d8668df6" category="sidebar">管理许可证</block>
-  <block id="7cbe4872773ca07492a76acf7d557fef" category="sidebar">管理 Cloud Volumes ONTAP 的基于容量的许可证</block>
-  <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">博客和社区</block>
-  <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp 社区</block>
-  <block id="bd5465eb0e8cf8f303aee7ea9420c8b1" category="sidebar">BlueXP博客</block>
-  <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">云网络研讨会</block>
   <block id="49f326995814ee311b340478f99f992f" category="doc">BlueXP数字电子钱包文档</block>
   <block id="d73d2254cb7a33ffdc126efbce99e623" category="list-text">管理PAYGO的订阅以及与BlueXP帐户和Astra Control关联的年度合同</block>
-  <block id="bf4700247951934a88713e31aa00a0a6" category="paragraph">BlueXP数字钱包可用于管理以下许可证：</block>
   <block id="be062cdcabbb3055334e8f19b4bdf378" category="list-text">备份和恢复</block>
   <block id="5c9335b28e6277ddbe0137f04e5e58a7" category="list-text">分类</block>
   <block id="337c62c6b6eb7319bae58701105e889c" category="list-text">分层</block>
-  <block id="fd75ff71faa02dfc85d4684cc9a98740" category="summary">通过BlueXP数字钱包、您可以管理直接从NetApp (BYOL)购买的用于BlueXP备份和恢复、分类和分层的许可证。您可以查看已用许可证容量、剩余的可用容量、如果达到容量限制或到期日期、您将看到通知。</block>
   <block id="f4b04af639ebf32754e26b928989f33f" category="inline-link">为BlueXP备份和恢复设置许可</block>
   <block id="6212c283c0695ee1a154f1a6cdde74ef" category="inline-link">为BlueXP分类设置许可</block>
   <block id="8202299929ccdfe388049a03c2c36d60" category="inline-link">为BlueXP分层设置许可</block>
@@ -437,7 +426,6 @@
   <block id="cf5f3091e30dee6597885d8c0e0c357f" category="list-text">期限</block>
   <block id="314c4a4eeddb6d1cd1f813b95714f7a2" category="list-text">如果您的Google Cloud订阅与某个私人优惠关联、并且该私人优惠在创建并接受后进行了修改、则该术语将显示不适用在这种情况下、我们从Google Cloud Marketplace收到的API响应不包含术语相关信息。</block>
   <block id="3b3f3f7253f4c57a7eb145d69d119e28" category="list-text">如果您有Google Cloud Private优惠、则合同选项不可用。</block>
-  <block id="885ce97feb1a2410a348b3f3764dee9d" category="list-text">管理用于Cloud Volumes ONTAP 的Keystone订阅服务、并请求更改已提交容量</block>
   <block id="4112533811706ae9c45d956e68299f46" category="paragraph">通过BlueXP数字钱包管理基于容量的许可证、确保您的NetApp帐户具有足够的容量来支持您的Cloud Volumes ONTAP 系统。</block>
   <block id="b37ea3f4c93245969c515634c741e9bf" category="paragraph">通过_BlueXP数字钱包_、您可以从一个位置管理Cloud Volumes ONTAP 的许可证。您可以添加新许可证并更新现有许可证。</block>
   <block id="03fc5be3f1d32a032f3da42181c0e6ed" category="section-title">如何将许可证添加到BlueXP电子钱包中</block>
@@ -622,4 +610,22 @@
   <block id="d7105dd212dc96a8b292b6b48f84916f" category="paragraph"><block ref="d7105dd212dc96a8b292b6b48f84916f" category="inline-link-rx"></block></block>
   <block id="28ca5cda5cdef790c457097830d81ca5" category="paragraph">如果您不想再将Keystone订阅与BlueXP结合使用、则可以取消订阅链接。请注意，您只能取消链接未附加到现有 Cloud Volumes ONTAP 订阅的订阅。</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新增功能</block>
+  <block id="d0f4a98872ff48fd92ead596c5f85c7e" category="list-text">管理用于Cloud Volumes ONTAP和内部ONTAP集群的Keystone订阅服务、并请求更改已提交的容量</block>
+  <block id="7665a7ac6a94a4b78d28cc5c7fc692e6" category="paragraph">通过BlueXP数字钱包、您可以管理以下服务的许可证：</block>
+  <block id="79ce4013f1223c98134fc4786fafb114" category="list-text"><block ref="79ce4013f1223c98134fc4786fafb114" category="inline-link-rx"></block></block>
+  <block id="20bba0563305cf02e9d03d24ebf6f41a" category="list-text"><block ref="20bba0563305cf02e9d03d24ebf6f41a" category="inline-link-rx"></block></block>
+  <block id="99cd6bbb6bd6b4f32aaf030548bc8abb" category="list-text"><block ref="99cd6bbb6bd6b4f32aaf030548bc8abb" category="inline-link-rx"></block></block>
+  <block id="645a84975202e30700b572b49a5ee29d" category="inline-link">灾难恢复</block>
+  <block id="0691bd698f71b96b0752ddbdd208c1aa" category="list-text"><block ref="8edaf8bb4e175626c9b01d0fbc3891ee" category="inline-link-rx"></block> (仅限BYOL)</block>
+  <block id="19a1ee48ff4a757e699cf87a3f0b593d" category="list-text"><block ref="19a1ee48ff4a757e699cf87a3f0b593d" category="inline-link-rx"></block></block>
+  <block id="5ef4f6a3330e077263f2f73cd00474dc" category="list-text"><block ref="5ef4f6a3330e077263f2f73cd00474dc" category="inline-link-rx"></block></block>
+  <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetApp使用Microsoft Entra ID作为特定于支持和许可的身份验证服务的身份提供程序。</block>
+  <block id="7682c7f7c230bf75ef2083e67cfc7179" category="summary">通过BlueXP数字钱包、您可以管理直接从NetApp (BYOL)购买的用于BlueXP备份和恢复、分类、灾难恢复和分层的许可证。您可以查看已用许可证容量、剩余的可用容量、如果达到容量限制或到期日期、您将看到通知。</block>
+  <block id="a7193edb26a4b1bca4b7b82254e6dd4b" category="inline-link">为BlueXP灾难恢复设置许可</block>
+  <block id="ef7f2c35c52aa249a13384e6b07d0785" category="list-text"><block ref="ef7f2c35c52aa249a13384e6b07d0785" category="inline-link-rx"></block></block>
+  <block id="592997dde366d5775e7e052816854f74" category="section-title">2024年3月5日</block>
+  <block id="c08885153d0680dab7349b930f5310c4" category="section-title">BlueXP灾难恢复</block>
+  <block id="1804830d648adf9126d51f4a827ca950" category="paragraph">BlueXP数字钱包现在可用于管理BlueXP灾难恢复的许可证。您可以添加许可证、更新许可证以及查看有关已许可容量的详细信息。</block>
+  <block id="85bdddc8ce218c6365f105f9d309d898" category="inline-link">了解如何管理BlueXP数据服务的许可证</block>
+  <block id="ca654cde28a00db1fb587b8b6bb82015" category="paragraph"><block ref="ca654cde28a00db1fb587b8b6bb82015" category="inline-link-rx"></block></block>
 </blocks>
