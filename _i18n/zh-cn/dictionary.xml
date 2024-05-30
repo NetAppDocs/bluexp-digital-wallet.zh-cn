@@ -628,8 +628,16 @@
   <block id="ca654cde28a00db1fb587b8b6bb82015" category="paragraph"><block ref="ca654cde28a00db1fb587b8b6bb82015" category="inline-link-rx"></block></block>
   <block id="970af11c442d109ac4d016f7c57f63fb" category="paragraph">基于容量的许可以 _package_ 的形式提供。创建Cloud Volumes ONTAP工作环境时、您可以根据业务需求从多个许可包中进行选择。如果在创建工作环境后需求发生变化、您可以随时更改软件包。例如、您可以从Essentials软件包更改为Professional软件包。</block>
   <block id="58dcfad3183b701a8f1b8781a5644d09" category="inline-link">详细了解基于容量的许可包</block>
-  <block id="8e8751cb9b796773a6b79b4d5c3dc7b2" category="paragraph"><block ref="0205926668933cbb2cb5f56900594078" category="inline-link-rx"></block>。</block>
   <block id="bbe48fb854ea022537208eeeff822f91" category="list-title">关于此任务</block>
   <block id="3e4729f0b91cf008c10b8ab719ea9e99" category="list-text">更改收费方法不会影响是通过从NetApp (BYOL)购买的许可证还是从云提供商的市场(按需购买)购买许可证来收费。</block>
   <block id="07456d1e170e8be27eaff1e39e1ccdf6" category="paragraph">BlueXP始终首先尝试使用许可证付费。如果许可证不可用、则会按商城订阅收费。BYOL到商城订阅不需要"转换"、反之亦然。</block>
+  <block id="d5f06dc5f98a38b5ccff1592c5d20e76" category="admonition">虽然BlueXP中管理的产品和服务的实际使用情况和计量始终以GiB和TiB计算、但术语GB/GiB和TB/TiB可互换使用。这反映在云商城商品信息、报价、商品说明以及其他支持文档中</block>
+  <block id="3e509b6c896c67a8b8ec2afa8f3aa8eb" category="admonition">有关如何获取许可证文件的详细信息、请参见<block ref="c65aa3342130b0295e06cd938a12ad5e" category="inline-link-rx"></block>。</block>
+  <block id="6b5c2460f150173d3723de8a857a4d33" category="paragraph"><block ref="179c8a3ed717f2c4de3149f0e9edf685" category="inline-link-rx"></block>。</block>
+  <block id="25b1fde564bb1fc860069167d8668df6" category="sidebar">管理许可证</block>
+  <block id="7cbe4872773ca07492a76acf7d557fef" category="sidebar">管理 Cloud Volumes ONTAP 的基于容量的许可证</block>
+  <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">博客和社区</block>
+  <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp 社区</block>
+  <block id="bd5465eb0e8cf8f303aee7ea9420c8b1" category="sidebar">BlueXP博客</block>
+  <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">云网络研讨会</block>
 </blocks>

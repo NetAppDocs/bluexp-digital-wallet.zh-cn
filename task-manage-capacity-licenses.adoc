@@ -20,6 +20,9 @@ _capacity-based licenses_ 使您能够按每 TiB 容量为 Cloud Volumes ONTAP �
 
 通过_BlueXP数字钱包_、您可以从一个位置管理Cloud Volumes ONTAP 的许可证。您可以添加新许可证并更新现有许可证。
 
+
+NOTE: 虽然BlueXP中管理的产品和服务的实际使用情况和计量始终以GiB和TiB计算、但术语GB/GiB和TB/TiB可互换使用。这反映在云商城商品信息、报价、商品说明以及其他支持文档中
+
 https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-licensing.html["了解有关 Cloud Volumes ONTAP 许可证的更多信息"]。
 
 
@@ -177,6 +180,9 @@ NOTE: 此报告不包括FlexClone卷、因为这些类型的卷不会产生费�
 .您需要的内容
 许可证文件（如果有 HA 对，则为 _files_ ）。
 
+
+NOTE: 有关如何获取许可证文件的详细信息、请参见 https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-manage-node-licenses.html#obtain-a-system-license-file["获取系统许可证文件"^]。
+
 .步骤
 . 从BlueXP导航菜单中、选择*监管>数字电子钱包*。
 . 在* Cloud Volumes ONTAP *选项卡上、单击许可证旁边的操作菜单、然后选择*更新许可证*。
@@ -190,7 +196,7 @@ NOTE: 此报告不包括FlexClone卷、因为这些类型的卷不会产生费�
 
 基于容量的许可以 _package_ 的形式提供。创建Cloud Volumes ONTAP工作环境时、您可以根据业务需求从多个许可包中进行选择。如果在创建工作环境后需求发生变化、您可以随时更改软件包。例如、您可以从Essentials软件包更改为Professional软件包。
 
-https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-licensing.html["详细了解基于容量的许可包"]。
+https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-licensing.html["详细了解基于容量的许可包"^]。
 
 .关于此任务
 * 更改收费方法不会影响是通过从NetApp (BYOL)购买的许可证还是从云提供商的市场(按需购买)购买许可证来收费。

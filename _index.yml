@@ -1,0 +1,27 @@
+---
+indexpage:
+  title: BlueXP数字电子钱包文档
+  summary: 通过BlueXP数字电子钱包、您可以集中管理和监控许可证和订阅。
+  keywords: bluexp, documentation, bluexp-family
+  lead: 通过BlueXP数字电子钱包、您可以集中管理和监控许可证和订阅。
+  tiles:
+  - title: 入门
+    links:
+    - title: 了解有关BlueXP数字市场的信息
+      url: concept-digital-wallet.html
+  - title: 管理许可证
+    links:
+    - title: 管理 Cloud Volumes ONTAP 的基于容量的许可证
+      url: task-manage-capacity-licenses.html
+    - title: 管理BlueXP数据服务的许可证
+      url: task-manage-data-services-licenses.html
+    - title: 管理PAYGO订阅和合同
+      url: task-manage-subscriptions.html
+  - title: 博客和社区
+    links:
+    - title: NetApp 社区
+      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
+    - title: BlueXP博客
+      url: https://bluexp.netapp.com/blog
+    - title: 云网络研讨会
+      url: https://bluexp.netapp.com/events
