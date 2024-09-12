@@ -34,9 +34,12 @@ summary: '您可以通过BlueXP数字电子钱包管理和监控从NetApp购买�
 通过BlueXP数字钱包、您可以管理以下服务的许可证：
 
 * https://docs.netapp.com/us-en/bluexp-backup-recovery/index.html["备份和恢复"^]
-* https://docs.netapp.com/us-en/bluexp-classification/index.html["分类"^]
 * https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/index.html["Cloud Volumes ONTAP"^]
 * https://docs.netapp.com/us-en/bluexp-disaster-recovery/index.html["灾难恢复"^] (仅限BYOL)
+* https://docs.netapp.com/us-en/bluexp-ransomware-protection/index.html["勒索软件保护"^]
 * https://docs.netapp.com/us-en/bluexp-ontap-onprem/index.html["内部 ONTAP 集群"^]
 * https://docs.netapp.com/us-en/bluexp-tiering/index.html["分层"^]
 
+
+
+TIP: 您还可以通过BlueXP  数字钱包管理BlueXP  分类的许可证。但是、BlueXP  分类现已作为BlueXP  的核心功能提供、无需额外付费。不再需要许可证或订阅。 https://docs.netapp.com/us-en/bluexp-classification/concept-cloud-compliance.html["了解有关BlueXP分类的更多信息"^]

@@ -181,7 +181,7 @@ NOTE: 此报告不包括FlexClone卷、因为这些类型的卷不会产生费�
 许可证文件（如果有 HA 对，则为 _files_ ）。
 
 
-NOTE: 有关如何获取许可证文件的详细信息、请参见 https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-manage-node-licenses.html#obtain-a-system-license-file["获取系统许可证文件"^]。
+NOTE: 有关如何获取许可证文件的详细信息，请参见 https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-manage-node-licenses.html#obtain-a-system-license-file["获取系统许可证文件"^]。
 
 .步骤
 . 从BlueXP导航菜单中、选择*监管>数字电子钱包*。
