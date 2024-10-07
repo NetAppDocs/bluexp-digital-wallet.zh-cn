@@ -55,7 +55,7 @@ image:screenshot-keystone-link.png["显示订阅链接选项的屏幕截图。"]
 
 
 .结果
-现在、订阅将链接到您的BlueXP帐户、并可在创建Cloud Volumes ONTAP 工作环境时进行选择。
+现在、订阅可链接到您的BlueXP  组织或帐户、并可在创建Cloud Volumes ONTAP工作环境时进行选择。
 
 
 
@@ -98,4 +98,4 @@ https://docs.netapp.com/us-en/keystone-staas/integrations/aiq-keystone-details.h
 
 
 .结果
-订阅将与您的BlueXP帐户解除链接、并且在创建Cloud Volumes ONTAP 工作环境时无法再选择此订阅。
+订阅与您的BlueXP  组织或帐户取消链接、在创建Cloud Volumes ONTAP工作环境时无法再选择。

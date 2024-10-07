@@ -84,7 +84,7 @@ image:screenshot-digital-wallet-packages.png["屏幕截图显示了基础知识�
 
 == 下载使用情况报告
 
-帐户管理员可以从BlueXP中的电子钱包下载四份使用情况报告。这些使用情况报告提供了您的订阅的容量详细信息、并告诉您Cloud Volumes ONTAP 订阅中的资源收费情况。可下载的报告可捕获某个时间点的数据、并可轻松与他人共享。
+您可以从BlueXP  电子钱包下载四份使用情况报告。这些使用情况报告提供了您的订阅的容量详细信息、并告诉您Cloud Volumes ONTAP 订阅中的资源收费情况。可下载的报告可捕获某个时间点的数据、并可轻松与他人共享。
 
 image:screenshot-digital-wallet-usage-report.png["屏幕截图显示了Digital Wallet Cloud Volumes ONTAP 基于容量的许可证页面、并突出显示了使用情况报告按钮。"]
 

@@ -20,7 +20,7 @@ summary: 您可以通过BlueXP数字电子钱包查看每个内部ONTAP 集群�
 BlueXP数字电子钱包显示有关您发现为工作环境或与您添加到BlueXP的NetApp 支持站点 帐户关联的内部ONTAP 集群的详细信息。
 
 * https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["了解如何发现内部ONTAP 集群"^]
-* https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["了解如何管理与您的BlueXP帐户关联的NSS凭据"^]
+* https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["了解如何管理与您的BlueXP  组织或帐户关联的NSS凭据"^]
 
 
 

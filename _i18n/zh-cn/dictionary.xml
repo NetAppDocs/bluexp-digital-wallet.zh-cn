@@ -67,7 +67,6 @@
   <block id="b0cee72642f5457a71ddd0b49efb6d93" category="inline-link-macro">适用于 Google Cloud 的 Cloud Volumes Service</block>
   <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">支持注册概述</block>
   <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">激活支持授权有两种形式的注册：</block>
-  <block id="2322ca552c2b0ebe090c8485519246a8" category="list-text">注册您的BlueXP帐户ID支持订阅(您的20位960xxxxxxxxx序列号、位于BlueXP的支持资源页面上)。</block>
   <block id="23fdcbefa6d9cd877be7ceb7a18bb936" category="paragraph">这是您在BlueXP中使用的任何服务的单一支持订阅ID。必须注册每个BlueXP帐户级别的支持订阅。</block>
   <block id="55ff64467cd508971910145ab5d6b3b8" category="list-text">在云提供商的市场中注册与订阅关联的Cloud Volumes ONTAP 序列号(即20位909201xxxxxxxx序列号)。</block>
   <block id="67dbdeb11e22ea7def810bade59ce818" category="paragraph">这些序列号通常称为_PAYGO序列号、并由BlueXP在部署Cloud Volumes ONTAP 时生成。</block>
@@ -102,7 +101,6 @@
   <block id="3a24c87c9971d2011b4df223718f84b4" category="paragraph">系统会立即向提供的邮箱发送一封电子邮件、以完成此安全事务。如果验证电子邮件未在几分钟内收到、请务必检查您的垃圾邮件文件夹。</block>
   <block id="03413baeca1ff7222737d8ce299bd4e8" category="list-text">在电子邮件中确认操作。</block>
   <block id="201080500e946070a2e4873042507c77" category="paragraph">确认将向NetApp提交您的请求、并建议您创建NetApp 支持站点 帐户。</block>
-  <block id="cc8b0535948da368f832027c19b7f853" category="list-text">请务必复制上面用于序列号字段的帐户序列号(960xxxx)。这样可以加快帐户处理速度。</block>
   <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">完成后</block>
   <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">在此过程中、NetApp应与您联系。这是针对新用户的一次性入职练习。</block>
   <block id="c9df4195a305212ffd7b56d24f67129d" category="summary">NetApp通过多种方式为BlueXP提供支持。全天候提供丰富的免费自助支持选项，例如知识库（ KB ）文章和社区论坛。您的支持注册包括通过 Web 服务单提供的远程技术支持。</block>
@@ -124,7 +122,6 @@
   <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">在*资源*页面上、在技术支持下选择一个可用选项：</block>
   <block id="d63bf50426f4c712554faec55b30c548" category="list-text">*服务*：选择与问题描述 关联的服务。例如、当特定于技术支持问题描述 时、如果服务中包含工作流或功能、则为BlueXP。</block>
   <block id="2e50c5f85523f0aba9ff2db10f18279c" category="list-text">*工作环境*：如果适用于存储、请选择* Cloud Volumes ONTAP *或* on-Prem*、然后选择关联的工作环境。</block>
-  <block id="aa996e20900197b0ea41485ada083d8c" category="paragraph">工作环境列表属于您在服务顶部横幅中选择的BlueXP帐户、工作空间和Connector的范围。</block>
   <block id="e6f29fb3c7636dc0040600dd0e84bb79" category="list-text">*案例优先级*：选择案例的优先级、可以是"低"、"中"、"高"或"严重"。</block>
   <block id="835eb4008e97c2a7f69bbb2725285e34" category="paragraph">要了解有关这些优先级的更多详细信息、请将鼠标悬停在字段名称旁边的信息图标上。</block>
   <block id="0f7d9319c95a8be1492e74601c4b3259" category="list-text">*问题描述 *：提供问题的详细问题描述 、包括任何适用的错误消息或您执行的故障排除步骤。</block>
@@ -193,7 +190,6 @@
   <block id="fc6ada65ff8f08c80e7d6167f68c89c2" category="list-text">对于要链接的订阅，请单击 <block ref="c9c50c6d591d91ccce1ee232fa490fb4" category="inline-image-macro-rx" type="image"></block> 并选择 * 链接 * 。</block>
   <block id="a71102951bc0488f4ec3cb5e52602100" category="inline-image-macro">显示订阅链接选项的屏幕截图。</block>
   <block id="53dd6d03631eca7d8e89d0d7d8cdeb77" category="paragraph"><block ref="53dd6d03631eca7d8e89d0d7d8cdeb77" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="c01bba3f5cf220440d62298c4287d655" category="paragraph">现在、订阅将链接到您的BlueXP帐户、并可在创建Cloud Volumes ONTAP 工作环境时进行选择。</block>
   <block id="1b02ed65c5ea56c85fffa6b88378d762" category="section-title">请求更多或更少的已提交容量</block>
   <block id="a2748c51966db7db689a8801f6ae4150" category="list-text">对于要调整容量的订阅，请单击 <block ref="c9c50c6d591d91ccce1ee232fa490fb4" category="inline-image-macro-rx" type="image"></block> 并选择 * 查看详细信息并编辑 * 。</block>
   <block id="56ecf988dec174f4d23028e78eeed82c" category="list-text">输入一个或多个订阅请求的已提交容量。</block>
@@ -203,7 +199,6 @@
   <block id="8f140d9c4d508c36e3d4c57102f117eb" category="paragraph">您的请求会在 NetApp 系统中创建一个服务单以供处理。</block>
   <block id="0c0401d1e9169d6dd38462b1e0d04126" category="section-title">取消订阅链接</block>
   <block id="a666a430e484ea214384aefaa30da852" category="list-text">对于要取消链接的订阅，请单击 <block ref="c9c50c6d591d91ccce1ee232fa490fb4" category="inline-image-macro-rx" type="image"></block> 并选择 * 取消链接 * 。</block>
-  <block id="ae187bda8f85dfd75202915fcca6b90d" category="paragraph">订阅将与您的BlueXP帐户解除链接、并且在创建Cloud Volumes ONTAP 工作环境时无法再选择此订阅。</block>
   <block id="0ba30235105c7547a3e7658745e09be4" category="summary">了解BlueXP数字电子钱包的新增功能。</block>
   <block id="490414e0366b091220802d406e52c076" category="doc">新增功能</block>
   <block id="102787ed6297b34a7504b527e91d01d3" category="section-title">2023年4月3日</block>
@@ -241,7 +236,6 @@
   <block id="135b308ed83c53f1516b7c754566d1c4" category="paragraph-title">开始之前</block>
   <block id="2b474be1d4faf7d5e70a3977fa183a0a" category="paragraph">BlueXP数字电子钱包显示有关您发现为工作环境或与您添加到BlueXP的NetApp 支持站点 帐户关联的内部ONTAP 集群的详细信息。</block>
   <block id="422bab6ebf30e7a3f981f61427aaba19" category="inline-link">了解如何发现内部ONTAP 集群</block>
-  <block id="9f7c8fad2f6cbf64994a97a18db097a3" category="inline-link">了解如何管理与您的BlueXP帐户关联的NSS凭据</block>
   <block id="4bbcdd6338e8631576e63f1156b1c51d" category="section-title">查看集群信息和合同详细信息</block>
   <block id="dfaa8df1d6444411a1429b0866742025" category="paragraph">查看内部ONTAP 集群的硬件和软件合同状态、以便您可以在这些合同到期之前进行续订。</block>
   <block id="e65135bd79d15db91bec6c98a9f8dabe" category="list-text">选择*内部部署ONTAP *。</block>
@@ -287,7 +281,6 @@
   <block id="e97d1d1134e32a84fb4d6d796e3e56a9" category="list-text">在与要管理的订阅对应的行中选择操作菜单。</block>
   <block id="1dea06c0cd8c3b77e4597670a860c155" category="inline-image-macro">订阅的操作菜单的屏幕截图。</block>
   <block id="23531331db8be0d13d9ce3c0685c0c8e" category="paragraph"><block ref="23531331db8be0d13d9ce3c0685c0c8e" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="1201c1bd99e40a424aee33ac62838b92" category="list-text">选择重命名订阅或管理与订阅关联的BlueXP帐户。</block>
   <block id="7e3a4c0ec1aee45acf094839bb9c449f" category="summary">在数字电子钱包中管理基于节点的许可证，以确保每个 Cloud Volumes ONTAP 系统都有一个具有所需容量的有效许可证。</block>
   <block id="de94398a333e3b7bdafad2ddf3232331" category="doc">管理基于节点的许可证</block>
   <block id="4627bd080634e9380c75a1cc04a09486" category="paragraph">基于节点的许可证 _ 是上一代许可模式（不适用于新客户）：</block>
@@ -386,7 +379,6 @@
   <block id="064ff692e4b4a468969f66368c68e2c8" category="sidebar">管理内部ONTAP 集群的许可证</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">知识和支持</block>
   <block id="49f326995814ee311b340478f99f992f" category="doc">BlueXP数字电子钱包文档</block>
-  <block id="d73d2254cb7a33ffdc126efbce99e623" category="list-text">管理PAYGO的订阅以及与BlueXP帐户和Astra Control关联的年度合同</block>
   <block id="be062cdcabbb3055334e8f19b4bdf378" category="list-text">备份和恢复</block>
   <block id="337c62c6b6eb7319bae58701105e889c" category="list-text">分层</block>
   <block id="f4b04af639ebf32754e26b928989f33f" category="inline-link">为BlueXP备份和恢复设置许可</block>
@@ -403,7 +395,6 @@
   <block id="61589f40a840f6f60d0d36160690dc0e" category="inline-image-macro">显示基于容量的许可证页面的屏幕截图。此页面概述了您帐户中的已用容量、然后按许可包细分已用容量。</block>
   <block id="ccb04438d71ca79f2a97704ba47b5adf" category="paragraph">如果您更改了任何许可证的容量或期限，许可证期限现在将在中自动更新。您不需要自己手动更新许可证。</block>
   <block id="682e041ff00069faf1e43f1e418221a6" category="summary">当您从云提供商的市场订阅BlueXP时、系统会将您重定向到BlueXP网站、您需要在该网站上保存订阅并将其与特定帐户关联。订阅后、您可以从BlueXP数字钱包管理每个订阅。</block>
-  <block id="65459c618528464246bc4dd16dea72ba" category="paragraph">BlueXP数字钱包提供与您的BlueXP帐户和Astra Control (Astra Control使用BlueXP的收费服务)关联的每个PAYGO订阅和年度合同的详细信息。</block>
   <block id="69cda14c45037fc1c766e6b7626c706b" category="inline-image-macro">数字钱包中的"订阅"选项卡的屏幕截图、您可以在其中选择行尾的箭头以展开该选项卡。</block>
   <block id="d6e80e5ccdacdc912b76ab91b58f6023" category="paragraph"><block ref="d6e80e5ccdacdc912b76ab91b58f6023" category="inline-image-macro-rx" type="image"></block></block>
   <block id="41f51117bfa13081af4c8a2db1a7ab58" category="list-text">如果您展开合同的详细信息、BlueXP数字钱包将显示您当前计划的可用内容：合同选项和单元(容量或节点数)。</block>
@@ -433,7 +424,6 @@
   <block id="ef932e9542b570b1aebe25543e12d641" category="inline-image-macro">显示Cloud Volumes ONTAP 软件包摘要的屏幕截图、其中包括总已用容量、总预提交容量(BYOL和Marketplace合同)以及BlueXP数字钱包中的总PAYGO或已配置容量。</block>
   <block id="7d6ebd560dc2c66d5d0db57db21f3c2e" category="paragraph"><block ref="7d6ebd560dc2c66d5d0db57db21f3c2e" category="inline-image-macro-rx" type="image"></block></block>
   <block id="37532cd27e3c53471b1caed0ba1f90ed" category="section-title">下载使用情况报告</block>
-  <block id="819d4e1e06bcd4bb3249b60d928ccacc" category="paragraph">帐户管理员可以从BlueXP中的电子钱包下载四份使用情况报告。这些使用情况报告提供了您的订阅的容量详细信息、并告诉您Cloud Volumes ONTAP 订阅中的资源收费情况。可下载的报告可捕获某个时间点的数据、并可轻松与他人共享。</block>
   <block id="c2b73e18a5b530a547ba48a8177d13c3" category="inline-image-macro">屏幕截图显示了Digital Wallet Cloud Volumes ONTAP 基于容量的许可证页面、并突出显示了使用情况报告按钮。</block>
   <block id="a1a4a48254cf8eb8962fbd995f5e7ea8" category="paragraph"><block ref="a1a4a48254cf8eb8962fbd995f5e7ea8" category="inline-image-macro-rx" type="image"></block></block>
   <block id="d11dcbec58d47bd13de1dcccfbd640ff" category="paragraph">以下报告可供下载。显示的容量值以TiB为单位。</block>
@@ -494,7 +484,6 @@
   <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">如果您需要刷新登录凭据令牌、则中还会提供一个*更新凭据*选项 <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> 菜单。</block>
   <block id="379f9cd57d97013f3f7fdd24f692a0b1" category="paragraph"><block ref="379f9cd57d97013f3f7fdd24f692a0b1" category="inline-image-macro-rx" type="image"></block></block>
   <block id="b23696557397783ca9c44bd2c80b335d" category="list-text"><block ref="b23696557397783ca9c44bd2c80b335d" category="inline-link-rx"></block></block>
-  <block id="e60eaacf5c9817a22b4cc8e32d3e60ca" category="list-text"><block ref="e60eaacf5c9817a22b4cc8e32d3e60ca" category="inline-link-rx"></block></block>
   <block id="da810fa51a2b9119147838a70412015f" category="paragraph"><block ref="a07feb0a336d59a2369adfa9ca88e728" category="inline-link-rx"></block>。</block>
   <block id="b4fa3d19dea2a10db131d6dd7f714436" category="list-text"><block ref="b4fa3d19dea2a10db131d6dd7f714436" category="inline-link-rx"></block></block>
   <block id="e82c60430ac236acfc954acd22ea737d" category="list-text"><block ref="e82c60430ac236acfc954acd22ea737d" category="inline-link-rx"></block></block>
@@ -512,25 +501,18 @@
   <block id="e49aa971c20ec071f1b5bbc3c7266769" category="list-text">如果您为具有序列号的ONTAP系统创建案例、则您的NSS帐户必须与该系统的序列号相关联。</block>
   <block id="c7b7a5ae9f37fd7d24e4d641b9186fe9" category="paragraph">此错误可能意味着NSS帐户及其关联的记录公司与BlueXP帐户序列号(即960xxxx)或工作环境序列号。您可以使用以下选项之一寻求帮助：</block>
   <block id="28164bf9e881ddc9e7ff74744bfce180" category="paragraph">注册这两种类型的序列号可实现打开支持服务单和自动生成案例等功能。要完成注册、请按如下所述将NetApp 支持站点(NSS)帐户添加到BlueXP中。</block>
-  <block id="5a19febf1dcb23c10e8dcfde64ba764c" category="section-title">注册BlueXP帐户以获得NetApp支持</block>
-  <block id="6bbc2ba432f59ab65ee3d8ac5a58336e" category="paragraph">要注册支持并激活支持授权、BlueXP帐户中的一个用户必须将NetApp 支持站点 帐户与其BlueXP登录名关联。如何注册NetApp支持取决于您是否已拥有NetApp 支持站点 (NSS)帐户。</block>
   <block id="0c788a722f31f8f0cf36539ee04615cf" category="list-text">选择*添加NSS凭证*，然后按照NetApp 支持站点(NSS)鉴定提示进行操作。</block>
-  <block id="8add4eb0d3f6ce61d374f3df3ee4eadf" category="paragraph">“资源”页面应显示您的帐户已注册支持。</block>
   <block id="10c56875db7a47f791d653e5d5bff0e9" category="inline-image-macro">屏幕截图、显示帐户序列号、绿色复选框以及注册支持的文本。</block>
   <block id="3d183819a15163ef2e2e7d9d764254a9" category="paragraph"><block ref="3d183819a15163ef2e2e7d9d764254a9" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="d9a01bdcfab6f0a10fc126999b4d5988" category="paragraph">请注意、其他BlueXP用户如果没有将NetApp 支持站点 帐户与其BlueXP登录关联、则不会看到此相同的支持注册状态。但是、这并不意味着您的BlueXP帐户未注册支持。只要帐户中有一个用户执行了这些步骤、您的帐户即已注册。</block>
   <block id="bdd862f49d428a850400bcf2f53cdaf2" category="paragraph">如果您是现有许可证和序列号但拥有_no_ nss帐户的现有NetApp客户、则需要创建一个NSS帐户并将其与BlueXP登录关联。</block>
   <block id="0499bba105f8a891a2c671f1ba99dd34" category="list-text">完成下的步骤、将新的NSS帐户与BlueXP登录关联起来 <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>。</block>
   <block id="5cdee814e2d9ba3490a8f16d00c65759" category="paragraph">拥有NetApp 支持站点 帐户后、通过完成下的步骤将帐户与BlueXP登录关联起来 <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>。</block>
   <block id="3e616bae81890a6c8fae17c9b45af152" category="section-title">关联Cloud Volumes ONTAP支持的NSS凭据</block>
-  <block id="d8f0da67cbab6e43f6d266bdab68cdc8" category="paragraph">要为Cloud Volumes ONTAP启用以下关键工作流、需要将NetApp 支持站点 凭据与BlueXP帐户相关联：</block>
   <block id="a0518a10626dc11fd00e2d20265ad240" category="list-text">注册按需购买Cloud Volumes ONTAP系统以获得支持</block>
   <block id="321aadf78ef73521712291b7aba6411f" category="paragraph">要激活对系统的支持并访问 NetApp 技术支持资源，需要提供 NSS 帐户。</block>
   <block id="d51b2b497db445a16b1c9583c1abbb59" category="list-text">自带许可证时部署Cloud Volumes ONTAP (BYOL)</block>
   <block id="2ebfeabed40c2270d9fa8325080a4b3e" category="paragraph">需要提供您的NSS帐户、以便BlueXP可以上传您的许可证密钥并为您购买的期限启用订阅。这包括自动更新期限续订。</block>
   <block id="f5135b68b75a8404803a1eb438e40c5e" category="list-text">将Cloud Volumes ONTAP 软件升级到最新版本</block>
-  <block id="39f382b97080640c75604b5890f3a5d3" category="paragraph">将NSS凭据与BlueXP帐户关联与与与BlueXP用户登录关联的NSS帐户不同。</block>
-  <block id="e3bc6d35311568d55f1c8ea11984b964" category="paragraph">这些NSS凭据与您的特定BlueXP帐户ID关联。属于BlueXP帐户的用户可以从*支持&gt; NSS管理*访问这些凭据。</block>
   <block id="0307a12e5749f8dd930472ee78f69d2c" category="list-text">在BlueXP控制台的右上角、选择设置图标、然后选择*凭据*。</block>
   <block id="f19ab635e6d5f884a22ee4ce067fdbfd" category="list-text">选择*用户凭据*。</block>
   <block id="cfc5506589d5a4d055e721267d5f0732" category="list-text">要确认注册过程是否成功，请选择帮助图标，然后选择*Support*。</block>
@@ -539,10 +521,8 @@
   <block id="85b9386ed443776127e099931d73448a" category="list-text">出现提示时、选择*继续*以重定向到Microsoft登录页面。</block>
   <block id="24586b03da03249c22a79822574b4e88" category="list-text">登录到<block ref="fcc52edac3ce57829c48ee35d97a295d" category="inline-link-rx"></block> 并选择*系统&gt;软件许可证*。</block>
   <block id="929a00c33ff1e797afba661a33f187d7" category="list-text">在*许可证密钥*列中，选择*获取NetApp许可证文件*。</block>
-  <block id="3a9ab049ef9711b68ac94e0bc034cb30" category="list-text">输入您的BlueXP帐户ID (在支持站点上称为租户ID)、然后选择*提交*以下载许可证文件。</block>
   <block id="b2ca6ef178712312d4798385b0f225aa" category="inline-image-macro">显示获取许可证对话框的屏幕截图、您可以在其中输入租户ID、然后选择提交以下载许可证文件。</block>
   <block id="dd7d821dbf8e495a16f2e05e456de274" category="paragraph"><block ref="dd7d821dbf8e495a16f2e05e456de274" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="19a9d224e357593876fd44c3faede4ab" category="paragraph">您可以通过选择BlueXP顶部的*帐户*下拉列表、然后选择帐户旁边的*管理帐户*来查找BlueXP帐户ID。您的帐户 ID 位于概述选项卡中。</block>
   <block id="519fe268f292c638e02a4e5bb7ab4dc1" category="list-text">从BlueXP菜单中选择*监管&gt;数字钱包*，然后选择*数据服务许可证*选项卡。</block>
   <block id="c8508c0ce4da6dc634b7c66b1df15681" category="list-text">选择 * 添加许可证 * 。</block>
   <block id="07a27581558b890ee2ba077c2fa844c8" category="list-text">在_Add License_对话框中，输入许可证信息并选择*Add License*：</block>
@@ -642,4 +622,32 @@
   <block id="a269d93abb509861d65de68891092f13" category="summary">通过BlueXP  数字钱包、您可以管理直接从NetApp (BYOL)购买的用于BlueXP  备份和恢复、灾难恢复和分层的许可证。您可以查看已用许可证容量、剩余的可用容量、如果达到容量限制或到期日期、您将看到通知。</block>
   <block id="f8caca15ab9e55b2643391493d5c81c7" category="inline-link">为BlueXP勒索软件保护设置许可</block>
   <block id="11fcd042a23eb699950bdd9edd2568bb" category="list-text"><block ref="11fcd042a23eb699950bdd9edd2568bb" category="inline-link-rx"></block></block>
+  <block id="3f4fba3deacd5b0acac06291dbdcdb43" category="list-text">管理PAYGO的订阅以及与您的BlueXP  组织和Astra Control关联的年度合同</block>
+  <block id="98d90e398fc56688ddc647e5f49075ec" category="paragraph">工作环境列表位于您在服务顶部横幅中选择的BlueXP  组织(或帐户)、项目(或工作空间)和连接器的范围内。</block>
+  <block id="bcb02fe5bf814bc0d9811e97deeace94" category="paragraph">您可以从BlueXP  电子钱包下载四份使用情况报告。这些使用情况报告提供了您的订阅的容量详细信息、并告诉您Cloud Volumes ONTAP 订阅中的资源收费情况。可下载的报告可捕获某个时间点的数据、并可轻松与他人共享。</block>
+  <block id="e53331a3231a958d20a4871d8efc35d8" category="list-text">查找您的BlueXP  帐户ID：</block>
+  <block id="e0e8a7d90375792efecad34c0c923e32" category="inline-image-macro">BlueXP  Web控制台右上角显示的设置图标。</block>
+  <block id="cd42e1c1af0a908f68d68ae6103b5c30" category="list-text">在BlueXP  控制台的右上角，选择<block ref="32173ab85f1c68a28384d1a40cf387db" category="inline-image-macro-rx" type="image"></block>&gt;*身份和访问管理*。</block>
+  <block id="3bcef3f6238058ae825d608e1557c538" category="list-text">在"Organization"页面上、查找并复制您的帐户ID。</block>
+  <block id="2bd8c9344d3768dd44b910db169ef1fa" category="paragraph">如果未列出帐户ID、而您只有一个组织ID、则需要复制该组织ID的前八个字符并将其附加到_account-_</block>
+  <block id="14da2ef10b9e4cc4d0981b05fff98072" category="paragraph">例如、假设这是您的组织ID：</block>
+  <block id="2740d3013330ec13ae7693ee76bc6509" category="paragraph">e10e1c6-80cc-4219-8e99-3c3e6b161ba5.</block>
+  <block id="6ffe1a2d88424dc37ba43bdf5999183e" category="paragraph">您的帐户ID如下所示：</block>
+  <block id="c0b58edc6437b03c81d24f7ded6f3648" category="paragraph">account-e10e1c6</block>
+  <block id="33aed260657d37613aeee43d3e2173f8" category="list-text">输入您的BlueXP  帐户ID (在支持站点上称为租户ID)、然后选择*提交*以下载许可证文件。</block>
+  <block id="7c27c9e51d561399ee84fb8d2259328c" category="paragraph">现在、订阅可链接到您的BlueXP  组织或帐户、并可在创建Cloud Volumes ONTAP工作环境时进行选择。</block>
+  <block id="287c693dd0bc6ec48aa0fc3f4b950a9e" category="paragraph">订阅与您的BlueXP  组织或帐户取消链接、在创建Cloud Volumes ONTAP工作环境时无法再选择。</block>
+  <block id="e1aa28849db2f09269597c9486d71590" category="inline-link">了解如何管理与您的BlueXP  组织或帐户关联的NSS凭据</block>
+  <block id="691c5bcb5b91398c6e6a5541f8f58b5b" category="list-text"><block ref="691c5bcb5b91398c6e6a5541f8f58b5b" category="inline-link-rx"></block></block>
+  <block id="343db25ecff212a0d088e939e917acea" category="paragraph">BlueXP  数字钱包提供与您的BlueXP  组织或帐户以及Astra Control (Astra Control使用BlueXP  的收费服务)相关的每个PAYGO订阅和年度合同的详细信息。</block>
+  <block id="1857ec7d8bf266184255083ab9e4370e" category="list-text">选择重命名订阅或管理与订阅关联的BlueXP  组织或帐户。</block>
+  <block id="29360bfcdbc91d3f1514c372b4585965" category="list-text">注册BlueXP  帐户序列号(20位960xxxxxxxxx序列号位于BlueXP  的支持资源页面)。</block>
+  <block id="444b74bc81e823cc1c4c704219ad8ed3" category="section-title">注册BlueXP  以获得NetApp支持</block>
+  <block id="b3bf31f8a918c712f26cdf493a908825" category="paragraph">要注册支持并激活支持授权、您的BlueXP  组织中的一个用户(或帐户)必须将NetApp支持站点帐户与其BlueXP  登录名关联。如何注册NetApp支持取决于您是否已拥有NetApp 支持站点 (NSS)帐户。</block>
+  <block id="2ba7f9eae7a02f9c3ac0fc07517d1c48" category="paragraph">“资源”页面应显示您的BlueXP  组织已注册支持。</block>
+  <block id="c05e530d1466e986d570cfe3f92656c3" category="paragraph">请注意、其他BlueXP用户如果没有将NetApp 支持站点 帐户与其BlueXP登录关联、则不会看到此相同的支持注册状态。但是、这并不意味着您的BlueXP  组织未注册支持。只要组织中有一个用户执行了这些步骤、您的组织就已注册。</block>
+  <block id="a2454703f88e5bf5b433ae850a87151b" category="list-text">请务必复制上面用于序列号字段的帐户序列号(960xxxx)。这将加快处理速度。</block>
+  <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">要为Cloud Volumes ONTAP启用以下关键工作流、需要将NetApp支持站点凭据与您的BlueXP  组织相关联：</block>
+  <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">将NSS凭据与您的BlueXP  组织相关联与与与BlueXP  用户登录相关联的NSS帐户不同。</block>
+  <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">这些NSS凭据与您的特定BlueXP  组织ID相关联。属于BlueXP  组织的用户可以从*Support &gt; NSS Management*访问这些凭据。</block>
 </blocks>

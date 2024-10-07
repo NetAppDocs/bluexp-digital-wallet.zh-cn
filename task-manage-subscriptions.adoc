@@ -24,7 +24,7 @@ summary: 当您从云提供商的市场订阅BlueXP时、系统会将您重定�
 
 == 查看您的订阅
 
-BlueXP数字钱包提供与您的BlueXP帐户和Astra Control (Astra Control使用BlueXP的收费服务)关联的每个PAYGO订阅和年度合同的详细信息。
+BlueXP  数字钱包提供与您的BlueXP  组织或帐户以及Astra Control (Astra Control使用BlueXP  的收费服务)相关的每个PAYGO订阅和年度合同的详细信息。
 
 对于Google Cloud、您还可以识别与私人报价关联的商城订阅、从而验证您是否已成功接受该报价。
 
@@ -82,5 +82,5 @@ Start date:: 开始日期是您成功将订阅与您的帐户关联并开始计�
 +
 image:screenshot-subscription-menu.png["订阅的操作菜单的屏幕截图。"]
 
-. 选择重命名订阅或管理与订阅关联的BlueXP帐户。
+. 选择重命名订阅或管理与订阅关联的BlueXP  组织或帐户。
 

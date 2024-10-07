@@ -10,7 +10,7 @@ summary: '通过BlueXP  数字钱包、您可以管理直接从NetApp (BYOL)购
 :nofooter: 
 :icons: font
 :linkattrs: 
-:imagesdir: https://docs.netapp.com/us-en/bluexp-backup-recovery/media/
+:imagesdir: ./media/
 
 
 [role="lead"]
@@ -34,18 +34,36 @@ TIP: 您还可以通过BlueXP  数字钱包管理BlueXP  分类的许可证。
 购买许可证后、您可以通过输入序列号和NSS帐户或上传NetApp许可证文件(NLF)在BlueXP中激活许可证。以下步骤显示了如果您计划使用此方法，如何获取 NLF 许可证文件。
 
 .步骤
+. 查找您的BlueXP  帐户ID：
++
+.. 在BlueXP  控制台的右上角，选择image:icon-settings-option.png["BlueXP  Web控制台右上角显示的设置图标。"]>*身份和访问管理*。
+.. 在"Organization"页面上、查找并复制您的帐户ID。
++
+如果未列出帐户ID、而您只有一个组织ID、则需要复制该组织ID的前八个字符并将其附加到_account-_
+
++
+例如、假设这是您的组织ID：
+
++
+e10e1c6-80cc-4219-8e99-3c3e6b161ba5.
+
++
+您的帐户ID如下所示：
+
++
+account-e10e1c6
+
+
+
 . 登录到 https://mysupport.netapp.com["NetApp 支持站点"^] 并选择*系统>软件许可证*。
 . 输入许可证的序列号。
 +
 image:screenshot_cloud_backup_license_step1.gif["按序列号搜索后显示许可证表的屏幕截图。"]
 
 . 在*许可证密钥*列中，选择*获取NetApp许可证文件*。
-. 输入您的BlueXP帐户ID (在支持站点上称为租户ID)、然后选择*提交*以下载许可证文件。
+. 输入您的BlueXP  帐户ID (在支持站点上称为租户ID)、然后选择*提交*以下载许可证文件。
 +
 image:screenshot_cloud_backup_license_step2.gif["显示获取许可证对话框的屏幕截图、您可以在其中输入租户ID、然后选择提交以下载许可证文件。"]
-
-+
-您可以通过选择BlueXP顶部的*帐户*下拉列表、然后选择帐户旁边的*管理帐户*来查找BlueXP帐户ID。您的帐户 ID 位于概述选项卡中。
 
 
 

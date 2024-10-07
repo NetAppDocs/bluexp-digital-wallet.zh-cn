@@ -22,7 +22,7 @@ summary: '您可以通过BlueXP数字电子钱包管理和监控从NetApp购买�
 
 * 管理Cloud Volumes ONTAP 的基于容量和基于节点的许可证
 * 添加和管理BlueXP数据服务的许可证
-* 管理PAYGO的订阅以及与BlueXP帐户和Astra Control关联的年度合同
+* 管理PAYGO的订阅以及与您的BlueXP  组织和Astra Control关联的年度合同
 * 管理用于Cloud Volumes ONTAP和内部ONTAP集群的Keystone订阅服务、并请求更改已提交的容量
 * 查看内部ONTAP 集群的硬件和软件合同状态信息
 
