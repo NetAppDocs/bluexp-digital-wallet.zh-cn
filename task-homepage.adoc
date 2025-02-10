@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: task-homepage.html 
-keywords: license, licensing, capacity license, capacity based license, add license, install license, digital wallet, bluexp digital wallet, cloud volumes ontap license, cloud volumes ontap 
+keywords: license, licensing, dashboard, capacity license, capacity based license, add license, install license, digital wallet, bluexp digital wallet, cloud volumes ontap license, cloud volumes ontap 
 summary: 在数字主页上简要了解贵组织的所有订阅和许可证。 
 ---
 = 使用信息板概述
@@ -43,14 +43,14 @@ link:task-manage-data-services-licenses.html["了解有关管理许可证的更�
 . 选择 * 概述 * 。
 . 为相应的数据服务(包括Cloud Volumes ONTAP)选择*查看*可查看详细信息并管理许可证和订阅。
 +
-每个图块都提供容量状态的图形化概览、而详细信息页面则允许您查看和管理该容量的付款方式。
+每个磁贴均提供容量的图形概览。您可以查看详细信息页面以查看和管理该容量的付款方式。
 
 . 选择*许可证*或*订阅*选项卡。
 . 通过选择列筛选器和要用作筛选依据的值来筛选表。例如，在*订阅*选项卡上，您可以按年度合同或订阅筛选类型列。
 +
 image:screenshot_digital_wallet_filter.png["对订阅表执行筛选操作"]
 
-. 自定义表中显示的列。您可以通过选择指示要显示或隐藏的列的列图标来在表中添加和删除列。以下屏幕截图仅指示Type、End Date、Status和Configuration列。
+. 自定义表中显示的列。您可以通过选择*列*图标来添加和删除表中的列，该图标指示要显示或隐藏的列。以下屏幕截图仅指示Type、End Date、Status和Configuration列。
 +
 image:screenshot_digital_wallet_show_hide_columns.png["屏幕截图提供了一个示例、说明如何显示或隐藏列"]
 

@@ -601,12 +601,10 @@
   <block id="483b8e46eb21b512550083b13a6ba1de" category="paragraph"><block ref="f5d9875e96b8ed7153bab8f22c840330" category="inline-link-macro-rx"></block>(英文)<block ref="f050330f0428b7d1c9a33b47b1e41be1" category="inline-link-macro-rx"></block>(英文)</block>
   <block id="32790cf377a1a575eece70f624d64118" category="list-text">选择 * 概述 * 。</block>
   <block id="de9c819c70af50797f21116704502cee" category="list-text">为相应的数据服务(包括Cloud Volumes ONTAP)选择*查看*可查看详细信息并管理许可证和订阅。</block>
-  <block id="f2900320586b6454b48843852d2c9cd6" category="paragraph">每个图块都提供容量状态的图形化概览、而详细信息页面则允许您查看和管理该容量的付款方式。</block>
   <block id="d3a8f85cb0b390c3875d9014a9f0e6a1" category="list-text">选择*许可证*或*订阅*选项卡。</block>
   <block id="661d4023a402ca9354d866c7cb4a3bf7" category="list-text">通过选择列筛选器和要用作筛选依据的值来筛选表。例如，在*订阅*选项卡上，您可以按年度合同或订阅筛选类型列。</block>
   <block id="e079053622b71496829bde7eae702aa6" category="inline-image-macro">对订阅表执行筛选操作</block>
   <block id="327b1c0b128564e29e2060bd2c4ca978" category="paragraph"><block ref="327b1c0b128564e29e2060bd2c4ca978" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="169b50970986d18dea7b02feeadb180d" category="list-text">自定义表中显示的列。您可以通过选择指示要显示或隐藏的列的列图标来在表中添加和删除列。以下屏幕截图仅指示Type、End Date、Status和Configuration列。</block>
   <block id="cf44bd43ea5e0e4180c911de11e7fc50" category="inline-image-macro">屏幕截图提供了一个示例、说明如何显示或隐藏列</block>
   <block id="b04f4a30838d70bc9423c5bcc2a9d78b" category="paragraph"><block ref="b04f4a30838d70bc9423c5bcc2a9d78b" category="inline-image-macro-rx" type="image"></block></block>
   <block id="57cba9caf80ab7bb6590dd12a1c40e9a" category="list-text">展开任意行可查看订阅或许可证包含的内容、已购买容量和条款的详细信息。</block>
@@ -723,4 +721,6 @@
   <block id="c7031958abe0c6bca3058548b703b37f" category="sidebar">适用于Cloud Volumes ONTAP的基于容量的许可证</block>
   <block id="f34953a70b4a66823b7c335bccdd1df4" category="sidebar">适用于Cloud Volumes ONTAP的基于节点的许可证</block>
   <block id="b7dddfb63fd700204e12dba0c2972cb4" category="sidebar">管理商城订阅</block>
+  <block id="77f5141787aa2cd1e98caca9f5ff20ed" category="paragraph">每个磁贴均提供容量的图形概览。您可以查看详细信息页面以查看和管理该容量的付款方式。</block>
+  <block id="8716d9652e3590060e2dac142eea7751" category="list-text">自定义表中显示的列。您可以通过选择*列*图标来添加和删除表中的列，该图标指示要显示或隐藏的列。以下屏幕截图仅指示Type、End Date、Status和Configuration列。</block>
 </blocks>
