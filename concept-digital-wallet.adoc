@@ -14,24 +14,27 @@ summary: '您可以通过BlueXP数字电子钱包管理和监控从NetApp购买�
 
 
 [role="lead"]
-您可以通过BlueXP数字电子钱包管理和监控从NetApp购买的BlueXP许可证(BYOL)、BlueXP Marketplace订阅和NetApp Keystone。
+通过BlueXP  数字钱包、您可以管理和监控从NetApp (BYOL)、BlueXP  数据服务市场订阅(包括NetApp Cloud Volumes ONTAP)和NetApp Keystone购买的BlueXP  许可证。
 
 
 
-== 功能
+== 如何在电子钱包中显示许可证和订阅
 
-* 管理Cloud Volumes ONTAP 的基于容量和基于节点的许可证
-* 添加和管理BlueXP数据服务的许可证
-* 管理PAYGO的订阅以及与您的BlueXP  组织和Astra Control关联的年度合同
-* 管理用于Cloud Volumes ONTAP和内部ONTAP集群的Keystone订阅服务、并请求更改已提交的容量
-* 查看内部ONTAP 集群的硬件和软件合同状态信息
+如果用于订阅的BlueXP  帐户同时也是NetApp支持站点帐户、则许可证和订阅都会自动显示在数字钱包中。如果您使用的BlueXP  帐户未与您的NetApp支持站点(NSS)帐户关联、则需要手动添加和更新许可证、并且不会看到使用情况、容量和其他详细信息发生更改。
 
+同时、BlueXP会自动查询NetApp的许可服务、以获取与您的NetApp 支持站点 帐户关联的许可证的详细信息。如果没有错误、BlueXP会自动将许可证添加到电子钱包中。
+
+如果BlueXP  无法添加许可证、您需要手动将其添加到电子钱包中。例如、如果您的BlueXP  用户帐户未与您的NetApp支持站点帐户关联、则您需要自行添加许可证。
+
+从NetApp销售代表处购买许可证后、NetApp会向您发送一封电子邮件、其中包含序列号和其他许可详细信息。您需要该序列号才能在数字钱包中添加或更新相应的许可证。
+
+https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["了解如何将NetApp支持站点帐户添加到BlueXP  用户凭据中"^](英文)
 
 
 
 == 支持的服务
 
-通过BlueXP数字钱包、您可以管理以下服务的许可证：
+您可以通过BlueXP  数字钱包管理以下服务的许可证和订阅：
 
 * https://docs.netapp.com/us-en/bluexp-backup-recovery/index.html["备份和恢复"^]
 * https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/index.html["Cloud Volumes ONTAP"^]
@@ -40,6 +43,3 @@ summary: '您可以通过BlueXP数字电子钱包管理和监控从NetApp购买�
 * https://docs.netapp.com/us-en/bluexp-ontap-onprem/index.html["内部 ONTAP 集群"^]
 * https://docs.netapp.com/us-en/bluexp-tiering/index.html["分层"^]
 
-
-
-TIP: 您还可以通过BlueXP  数字钱包管理BlueXP  分类的许可证。但是、BlueXP  分类现已作为BlueXP  的核心功能提供、无需额外付费。不再需要许可证或订阅。 https://docs.netapp.com/us-en/bluexp-classification/concept-cloud-compliance.html["了解有关BlueXP分类的更多信息"^]

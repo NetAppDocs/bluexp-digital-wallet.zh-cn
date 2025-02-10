@@ -28,12 +28,12 @@ https://www.netapp.com/services/keystone/["详细了解Keystone"^]
 
 .步骤
 . 从BlueXP导航菜单中、选择*监管>数字电子钱包*。
-. 选择* Keystone*。
+. 选择*Keystone订阅*。
 . 如果您看到 * 欢迎使用 NetApp Keystone * 页面，请向此页面上列出的地址发送电子邮件。
 +
 NetApp 代表将通过授权您的用户帐户访问订阅来处理您的请求。
 
-. 返回到* Keystone订阅*查看您的订阅。
+. 返回到*Keystone订阅*选项卡查看您的订阅。
 +
 image:screenshot-keystone-overview.png["显示Keystone订阅列表的屏幕截图。"]
 
@@ -47,7 +47,7 @@ image:screenshot-keystone-overview.png["显示Keystone订阅列表的屏幕截�
 
 .步骤
 . 从BlueXP导航菜单中、选择*监管>数字电子钱包*。
-. 选择* Keystone*。
+. 选择*Keystone订阅*。
 . 对于要链接的订阅，请单击 image:icon-action.png["一个由三个并排点组成的图标"] 并选择 * 链接 * 。
 +
 image:screenshot-keystone-link.png["显示订阅链接选项的屏幕截图。"]
@@ -65,7 +65,7 @@ image:screenshot-keystone-link.png["显示订阅链接选项的屏幕截图。"]
 
 .步骤
 . 从BlueXP导航菜单中、选择*监管>数字电子钱包*。
-. 选择* Keystone*。
+. 选择*Keystone订阅*。
 . 对于要调整容量的订阅，请单击 image:icon-action.png["一个由三个并排点组成的图标"] 并选择 * 查看详细信息并编辑 * 。
 . 输入一个或多个订阅请求的已提交容量。
 +
@@ -89,7 +89,7 @@ https://docs.netapp.com/us-en/keystone-staas/integrations/aiq-keystone-details.h
 
 == 取消订阅链接
 
-如果您不想再将Keystone订阅与BlueXP结合使用、则可以取消订阅链接。请注意，您只能取消链接未附加到现有 Cloud Volumes ONTAP 订阅的订阅。
+如果您不想再将Keystone订阅与BlueXP  结合使用、则可以取消订阅链接。请注意，您只能取消链接未附加到现有 Cloud Volumes ONTAP 订阅的订阅。
 
 .步骤
 . 从BlueXP导航菜单中、选择*监管>数字电子钱包*。

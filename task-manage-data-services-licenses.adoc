@@ -14,7 +14,10 @@ summary: '通过BlueXP  数字钱包、您可以管理直接从NetApp (BYOL)购
 
 
 [role="lead"]
-通过BlueXP  数字钱包、您可以管理直接从NetApp (BYOL)购买的用于BlueXP  备份和恢复、灾难恢复和分层的许可证。您可以查看已用许可证容量、剩余的可用容量、如果达到容量限制或到期日期、您将看到通知。
+通过BlueXP  数字钱包、您可以管理直接从NetApp (BYOL)购买的用于BlueXP  数据服务(包括适用于ONTAP的Cloud Volumes)的许可证。您可以查看已用许可证容量、剩余的可用容量、如果达到容量限制或到期日期、您将看到通知。
+
+
+NOTE: “*数据服务许可证*”页列出了所有许可证。如果需要特定数据服务的许可证详细信息，请使用*Overview*信息板上的数据服务图块。link:task-homepage.html#overview-page["详细了解概述信息板"](英文)
 
 此页面上的说明提供了有关适用场景 每个服务的信息。有关这些服务的许可的更多具体信息、请参见以下页面：
 
@@ -22,16 +25,16 @@ summary: '通过BlueXP  数字钱包、您可以管理直接从NetApp (BYOL)购
 * https://docs.netapp.com/us-en/bluexp-disaster-recovery/get-started/dr-licensing.html["为BlueXP灾难恢复设置许可"^]
 * https://docs.netapp.com/us-en/bluexp-ransomware-protection/rp-start-licenses.html["为BlueXP勒索软件保护设置许可"^]
 * https://docs.netapp.com/us-en/bluexp-tiering/task-licensing-cloud-tiering.html["为BlueXP分层设置许可"^]
+* https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-licensing.html["为Cloud Volumes ONTAP设置许可"^]
 
-
-
-TIP: 您还可以通过BlueXP  数字钱包管理BlueXP  分类的许可证。但是、BlueXP  分类现已作为BlueXP  的核心功能提供、无需额外付费。不再需要许可证或订阅。 https://docs.netapp.com/us-en/bluexp-classification/concept-cloud-compliance.html["了解有关BlueXP分类的更多信息"^]
 
 
 
 == 获取许可证文件
 
-购买许可证后、您可以通过输入序列号和NSS帐户或上传NetApp许可证文件(NLF)在BlueXP中激活许可证。以下步骤显示了如果您计划使用此方法，如何获取 NLF 许可证文件。
+如果BlueXP  无法访问Internet (专用模式安装)、您应获取要上传的NetApp许可证文件。
+
+从NetApp销售代表处购买许可证后、NetApp会向您发送一封电子邮件、其中包含序列号和其他许可详细信息。如果您无法自动看到许可证、则需要该序列号来获取相应的许可证文件。
 
 .步骤
 . 查找您的BlueXP  帐户ID：
@@ -58,12 +61,12 @@ account-e10e1c6
 . 登录到 https://mysupport.netapp.com["NetApp 支持站点"^] 并选择*系统>软件许可证*。
 . 输入许可证的序列号。
 +
-image:screenshot_cloud_backup_license_step1.gif["按序列号搜索后显示许可证表的屏幕截图。"]
+image:../media/screenshot_cloud_backup_license_step1.gif["按序列号搜索后显示许可证表的屏幕截图。"]
 
 . 在*许可证密钥*列中，选择*获取NetApp许可证文件*。
 . 输入您的BlueXP  帐户ID (在支持站点上称为租户ID)、然后选择*提交*以下载许可证文件。
 +
-image:screenshot_cloud_backup_license_step2.gif["显示获取许可证对话框的屏幕截图、您可以在其中输入租户ID、然后选择提交以下载许可证文件。"]
+image:../media/screenshot_cloud_backup_license_step2.gif["显示获取许可证对话框的屏幕截图、您可以在其中输入租户ID、然后选择提交以下载许可证文件。"]
 
 
 
@@ -71,52 +74,55 @@ image:screenshot_cloud_backup_license_step2.gif["显示获取许可证对话框�
 
 == 添加许可证
 
-在为BlueXP数据服务购买许可证后、您需要将此许可证添加到BlueXP中。
+如果与许可证关联的BlueXP  帐户同时也是NetApp支持站点帐户且BlueXP  可以访问Internet、则许可证信息会自动显示在数字钱包中。如果您使用的BlueXP  帐户与NSS帐户没有关联、则需要手动添加许可证。
+
+您可以通过输入序列号和关联的NSS帐户或上传NetApp许可证文件(NLF)在BlueXP  中添加许可证。如果BlueXP  无法访问Internet (专用模式安装)、您应获取要上传的NetApp许可证文件。
+
+从NetApp销售代表处购买许可证后、NetApp会向您发送一封电子邮件、其中包含序列号和其他许可详细信息。您需要该序列号才能在数字钱包中添加或更新相应的许可证。
+
+
+NOTE: 如果要输入序列号，首先需要输入 https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["将您的NetApp 支持站点 帐户添加到BlueXP"^]。这是有权访问序列号的 NetApp 支持站点帐户。
 
 .步骤
-. 从BlueXP菜单中选择*监管>数字钱包*，然后选择*数据服务许可证*选项卡。
+. 从BlueXP  菜单中，选择*监管>电子钱包*，然后选择*数据服务许可证*选项卡。
 . 选择 * 添加许可证 * 。
-. 在_Add License_对话框中，输入许可证信息并选择*Add License*：
+. 在_Add license_对话框中，输入许可证信息，然后选择*Add license*：
 +
-** 如果您知道序列号并知道您的NSS帐户、请选择*输入序列号*选项并输入该信息。
+** 如果您有序列号并且知道您的NSS帐户，请选择*Enter serial number*并输入该信息。
++
+如果您输入了序列号，则还需要选择有权访问此序列号的 NetApp 支持站点帐户。
+
 +
 如果下拉列表中没有您的 NetApp 支持站点帐户， https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["将NSS帐户添加到BlueXP"^]
 
-** 如果您有许可证文件(在专用模式下使用BlueXP时需要此文件)、请选择*上传许可证文件*选项、然后按照提示附加此文件。
-+
-image:screenshot_services_license_add2.png["显示用于添加BYOL许可证的页面的屏幕截图。"]
+** 如果您有许可证文件(在私有模式下使用BlueXP  时需要)，请选择*上载许可证文件*选项，然后按照提示附加该文件。
 
 
 
-
-
-.结果
-BlueXP添加了许可证。
 
 
 
 == 更新许可证
 
-如果您的许可期限即将到期、或者您的许可容量即将达到限制、您将在BlueXP电子钱包中收到通知。您可以在许可证到期之前对其进行更新、以确保您使用BlueXP数据服务的能力不会中断。
+如果您的许可期限即将到期、或者您的许可容量即将达到限制、您将在BlueXP  电子钱包中收到通知。您可以在许可证到期之前对其进行更新、以便不会中断您使用BlueXP  数据服务或Cloud Volumes ONTAP的能力。
 
-image:screenshot_services_license_expire.png["在 \" 数字电子钱包 \" 页面中显示即将到期许可证的屏幕截图。"]
+从NetApp购买额外容量或延长许可证期限后、如果与许可证关联的BlueXP  帐户同时也是NetApp支持站点帐户且BlueXP  可以访问Internet、则BlueXP  会自动更新数字钱包中的许可证。
+
+如果您的BlueXP  帐户未与您的NSS帐户关联、则需要手动更新许可证。
+
+您可以在BlueXP  中手动更新许可证、方法是输入序列号和关联的NSS帐户、或者上传NetApp许可证文件(如果您有Cloud Volumes ONTAP HA对、则为_files_)。如果BlueXP  无法访问Internet (专用模式安装)、您应获取要上传的NetApp许可证文件。
+
+从NetApp销售代表处购买许可证后、NetApp会向您发送一封电子邮件、其中包含序列号和其他许可详细信息。您需要该序列号才能在数字钱包中添加或更新相应的许可证。
+
+
+NOTE: 如果要输入序列号，首先需要输入 https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["将您的NetApp 支持站点 帐户添加到BlueXP"^]。这是有权访问序列号的 NetApp 支持站点帐户。
 
 .步骤
-. 选择BlueXP右下角的聊天图标或联系支持部门、请求延长您的期限或为特定序列号的许可证增加容量。
+. 要购买新许可证、请联系您的NetApp代表。
 +
-在您购买许可证并将其注册到NetApp 支持站点 之后、BlueXP会自动更新电子钱包中的许可证、并且数据服务许可证页面将在5到10分钟内反映此更改。
+在您购买许可证并将其注册到NetApp支持站点后、BlueXP  会自动在BlueXP  数字钱包中更新许可证、并且"数据服务许可证"页面将在5到10分钟内反映此更改。
 
-. 如果BlueXP无法自动更新许可证(例如、在专用模式下使用BlueXP时)、则需要手动上传许可证文件。
-+
-.. 您可以 <<获取许可证文件,从 NetApp 支持站点获取许可证文件>>。
-.. 在_Data Services Licenses"选项卡上、选择 image:screenshot_horizontal_more_button.gif["更多图标"] 对于要更新的服务序列号，请选择*更新许可证*。
-+
-image:screenshot_services_license_update1.png["选择特定服务的更新许可证按钮的屏幕截图。"]
+. 如果BlueXP  无法自动更新许可证(例如、在私有模式下使用BlueXP  时)、则您需要从支持部门获取NetApp许可证文件并手动上传此许可证文件。<<obtain-license,了解如何获取许可证文件。>>
+. 在_Data service licenses_选项卡上，为要更新的序列号选择image:icon-action.png["更多图标"]，然后选择*Update license*。
+. 在_Update license_页面中，上传许可证文件并选择*更新许可证*。
 
-.. 在_Update License_页面中，上传许可证文件并选择*Update License*。
-
-
-
-
-.结果
-BlueXP会更新许可证。

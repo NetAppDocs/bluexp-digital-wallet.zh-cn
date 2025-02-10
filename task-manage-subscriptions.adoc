@@ -14,28 +14,32 @@ summary: 当您从云提供商的市场订阅BlueXP时、系统会将您重定�
 
 
 [role="lead"]
-当您从云提供商的市场订阅BlueXP时、系统会将您重定向到BlueXP网站、您需要在该网站上保存订阅并将其与特定帐户关联。订阅后、您可以从BlueXP数字钱包管理每个订阅。
+当您从云提供商的市场订阅BlueXP  数据服务(包括Cloud Volumes ONTAP)时、系统会将您重定向到BlueXP  网站、您需要在此保存订阅并将其与您的BlueXP  组织关联起来。订阅后、您可以从BlueXP数字钱包管理每个订阅。
 
-* https://docs.netapp.com/us-en/bluexp-setup-admin/task-subscribe-standard-mode.html["了解如何订阅BlueXP (标准模式)"^]
-* https://docs.netapp.com/us-en/bluexp-setup-admin/task-subscribe-restricted-mode.html["了解如何订阅BlueXP (受限模式)"^]
+* https://docs.netapp.com/us-en/bluexp-setup-admin/task-subscribe-standard-mode.html["了解如何订阅BlueXP  数据服务(标准模式)"^]
+* https://docs.netapp.com/us-en/bluexp-setup-admin/task-subscribe-restricted-mode.html["了解如何订阅BlueXP  数据服务(受限模式)"^]
 
+
+
+NOTE: "*商城订阅*"页面列出了所有许可证。如果需要特定数据服务的许可证详细信息，请使用*Overview*信息板上的数据服务图块。link:task-homepage.html#overview-page["详细了解概述信息板"](英文)
 
 
 
 == 查看您的订阅
 
-BlueXP  数字钱包提供与您的BlueXP  组织或帐户以及Astra Control (Astra Control使用BlueXP  的收费服务)相关的每个PAYGO订阅和年度合同的详细信息。
+BlueXP  数字钱包提供与您的BlueXP  组织或帐户关联的每个PAYGO订阅和年度合同的详细信息。
 
 对于Google Cloud、您还可以识别与私人报价关联的商城订阅、从而验证您是否已成功接受该报价。
 
 .步骤
 . 从BlueXP导航菜单中、选择*监管>数字电子钱包*。
-. 选择*订阅*。
+. 选择*商城订阅*。
 +
-您将只看到与当前正在查看的帐户关联的订阅。
+您只会看到与您当前正在查看的组织关联的订阅。
 
 . 在查看订阅信息时、您可以按如下所示与表中的详细信息进行交互：
 +
+** 使用高级搜索和筛选来确定表中显示的订阅。您可以按订阅的特定名称进行搜索、并按各种订阅参数(例如类型和配置)进行筛选。
 ** 展开一行可查看更多详细信息。
 +
 image:screenshot-subscriptions-expand.png["数字钱包中的\"订阅\"选项卡的屏幕截图、您可以在其中选择行尾的箭头以展开该选项卡。"]
@@ -69,18 +73,112 @@ Start date:: 开始日期是您成功将订阅与您的帐户关联并开始计�
 
 
 
-== 管理您的订阅
+== 重命名订阅
 
-您可以通过重命名订阅并选择与订阅关联的帐户、从BlueXP数字钱包管理您的订阅。
-
-例如，假设您有两个帐户，每个帐户都通过单独的订阅付费。您可能会解除某个订阅与某个帐户的关联、以便该帐户中的用户在创建Cloud Volumes ONTAP 工作环境时不会意外选择错误的订阅。
+您可以重命名订阅、以更好地确定其在组织中的使用方式。
 
 .步骤
 . 从BlueXP导航菜单中、选择*监管>数字电子钱包*。
-. 选择*订阅*。
-. 在与要管理的订阅对应的行中选择操作菜单。
+. 选择*商城订阅*。
+. 在与要管理的订阅对应的行中选择操作菜单，然后选择*Rename*。
 +
-image:screenshot-subscription-menu.png["订阅的操作菜单的屏幕截图。"]
+image:screenshot_rename_subscription.png["订阅的重命名选项的屏幕截图。"]
 
-. 选择重命名订阅或管理与订阅关联的BlueXP  组织或帐户。
+
+
+
+
+== 使用提供程序凭据配置订阅
+
+订阅通常会使用您在订阅时创建的提供商凭据进行配置。在某些情况下、如果要更改收费方式、您可能需要重新配置订阅以使用其他凭据。与订阅关联的凭据必须是同时与连接器关联的凭据。
+
+凭据的格式取决于您使用的商城。例如、Azure Marketplace订阅与Azure订阅的名称相关联、而AWS Marketplace订阅则使用AWS帐户ID。您可以从凭据页面查看可用凭据的列表。
+
+如果您取消订阅、则配置选项将呈灰色显示。
+
+.步骤
+. 从BlueXP导航菜单中、选择*监管>数字电子钱包*。
+. 选择*商城订阅*。
+. 在与要配置的订阅对应的行中选择操作菜单，然后选择*Config*。
+. 在_Config_对话框中、选择要配置订阅的凭据。您只能从与当前选定连接器关联的凭据中进行选择。如果您看不到要使用的凭据、请尝试切换到其他连接器视图。##此描述是否准确？##
+
+
+
+
+== 将订阅与BlueXP  组织相关联
+
+将订阅与组织关联可确保该组织的成员可以使用该订阅进行收费。
+
+您可以将订阅的使用限制为特定组织、也可以在多个组织之间共享订阅。如果需要、您还可以更换现有组织的订阅。
+
+要将订阅与组织关联、您必须具有组织管理员角色。
+
+
+NOTE: BlueXP  支持标准模式下的身份和访问管理(Identity and Access Management、IAM)、该模式使用组织来管理用户和资源。如果您在私有模式或受限模式下使用BlueXP 、则可以使用BlueXP _account_来管理用户和资源、包括订阅。
+
+.步骤
+. 从BlueXP导航菜单中、选择*监管>数字电子钱包*。
+. 选择*商城订阅*。
+. 在与要关联的订阅对应的行中选择操作菜单，然后选择*Associate*。
+. 在*关联订阅*对话框中，选择要与此订阅关联的组织。
+. (可选)使用滑块指示您要替换选定组织的现有订阅。
+. 选择*关联*。
+
+
+
+
+== 查看与订阅关联的凭据
+
+##您可以从电子钱包中的*商城订阅*页面查看特定订阅的凭据。这样、您可以验证订阅的计费方式。由于凭据还与您正在使用的连接器相关联、因此您必须选择与要查看的订阅关联的连接器。##
+
+
+NOTE: 如果需要、可使用顶部导航栏中的"Connectors (连接器)"下拉菜单切换连接器。
+
+.步骤
+. 从BlueXP导航菜单中、选择*监管>数字电子钱包*。
+. 选择*商城订阅*。
+. 在包含要查看其凭据的订阅的行上、选择"查看"。如果有多个与订阅关联的凭据、则可能不会显示任何凭据、系统会指示您选择其他连接器。
+
+
+
+
+== 添加新商城订阅
+
+您可以直接从电子钱包订阅商城订阅。
+
+[role="tabbed-block"]
+====
+.AWS
+--
+以下视频显示了从AWS Marketplace订阅BlueXP  的步骤：
+
+.从AWS Marketplace订阅BlueXP
+video::096e1740-d115-44cf-8c27-b051011611eb[panopto]
+--
+.Azure
+--
+以下视频显示了从Azure Marketplace订阅的步骤：
+
+.从Azure Marketplace订阅BlueXP
+video::b7e97509-2ecf-4fa0-b39b-b0510109a318[panopto]
+--
+.Google Cloud
+--
+以下视频显示了从Google Cloud Marketplace订阅的步骤：
+
+.从Google Cloud Marketplace订阅BlueXP
+video::373b96de-3691-4d84-b3f3-b05101161638[panopto]
+--
+====
+.步骤
+. 从BlueXP导航菜单中、选择*监管>数字电子钱包*。
+. 选择*商城订阅*。
+. 在*订阅*表上方，选择*添加订阅*。
+. 在_Add订阅_对话框中、选择一个云提供程序。
++
+.. 如果选择AWS订阅、请选择是需要年度合同还是PAYGO订阅。
+
+
+. 选择*添加订阅*以导航到提供商的市场并完成提供的步骤。
+. 在云提供商市场上完成后、请返回BlueXP  完成此过程。
 

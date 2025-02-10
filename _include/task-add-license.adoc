@@ -1,0 +1,29 @@
+= 
+:allow-uri-read: 
+
+
+如果与许可证关联的BlueXP  帐户同时也是NetApp支持站点帐户且BlueXP  可以访问Internet、则许可证信息会自动显示在数字钱包中。如果您使用的BlueXP  帐户与NSS帐户没有关联、则需要手动添加许可证。
+
+您可以通过输入序列号和关联的NSS帐户或上传NetApp许可证文件(NLF)在BlueXP  中添加许可证。如果BlueXP  无法访问Internet (专用模式安装)、您应获取要上传的NetApp许可证文件。
+
+从NetApp销售代表处购买许可证后、NetApp会向您发送一封电子邮件、其中包含序列号和其他许可详细信息。您需要该序列号才能在数字钱包中添加或更新相应的许可证。
+
+
+NOTE: 如果要输入序列号，首先需要输入 https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["将您的NetApp 支持站点 帐户添加到BlueXP"^]。这是有权访问序列号的 NetApp 支持站点帐户。
+
+.步骤
+. 从BlueXP  菜单中，选择*监管>电子钱包*，然后选择*数据服务许可证*选项卡。
+. 选择 * 添加许可证 * 。
+. 在_Add license_对话框中，输入许可证信息，然后选择*Add license*：
++
+** 如果您有序列号并且知道您的NSS帐户，请选择*Enter serial number*并输入该信息。
++
+如果您输入了序列号，则还需要选择有权访问此序列号的 NetApp 支持站点帐户。
+
++
+如果下拉列表中没有您的 NetApp 支持站点帐户， https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["将NSS帐户添加到BlueXP"^]
+
+** 如果您有许可证文件(在私有模式下使用BlueXP  时需要)，请选择*上载许可证文件*选项，然后按照提示附加该文件。
+
+
+
