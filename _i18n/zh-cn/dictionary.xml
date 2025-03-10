@@ -683,7 +683,6 @@
   <block id="56bba40e5f5cc68b12fbc07db999847e" category="paragraph">凭据的格式取决于您使用的商城。例如、Azure Marketplace订阅与Azure订阅的名称相关联、而AWS Marketplace订阅则使用AWS帐户ID。您可以从凭据页面查看可用凭据的列表。</block>
   <block id="ccc5335acd730af69ab0b427088bef46" category="paragraph">如果您取消订阅、则配置选项将呈灰色显示。</block>
   <block id="114bfa63105a2d23514e606861c49818" category="list-text">在与要配置的订阅对应的行中选择操作菜单，然后选择*Config*。</block>
-  <block id="a02d5bdda2c413e728f48f77a424c9a4" category="list-text">在_Config_对话框中、选择要配置订阅的凭据。您只能从与当前选定连接器关联的凭据中进行选择。如果您看不到要使用的凭据、请尝试切换到其他连接器视图。##此描述是否准确？##</block>
   <block id="5a66070f9f0ecd83dd28335db5efc481" category="section-title">将订阅与BlueXP  组织相关联</block>
   <block id="8b0d95a41f38606f34e0ab449b5ee46d" category="paragraph">将订阅与组织关联可确保该组织的成员可以使用该订阅进行收费。</block>
   <block id="9b5a99aec31dce1baddb14dc161239a5" category="paragraph">您可以将订阅的使用限制为特定组织、也可以在多个组织之间共享订阅。如果需要、您还可以更换现有组织的订阅。</block>
@@ -694,7 +693,6 @@
   <block id="bf82031efce8f265bece8bef7a61504f" category="list-text">(可选)使用滑块指示您要替换选定组织的现有订阅。</block>
   <block id="e43ddb0fd3dbaee9a42e954a181ab141" category="list-text">选择*关联*。</block>
   <block id="3b446cd4e304253a8a5be3d76f1f7d85" category="section-title">查看与订阅关联的凭据</block>
-  <block id="f9a62957a3b5c40b90446ae870786bb9" category="paragraph">##您可以从电子钱包中的*商城订阅*页面查看特定订阅的凭据。这样、您可以验证订阅的计费方式。由于凭据还与您正在使用的连接器相关联、因此您必须选择与要查看的订阅关联的连接器。##</block>
   <block id="c2c1fba9bd77826ae21ba53eaa6f5a8e" category="admonition">如果需要、可使用顶部导航栏中的"Connectors (连接器)"下拉菜单切换连接器。</block>
   <block id="45cdea95a34c9590c63f84497bc5f85c" category="list-text">在包含要查看其凭据的订阅的行上、选择"查看"。如果有多个与订阅关联的凭据、则可能不会显示任何凭据、系统会指示您选择其他连接器。</block>
   <block id="aea9c467234db8f0360906cb49a2233c" category="section-title">添加新商城订阅</block>
@@ -723,4 +721,17 @@
   <block id="b7dddfb63fd700204e12dba0c2972cb4" category="sidebar">管理商城订阅</block>
   <block id="77f5141787aa2cd1e98caca9f5ff20ed" category="paragraph">每个磁贴均提供容量的图形概览。您可以查看详细信息页面以查看和管理该容量的付款方式。</block>
   <block id="8716d9652e3590060e2dac142eea7751" category="list-text">自定义表中显示的列。您可以通过选择*列*图标来添加和删除表中的列，该图标指示要显示或隐藏的列。以下屏幕截图仅指示Type、End Date、Status和Configuration列。</block>
+  <block id="626a42c4b175379d9d0e723ada0cf740" category="doc">删除订阅的功能</block>
+  <block id="0d4a9d16793bcc1fc3c4982137275a77" category="paragraph">如果您取消订阅、现在可以从电子钱包中删除订阅。</block>
+  <block id="86eb6e7f10c1d00078e563696c2882c7" category="section-title">查看Marketplace订阅的已用容量</block>
+  <block id="0a85a2f78dadf31d5b3bcc7353bae9d1" category="paragraph">现在、在查看PAYGO订阅时、您可以查看此订阅的已用容量。</block>
+  <block id="88b1e2295dd3d145bab292b5d6b7a69d" category="list-text">在_Config_对话框中、选择要配置订阅的凭据。您只能从与当前选定连接器关联的凭据中进行选择。如果您看不到要使用的凭据、请尝试切换到其他连接器视图。</block>
+  <block id="36faba60710a43a53c90eeea27395090" category="paragraph">您可以从电子钱包中的*商城订阅*页面查看特定订阅的凭据。这样、您可以验证订阅的计费方式。由于凭据还与您正在使用的连接器相关联、因此您必须选择与要查看的订阅关联的连接器。</block>
+  <block id="c9db549b3c47c258a77389c2a1310393" category="section-title">删除订阅</block>
+  <block id="2cac1e5bd6e0f02534855a25f0ddf98b" category="paragraph">当您取消订阅超大云(AWS Google Cloud或Azure)中的BlueXP  订阅时、数字钱包会将订阅状态显示为*已取消订阅*。</block>
+  <block id="6b083541bf531a238745c888c414e6af" category="paragraph">您可以从数字钱包中删除未订阅订阅、使其不再显示。</block>
+  <block id="ff0876f12c0b09da7a5bae608ec5986f" category="list-text">在与要删除的订阅对应的行中选择操作菜单选择*Remove*。</block>
+  <block id="2b6dc47a20b39f901a45db5ed6695823" category="paragraph">您只能删除状态为*Unsubscribed"的订阅。</block>
+  <block id="328bc94c6a18dd3a8b5eacb533435091" category="list-text">在*删除订阅*对话框中，确认要删除订阅。</block>
+  <block id="f070435ef55d6c7cc1db59f0a41a4609" category="section-title">2025年3月10日</block>
 </blocks>

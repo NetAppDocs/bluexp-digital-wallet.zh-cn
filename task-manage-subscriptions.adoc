@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: task-manage-subscriptions.html 
-keywords: digital wallet, subscriptions, paygo subscriptions, contracts, annual contracts 
+keywords: digital wallet, subscriptions, paygo subscriptions, contracts, annual contracts, capacity 
 summary: 当您从云提供商的市场订阅BlueXP时、系统会将您重定向到BlueXP网站、您需要在该网站上保存订阅并将其与特定帐户关联。订阅后、您可以从BlueXP数字钱包管理每个订阅。 
 ---
 = 管理PAYGO订阅和合同
@@ -100,7 +100,7 @@ image:screenshot_rename_subscription.png["订阅的重命名选项的屏幕截�
 . 从BlueXP导航菜单中、选择*监管>数字电子钱包*。
 . 选择*商城订阅*。
 . 在与要配置的订阅对应的行中选择操作菜单，然后选择*Config*。
-. 在_Config_对话框中、选择要配置订阅的凭据。您只能从与当前选定连接器关联的凭据中进行选择。如果您看不到要使用的凭据、请尝试切换到其他连接器视图。##此描述是否准确？##
+. 在_Config_对话框中、选择要配置订阅的凭据。您只能从与当前选定连接器关联的凭据中进行选择。如果您看不到要使用的凭据、请尝试切换到其他连接器视图。
 
 
 
@@ -129,7 +129,7 @@ NOTE: BlueXP  支持标准模式下的身份和访问管理(Identity and Access
 
 == 查看与订阅关联的凭据
 
-##您可以从电子钱包中的*商城订阅*页面查看特定订阅的凭据。这样、您可以验证订阅的计费方式。由于凭据还与您正在使用的连接器相关联、因此您必须选择与要查看的订阅关联的连接器。##
+您可以从电子钱包中的*商城订阅*页面查看特定订阅的凭据。这样、您可以验证订阅的计费方式。由于凭据还与您正在使用的连接器相关联、因此您必须选择与要查看的订阅关联的连接器。
 
 
 NOTE: 如果需要、可使用顶部导航栏中的"Connectors (连接器)"下拉菜单切换连接器。
@@ -181,4 +181,22 @@ video::373b96de-3691-4d84-b3f3-b05101161638[panopto]
 
 . 选择*添加订阅*以导航到提供商的市场并完成提供的步骤。
 . 在云提供商市场上完成后、请返回BlueXP  完成此过程。
+
+
+
+
+=== 删除订阅
+
+当您取消订阅超大云(AWS Google Cloud或Azure)中的BlueXP  订阅时、数字钱包会将订阅状态显示为*已取消订阅*。
+
+您可以从数字钱包中删除未订阅订阅、使其不再显示。
+
+.步骤
+. 从BlueXP导航菜单中、选择*监管>数字电子钱包*。
+. 选择*商城订阅*。
+. 在与要删除的订阅对应的行中选择操作菜单选择*Remove*。
++
+您只能删除状态为*Unsubscribed"的订阅。
+
+. 在*删除订阅*对话框中，确认要删除订阅。
 
