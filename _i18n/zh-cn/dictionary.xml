@@ -734,4 +734,5 @@
   <block id="2b6dc47a20b39f901a45db5ed6695823" category="paragraph">您只能删除状态为*Unsubscribed"的订阅。</block>
   <block id="328bc94c6a18dd3a8b5eacb533435091" category="list-text">在*删除订阅*对话框中，确认要删除订阅。</block>
   <block id="f070435ef55d6c7cc1db59f0a41a4609" category="section-title">2025年3月10日</block>
+  <block id="341aea52571ed6aae4899a6ea183248a" category="admonition">您需要部署Connector才能查看数字钱包中的订阅信息。要查看Cloud Volumes ONTAP的节点许可证、还需要使用连接器。</block>
 </blocks>
