@@ -33,7 +33,7 @@ https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-licensing.html[
 
 同时、BlueXP会自动查询NetApp的许可服务、以获取与您的NetApp 支持站点 帐户关联的许可证的详细信息。如果没有错误、BlueXP会自动将许可证添加到电子钱包中。
 
-如果BlueXP无法添加许可证、您需要手动将其添加到电子钱包中。例如、如果Connector安装在无法访问Internet的位置、则您需要自己添加许可证。 <<Add purchased licenses to your account,了解如何向您的帐户添加已购买的许可证>>。
+如果BlueXP无法添加许可证、您需要手动将其添加到电子钱包中。例如、如果Connector安装在无法访问Internet的位置、则您需要自己添加许可证。 https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-data-services-licenses.html#add-a-license["了解如何向您的帐户添加已购买的许可证"^](英文)。
 
 
 
@@ -48,7 +48,7 @@ BlueXP数字钱包可显示帐户中的总已用容量以及按许可包计算�
 image:screenshot_cvo_overview_digital_wallet.png["显示Cloud Volumes ONTAP许可证和订阅的容量摘要的屏幕截图。"]
 
 +
-** _Data service license_是NetApp帐户中所有Cloud Volumes ONTAP系统的总已配置容量。费用根据每个卷的配置大小计算、而不考虑卷中的本地、已用、已存储或有效空间。
+** _direct license_是NetApp帐户中所有Cloud Volumes ONTAP系统的总已配置容量。费用根据每个卷的配置大小计算、而不考虑卷中的本地、已用、已存储或有效空间。
 ** _Annual contract _是您从NetApp购买的总许可容量(自带许可证(BYOL)或Marketplace合同)。
 ** _PAYGO_是使用云市场订阅配置的总容量。只有在已用容量高于许可容量或BlueXP电子钱包中没有BYOL许可证时、才会使用通过PAYGO充电。
 
@@ -114,13 +114,10 @@ image:screenshot_digital_wallet_legacy_view.png["切换到旧视图按钮的屏�
 
 . 向下滚动到*基于容量的许可证*表，然后选择*更改充电方法*。
 +
-image:screenshot-digital-wallet-charging-method-button.png["BlueXP数字钱包中Cloud Volumes ONTAP 页面的屏幕截图、其中更改充电方法按钮位于表的正上方。"]
+image:screenshot-digital-wallet-charging-method-button.png["BlueXP  数字钱包中Cloud Volumes ONTAP页面的屏幕截图、其中更改充电方法按钮位于表格上方。"]
 
-. 选择一个工作环境、选择新的充电方式、然后确认您已了解更改软件包类型将影响服务费用。
-+
-image:screenshot-digital-wallet-charging-method.png["更改充电方法对话框的屏幕截图、在此可以为Cloud Volumes ONTAP 工作环境选择新的充电方法。"]
-
-. 选择*更改充电方法*。
+. 在*更改充电方式*弹出窗口中，选择工作环境，选择新的充电方式，然后确认您了解更改包装类型将影响服务费用。
+. 选择*更改充电方式*。
 
 
 

@@ -12,7 +12,7 @@
 NOTE: 如果要输入序列号，首先需要输入 https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["将您的NetApp 支持站点 帐户添加到BlueXP"^]。这是有权访问序列号的 NetApp 支持站点帐户。
 
 .步骤
-. 从BlueXP  菜单中，选择*监管>电子钱包*，然后选择*数据服务许可证*选项卡。
+. 从BlueXP  菜单中，选择*监管>电子钱包*，然后选择*直接许可证*选项卡。
 . 选择 * 添加许可证 * 。
 . 在_Add license_对话框中，输入许可证信息，然后选择*Add license*：
 +

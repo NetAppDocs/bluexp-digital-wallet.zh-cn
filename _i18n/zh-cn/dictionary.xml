@@ -14,9 +14,6 @@
   <block id="ea9a2b9ac34c9aab133f21aa5b67976e" category="list-text">单击 * 添加许可证 * 。</block>
   <block id="662442d32a5fd91298fcf8b6391fdf17" category="section-title">更改充电方法</block>
   <block id="cfdb32f80009b1e5c5c0468dda9f013d" category="paragraph">如果您在云提供商的市场上有私人优惠或合同、则更改为合同中未包含的收费方式将导致对BYOL (如果您从NetApp购买了许可证)或PAYGO进行收费。</block>
-  <block id="de4b4e176958ea7181911ce715504321" category="list-text">选择一个工作环境、选择新的充电方式、然后确认您已了解更改软件包类型将影响服务费用。</block>
-  <block id="b0d246ceb3cd290ace3abd509e982f73" category="inline-image-macro">更改充电方法对话框的屏幕截图、在此可以为Cloud Volumes ONTAP 工作环境选择新的充电方法。</block>
-  <block id="6e594f7cd72195c88515a50fcfc2397e" category="paragraph"><block ref="6e594f7cd72195c88515a50fcfc2397e" category="inline-image-macro-rx" type="image"></block></block>
   <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">结果</block>
   <block id="885d83848cc69da53e81865263b93e9b" category="summary">您可以通过BlueXP数字电子钱包管理和监控从NetApp购买的BlueXP许可证(BYOL)、BlueXP Marketplace订阅和NetApp Keystone。</block>
   <block id="3d6f73228ead0d62be228ed7b18d0d05" category="doc">了解有关BlueXP数字市场的信息</block>
@@ -241,8 +238,6 @@
   <block id="bec033f0535da0f58c9f0a7ccd96e793" category="paragraph">如果您还没有许可证文件，请参阅以下部分。</block>
   <block id="df5b9d272738b4adaa43e7eb4949a0e5" category="section-title">Exchange 未分配的基于节点的许可证</block>
   <block id="82330159ba1b86113008185841af38f9" category="paragraph">交换许可证将撤消 Cloud Volumes ONTAP 许可证并为此服务创建一个等价于美元的许可证：</block>
-  <block id="9df8e0785445964e646ecf922e67b378" category="list-text">Cloud Volumes ONTAP HA 对的许可转换为 51 TiB 数据服务许可证</block>
-  <block id="fc9771c21d913259d9cc1605db9e67fc" category="list-text">Cloud Volumes ONTAP 单个节点的许可将转换为 32 TiB 数据服务许可证</block>
   <block id="fff69e388498c7da2216c0a49587cbc8" category="list-text">单击 * Exchange 许可证 * 。</block>
   <block id="25abdaf706ab9bbfe1775de2626f958f" category="inline-image-macro">显示在未分配许可证页面上的 Exchange 许可证选项的屏幕截图。</block>
   <block id="59069c86e2c388bcb56b4ec04ba7c1b1" category="paragraph"><block ref="59069c86e2c388bcb56b4ec04ba7c1b1" category="inline-image-macro-rx" type="image"></block></block>
@@ -349,7 +344,6 @@
   <block id="b37ea3f4c93245969c515634c741e9bf" category="paragraph">通过_BlueXP数字钱包_、您可以从一个位置管理Cloud Volumes ONTAP 的许可证。您可以添加新许可证并更新现有许可证。</block>
   <block id="03fc5be3f1d32a032f3da42181c0e6ed" category="section-title">如何将许可证添加到BlueXP电子钱包中</block>
   <block id="472179c55c070df5bcb6f6fd708c412f" category="paragraph">同时、BlueXP会自动查询NetApp的许可服务、以获取与您的NetApp 支持站点 帐户关联的许可证的详细信息。如果没有错误、BlueXP会自动将许可证添加到电子钱包中。</block>
-  <block id="c713a53d9b2831d188de3225e90ebdee" category="paragraph">如果BlueXP无法添加许可证、您需要手动将其添加到电子钱包中。例如、如果Connector安装在无法访问Internet的位置、则您需要自己添加许可证。 <block ref="2b377ff52574668221716136185f8476" category="inline-xref-macro-rx"></block>。</block>
   <block id="70998cc9a7ddc4592ecb1e8fc59e0b63" category="paragraph">BlueXP数字钱包可显示帐户中的总已用容量以及按许可包计算的已用容量。这有助于您了解如何为您付费以及是否需要购买额外容量。</block>
   <block id="37532cd27e3c53471b1caed0ba1f90ed" category="section-title">下载使用情况报告</block>
   <block id="c2b73e18a5b530a547ba48a8177d13c3" category="inline-image-macro">屏幕截图显示了Digital Wallet Cloud Volumes ONTAP 基于容量的许可证页面、并突出显示了使用情况报告按钮。</block>
@@ -378,8 +372,6 @@
   <block id="8b3da2ed858ee5c956acde26c9ef7dd0" category="admonition">此报告不包括FlexClone卷、因为这些类型的卷不会产生费用。</block>
   <block id="23e918e9f1c9f1bb5769dcc236489de2" category="paragraph">将下载使用情况报告。</block>
   <block id="05655bb3cbd3604d6c71a1db823ad94f" category="list-text">打开下载的文件以访问报告。</block>
-  <block id="325ef46eb3d6b63c4d60ef08cdd6176f" category="inline-image-macro">BlueXP数字钱包中Cloud Volumes ONTAP 页面的屏幕截图、其中更改充电方法按钮位于表的正上方。</block>
-  <block id="bdc5814154b1b181ca8722ef08ed8a28" category="paragraph"><block ref="bdc5814154b1b181ca8722ef08ed8a28" category="inline-image-macro-rx" type="image"></block></block>
   <block id="3d6aabe991edb10f282fd60995e725ca" category="inline-image-macro">显示Keystone订阅列表的屏幕截图。</block>
   <block id="6fd94fda3665b39867817d4700d184e8" category="paragraph"><block ref="6fd94fda3665b39867817d4700d184e8" category="inline-image-macro-rx" type="image"></block></block>
   <block id="990d530a36683451e6ac666b1b224270" category="paragraph">在BlueXP数字钱包中管理基于节点的许可证、以确保每个Cloud Volumes ONTAP 系统都具有具有所需容量的有效许可证。</block>
@@ -552,7 +544,6 @@
   <block id="a52d65f3839199e04d1925a40469777d" category="paragraph">如果与许可证关联的BlueXP  帐户同时也是NetApp支持站点帐户且BlueXP  可以访问Internet、则许可证信息会自动显示在数字钱包中。如果您使用的BlueXP  帐户与NSS帐户没有关联、则需要手动添加许可证。</block>
   <block id="cbb4f0e1a501c6c19666681fbeca0825" category="paragraph">您可以通过输入序列号和关联的NSS帐户或上传NetApp许可证文件(NLF)在BlueXP  中添加许可证。如果BlueXP  无法访问Internet (专用模式安装)、您应获取要上传的NetApp许可证文件。</block>
   <block id="e4da416e4783a9b97eecd8ddbd39ca5b" category="paragraph">从NetApp销售代表处购买许可证后、NetApp会向您发送一封电子邮件、其中包含序列号和其他许可详细信息。您需要该序列号才能在数字钱包中添加或更新相应的许可证。</block>
-  <block id="359aa3841e5418fafbad09669e55c993" category="list-text">从BlueXP  菜单中，选择*监管&gt;电子钱包*，然后选择*数据服务许可证*选项卡。</block>
   <block id="37fcb8e7d30cc5903f7318cd979d8ae4" category="list-text">选择 * 添加许可证 * 。</block>
   <block id="b969961bd169c5e07234d15767633a3b" category="list-text">在_Add license_对话框中，输入许可证信息，然后选择*Add license*：</block>
   <block id="b20365c7ce019b6e1f4c2c98af493327" category="list-text">如果您有序列号并且知道您的NSS帐户，请选择*Enter serial number*并输入该信息。</block>
@@ -566,11 +557,8 @@
   <block id="7416ddc285206d8d8958e74f1f79eea8" category="paragraph">如果您的BlueXP  帐户未与您的NSS帐户关联、则需要手动更新许可证。</block>
   <block id="496eadbb25ec6a253c30a9f555549e85" category="paragraph">您可以在BlueXP  中手动更新许可证、方法是输入序列号和关联的NSS帐户、或者上传NetApp许可证文件(如果您有Cloud Volumes ONTAP HA对、则为_files_)。如果BlueXP  无法访问Internet (专用模式安装)、您应获取要上传的NetApp许可证文件。</block>
   <block id="379dad0f18d68789867e193b48643375" category="list-text">要购买新许可证、请联系您的NetApp代表。</block>
-  <block id="5ebf99ee813e440150ec86c75a891b13" category="paragraph">在您购买许可证并将其注册到NetApp支持站点后、BlueXP  会自动在BlueXP  数字钱包中更新许可证、并且"数据服务许可证"页面将在5到10分钟内反映此更改。</block>
   <block id="5a25c9da253ea71b2f8779b02afe0ab3" category="inline-xref">了解如何获取许可证文件。</block>
   <block id="05ee1a0f0e0943d6cf0066b6754bddd3" category="list-text">如果BlueXP  无法自动更新许可证(例如、在私有模式下使用BlueXP  时)、则您需要从支持部门获取NetApp许可证文件并手动上传此许可证文件。<block ref="19f08aed796241a6f1136d21f3565562" category="inline-xref-macro-rx"></block></block>
-  <block id="dc645aed622f4988d777551bcc3d7aa4" category="list-text">在_Data service licenses_选项卡上，为要更新的序列号选择<block ref="c2d801cfb83353ade7055f5accb1a490" category="inline-image-macro-rx" type="image"></block>，然后选择*Update license*。</block>
-  <block id="1485ebb78de4d89be89ebe9a91c558f8" category="list-text">在_Update license_页面中，上传许可证文件并选择*更新许可证*。</block>
   <block id="abbf3397e656c62394e67cdc1337be3c" category="doc">新增了"概述"信息板</block>
   <block id="3aff149422876e5f443408fd802b4fb2" category="paragraph">BlueXP  数字钱包经过重新设计、易于使用、现在可提供额外的订阅和许可证管理。</block>
   <block id="890f7a0157ba95ff799f6f457d82439a" category="paragraph">数字钱包主页提供了一个更新的NetApp许可证和Marketplace订阅信息板、可以深入查看特定服务、许可证类型和所需操作。</block>
@@ -579,7 +567,6 @@
   <block id="175fca0ca5f306258c490378dc2367db" category="section-title">将订阅与组织相关联</block>
   <block id="a5f7678a307b711643d239d80564147c" category="paragraph">现在、您可以直接从数字钱包更新订阅关联到的组织。</block>
   <block id="e8545e234450bbc06ae95bfd7828cfcd" category="section-title">管理Cloud Volume ONTAP许可证</block>
-  <block id="78ab02ef4a4fa36c21e9d7181ab77517" category="paragraph">现在，您可以通过主页或*数据服务许可证*选项卡管理Cloud Volumes ONTAP许可证。使用*商城订阅*选项卡查看您的订阅信息。</block>
   <block id="90929795d9664576087005f35ed4c0dc" category="paragraph">通过BlueXP  数字钱包、您可以管理和监控从NetApp (BYOL)、BlueXP  数据服务市场订阅(包括NetApp Cloud Volumes ONTAP)和NetApp Keystone购买的BlueXP  许可证。</block>
   <block id="a67b2f9752b2d88ce6e38f260686ae69" category="section-title">如何在电子钱包中显示许可证和订阅</block>
   <block id="1efe9efa98048a473a6092d3c9947337" category="paragraph">如果用于订阅的BlueXP  帐户同时也是NetApp支持站点帐户、则许可证和订阅都会自动显示在数字钱包中。如果您使用的BlueXP  帐户未与您的NetApp支持站点(NSS)帐户关联、则需要手动添加和更新许可证、并且不会看到使用情况、容量和其他详细信息发生更改。</block>
@@ -609,7 +596,6 @@
   <block id="b04f4a30838d70bc9423c5bcc2a9d78b" category="paragraph"><block ref="b04f4a30838d70bc9423c5bcc2a9d78b" category="inline-image-macro-rx" type="image"></block></block>
   <block id="57cba9caf80ab7bb6590dd12a1c40e9a" category="list-text">展开任意行可查看订阅或许可证包含的内容、已购买容量和条款的详细信息。</block>
   <block id="a4bee04006bf7e006f35bb8a6a3f32ae" category="list-text">使用操作菜单管理特定许可证或订阅、例如更新许可证或将订阅与其他组织关联。</block>
-  <block id="24a529315ea2d732361e5d6769f85ff8" category="paragraph">您不能从*概述*页面添加新许可证或订阅对于特定服务，您只能分别从*数据服务许可证*选项卡或*商城订阅*选项卡添加许可证或订阅。</block>
   <block id="ca23b039c5d1d583cc53022c31a54485" category="inline-link-macro">了解有关管理许可证的更多信息。</block>
   <block id="4b2167e14a21898c791009b50b46ec9e" category="inline-link-macro">了解有关管理订阅的更多信息。</block>
   <block id="edf4dbcbd1200ec7acd2d146b799e81e" category="paragraph"><block ref="1126b2e5fef6a9209f75e5a91faff8ca" category="inline-link-macro-rx"></block> <block ref="841d65307797c9e89f68fecb565ac37f" category="inline-link-macro-rx"></block></block>
@@ -622,7 +608,6 @@
   <block id="a495aa39c60dc5d48d7bb146e6f7265a" category="list-text">在*Overview*选项卡上，Cloud Volumes ONTAP磁贴显示为您的帐户配置的当前容量。</block>
   <block id="260fa7c60a4b141a99b00056d3d429d3" category="inline-image-macro">显示Cloud Volumes ONTAP许可证和订阅的容量摘要的屏幕截图。</block>
   <block id="e0e863a6ab1f77fce34b0885510033de" category="paragraph"><block ref="e0e863a6ab1f77fce34b0885510033de" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="bea623ba2f203df6f2cad1b5d6c826c6" category="list-text">_Data service license_是NetApp帐户中所有Cloud Volumes ONTAP系统的总已配置容量。费用根据每个卷的配置大小计算、而不考虑卷中的本地、已用、已存储或有效空间。</block>
   <block id="80495a5c91b6e7cae60c8c5c750734bc" category="list-text">_Annual contract _是您从NetApp购买的总许可容量(自带许可证(BYOL)或Marketplace合同)。</block>
   <block id="e55807174fe6f2d9f15f9e357ee0d63e" category="list-text">_PAYGO_是使用云市场订阅配置的总容量。只有在已用容量高于许可容量或BlueXP电子钱包中没有BYOL许可证时、才会使用通过PAYGO充电。</block>
   <block id="d02d58b5b8770f720f9d912913a80f1a" category="list-text">选择*view*可查看每个许可包的已用容量。</block>
@@ -639,8 +624,6 @@
   <block id="31ccaa5879eee7a69ef3c48f1004c59c" category="list-text">更改收费方法不会影响是通过从NetApp (BYOL)购买的许可证还是通过云提供商的市场按需购买(PAYGO)订阅来收费。</block>
   <block id="2daabc6822724771970f17e8ae6a4cee" category="list-text">选择 * 概述 * 选项卡。</block>
   <block id="5b37c7034b369fcc6d9b931180eef46f" category="list-text">在Cloud Volumes ONTAP磁贴上，选择*View*。</block>
-  <block id="1cd5a7f8284f11c93e9f7bd64be49b8a" category="list-text">向下滚动到*基于容量的许可证*表，然后选择*更改充电方法*。</block>
-  <block id="08755db7952950f790eaa52809aad08e" category="list-text">选择*更改充电方法*。</block>
   <block id="a9bcc09a5114887c29b3f365ee72e9e5" category="list-text">*高级使用情况*：此报告包括以下信息：</block>
   <block id="4600869c8040d8603fe9dbe6d56a2b2a" category="list-text">* Cloud Volumes ONTAP软件包使用情况*：此报告包含除优化I/O软件包之外的每个软件包的以下信息：</block>
   <block id="a65d4ec7ff2941ad2ea2bc688a6dbbb3" category="list-text">* Storage VM使用情况*：此报告显示如何在Cloud Volumes ONTAP 系统和Storage Virtual Machine (SVM)之间细分已充电容量。此信息仅在报告中提供。它包含以下信息：</block>
@@ -648,7 +631,6 @@
   <block id="f4c2ce2a853a74c3742ccc54482c074e" category="list-text">选择*使用情况报告*。</block>
   <block id="1df0076b49b993598a996d2d7eb46dd2" category="paragraph">通过BlueXP  数字钱包、您可以管理直接从NetApp (BYOL)购买的用于BlueXP  数据服务(包括适用于ONTAP的Cloud Volumes)的许可证。您可以查看已用许可证容量、剩余的可用容量、如果达到容量限制或到期日期、您将看到通知。</block>
   <block id="bac99350c8b9abdf51c8cb6c7a0467fd" category="inline-link-macro">详细了解概述信息板</block>
-  <block id="7b372c62933632ddd06313e5973ab678" category="admonition">“*数据服务许可证*”页列出了所有许可证。如果需要特定数据服务的许可证详细信息，请使用*Overview*信息板上的数据服务图块。<block ref="9a2921323c53c040741c05db9c27525e" category="inline-link-macro-rx"></block>(英文)</block>
   <block id="353c347239342af7353680135c05995b" category="inline-link">为Cloud Volumes ONTAP设置许可</block>
   <block id="a44e51eede13b57e35e18c372d5ef72e" category="list-text"><block ref="a44e51eede13b57e35e18c372d5ef72e" category="inline-link-rx"></block></block>
   <block id="1ce97cc664bad2b8b354b3220e6331e7" category="list-text">选择*Keystone订阅*。</block>
@@ -685,12 +667,8 @@
   <block id="114bfa63105a2d23514e606861c49818" category="list-text">在与要配置的订阅对应的行中选择操作菜单，然后选择*Config*。</block>
   <block id="5a66070f9f0ecd83dd28335db5efc481" category="section-title">将订阅与BlueXP  组织相关联</block>
   <block id="8b0d95a41f38606f34e0ab449b5ee46d" category="paragraph">将订阅与组织关联可确保该组织的成员可以使用该订阅进行收费。</block>
-  <block id="9b5a99aec31dce1baddb14dc161239a5" category="paragraph">您可以将订阅的使用限制为特定组织、也可以在多个组织之间共享订阅。如果需要、您还可以更换现有组织的订阅。</block>
   <block id="3c966102b2078c31428f6f529f1d49df" category="paragraph">要将订阅与组织关联、您必须具有组织管理员角色。</block>
   <block id="23fa25e10ada436e3690c33daf78f47f" category="admonition">BlueXP  支持标准模式下的身份和访问管理(Identity and Access Management、IAM)、该模式使用组织来管理用户和资源。如果您在私有模式或受限模式下使用BlueXP 、则可以使用BlueXP _account_来管理用户和资源、包括订阅。</block>
-  <block id="e8d4d17604edcb01795d2dec29046b8c" category="list-text">在与要关联的订阅对应的行中选择操作菜单，然后选择*Associate*。</block>
-  <block id="712bf394985d0b4e0af760f8e8abd91c" category="list-text">在*关联订阅*对话框中，选择要与此订阅关联的组织。</block>
-  <block id="bf82031efce8f265bece8bef7a61504f" category="list-text">(可选)使用滑块指示您要替换选定组织的现有订阅。</block>
   <block id="e43ddb0fd3dbaee9a42e954a181ab141" category="list-text">选择*关联*。</block>
   <block id="3b446cd4e304253a8a5be3d76f1f7d85" category="section-title">查看与订阅关联的凭据</block>
   <block id="c2c1fba9bd77826ae21ba53eaa6f5a8e" category="admonition">如果需要、可使用顶部导航栏中的"Connectors (连接器)"下拉菜单切换连接器。</block>
@@ -715,7 +693,6 @@
   <block id="e74b98af0a0d10cc27c402c02fac1fda" category="sidebar">管理Marketplace订阅和合同</block>
   <block id="a35e94495c93c5d785f8b1240c15be6a" category="sidebar">使用概述信息板</block>
   <block id="9f0562c731b8981f21e8a7ac75bd947f" category="sidebar">管理许可证</block>
-  <block id="494ac06bbc5d38299a90be70b7e29b29" category="sidebar">管理数据服务许可证</block>
   <block id="c7031958abe0c6bca3058548b703b37f" category="sidebar">适用于Cloud Volumes ONTAP的基于容量的许可证</block>
   <block id="f34953a70b4a66823b7c335bccdd1df4" category="sidebar">适用于Cloud Volumes ONTAP的基于节点的许可证</block>
   <block id="b7dddfb63fd700204e12dba0c2972cb4" category="sidebar">管理商城订阅</block>
@@ -728,11 +705,43 @@
   <block id="88b1e2295dd3d145bab292b5d6b7a69d" category="list-text">在_Config_对话框中、选择要配置订阅的凭据。您只能从与当前选定连接器关联的凭据中进行选择。如果您看不到要使用的凭据、请尝试切换到其他连接器视图。</block>
   <block id="36faba60710a43a53c90eeea27395090" category="paragraph">您可以从电子钱包中的*商城订阅*页面查看特定订阅的凭据。这样、您可以验证订阅的计费方式。由于凭据还与您正在使用的连接器相关联、因此您必须选择与要查看的订阅关联的连接器。</block>
   <block id="c9db549b3c47c258a77389c2a1310393" category="section-title">删除订阅</block>
-  <block id="2cac1e5bd6e0f02534855a25f0ddf98b" category="paragraph">当您取消订阅超大云(AWS Google Cloud或Azure)中的BlueXP  订阅时、数字钱包会将订阅状态显示为*已取消订阅*。</block>
-  <block id="6b083541bf531a238745c888c414e6af" category="paragraph">您可以从数字钱包中删除未订阅订阅、使其不再显示。</block>
-  <block id="ff0876f12c0b09da7a5bae608ec5986f" category="list-text">在与要删除的订阅对应的行中选择操作菜单选择*Remove*。</block>
-  <block id="2b6dc47a20b39f901a45db5ed6695823" category="paragraph">您只能删除状态为*Unsubscribed"的订阅。</block>
   <block id="328bc94c6a18dd3a8b5eacb533435091" category="list-text">在*删除订阅*对话框中，确认要删除订阅。</block>
   <block id="f070435ef55d6c7cc1db59f0a41a4609" category="section-title">2025年3月10日</block>
   <block id="341aea52571ed6aae4899a6ea183248a" category="admonition">您需要部署Connector才能查看数字钱包中的订阅信息。要查看Cloud Volumes ONTAP的节点许可证、还需要使用连接器。</block>
+  <block id="af4e4720a5da7d0d997443fe59680cce" category="list-text">从BlueXP  菜单中，选择*监管&gt;电子钱包*，然后选择*直接许可证*选项卡。</block>
+  <block id="893ec57836c27cc349c4eb2a62a0aa1f" category="paragraph">在您购买许可证并将其注册到NetApp支持站点后，BlueXP  会自动在BlueXP  电子钱包中更新许可证，并且“*直接许可证*”页面将在5到10分钟内反映此更改。</block>
+  <block id="02dcd8bce07de7dc097a4ebfd00eaf71" category="list-text">在*直接许可证*选项卡上，为要更新的序列号选择，然后选择<block ref="c2d801cfb83353ade7055f5accb1a490" category="inline-image-macro-rx" type="image"></block>*更新许可证*。</block>
+  <block id="8d41ba787c10f2cc6998265252545826" category="list-text">在*更新许可证*页面中，上传许可证文件并选择*更新许可证*。</block>
+  <block id="80f48cc4cb64860e960ab9e9145cc67e" category="paragraph">要管理许可证、您可以根据服务名称对许可证进行分组。这样、您可以查看与特定服务相关的所有许可证。您可以展开一行以查看与服务相关的每个许可证的详细信息。每个服务的根行显示服务名称以及该服务的已用容量。许可证会自动按服务名称进行分组。每个服务的根行显示服务名称以及该服务的已用容量。</block>
+  <block id="7a31e490cd0c8ad68b05578ab24c91cb" category="list-text">从BlueXP  菜单中，选择*监管*&gt;*电子钱包*，然后选择*Direct licenses*选项卡。</block>
+  <block id="f82297c58511adf82f03f07c94881e8b" category="list-text">单击服务名称行将其展开。此时将显示与该服务相关的所有许可证。每个展开的行显示有关许可证的详细信息、包括许可证ID、序列号、容量和到期日期。</block>
+  <block id="0bc14678dfe9cde6019256774c92b34e" category="paragraph">现在，您可以通过主页或*直接许可证*选项卡管理Cloud Volumes ONTAP许可证。使用*商城订阅*选项卡查看您的订阅信息。</block>
+  <block id="a97b82bb80667e8975635f977670227e" category="paragraph">您不能从*概述*页面添加新许可证或订阅对于特定服务，您只能分别从*直接许可证*选项卡或*商城订阅*选项卡添加许可证或订阅。</block>
+  <block id="18a9434b229122882af8f6b252453c72" category="paragraph">如果BlueXP无法添加许可证、您需要手动将其添加到电子钱包中。例如、如果Connector安装在无法访问Internet的位置、则您需要自己添加许可证。<block ref="21379db3c6d74c3a5d2d6d121cdcf537" category="inline-link-rx"></block>(英文)。</block>
+  <block id="b989e51822e011c35b6e3fc2f6e007cf" category="list-text">_direct license_是NetApp帐户中所有Cloud Volumes ONTAP系统的总已配置容量。费用根据每个卷的配置大小计算、而不考虑卷中的本地、已用、已存储或有效空间。</block>
+  <block id="0e4bc6fa91df5edc0eafb52c324b38f3" category="list-text">向下滚动到*基于容量的许可证*表，然后选择*更改充电方法*。</block>
+  <block id="bdc1bf68b97604b69c5291bbde33e6e2" category="inline-image-macro">BlueXP  数字钱包中Cloud Volumes ONTAP页面的屏幕截图、其中更改充电方法按钮位于表格上方。</block>
+  <block id="6167afda1681ca1123608e055285c232" category="paragraph"><block ref="6167afda1681ca1123608e055285c232" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d05997f9ad638ee4daa35dcd63a1c553" category="list-text">在*更改充电方式*弹出窗口中，选择工作环境，选择新的充电方式，然后确认您了解更改包装类型将影响服务费用。</block>
+  <block id="c2a404ae45ebabafb7f3598bcd8a1a18" category="list-text">选择*更改充电方式*。</block>
+  <block id="2ef1ddd95077dddfd70d5ab07187d1f8" category="admonition">“*直接许可证*”页列出了所有许可证。如果需要特定数据服务的许可证详细信息，请使用*Overview*信息板上的数据服务图块。<block ref="9a2921323c53c040741c05db9c27525e" category="inline-link-macro-rx"></block>(英文)</block>
+  <block id="6d6c2071320d39aedc7f752f83e093e6" category="section-title">查看许可证状态</block>
+  <block id="488b3f4a79a8819dabc209f2405c7ba7" category="list-text">Cloud Volumes ONTAP HA对的许可将转换为51 TiB直接许可证</block>
+  <block id="d8961eb56e3c50e0da29ec362dcb385a" category="list-text">Cloud Volumes ONTAP单节点的许可将转换为32 TiB直接许可证</block>
+  <block id="40f89c459ce0878b228a9591409f3603" category="paragraph">您可以将订阅的使用限制为特定组织、也可以在多个组织之间共享订阅。</block>
+  <block id="b3170678c3c61ffc94af47ef973eeb35" category="list-text">在要关联的订阅所在的行中，打开操作菜单，然后选择*关联*。</block>
+  <block id="7d3a30fe2668092a63decc90304c25c5" category="list-text">在*关联订阅*对话框中，选择要与订阅关联的一个或多个组织。</block>
+  <block id="5f2584f9079ec37953d08854e13410ab" category="section-title">取消配置订阅</block>
+  <block id="3eeaae02c9959c91b45646bc49679ed8" category="paragraph">在删除订阅之前、您必须先取消配置它。此操作将清除所有关联数据和设置。</block>
+  <block id="e6e43a3845b22ab829011de2cc5db21b" category="list-text">在BlueXP  导航菜单中，选择*监管&gt;电子钱包*。</block>
+  <block id="8f401d09de150d1b370bd812c149ef02" category="list-text">在要取消配置的订阅所在的行中，单击操作菜单并选择*Unconfigure*。</block>
+  <block id="25f9b23bd620e2b7744e0ee585d450c4" category="list-text">按照提示删除或重置任何关联设置或数据。</block>
+  <block id="c967e7e2ec19dfbde4242e266c145df0" category="list-text">等待状态更新为*未配置*。</block>
+  <block id="d1e12202953a977de666de2e1fa787af" category="paragraph">在云提供商(AWS、Google Cloud或Azure)中取消订阅BlueXP  订阅后、电子钱包会将订阅状态显示为*已取消订阅*。</block>
+  <block id="bb7c20b1665589d2dd3cde7478cbc1fb" category="paragraph">您可以从电子钱包中删除*未订阅*订阅，使其不再显示。</block>
+  <block id="5d0f52ca6f93228b13b446aa98e06f20" category="paragraph">只有当订阅同时为*Unsubscribed"和*Unconfigure*时，您才能删除该订阅。这意味着删除前必须清除或重置所有相关设置、数据和配置。</block>
+  <block id="1cdf55c4f07b4e6c150fa4314c119aa5" category="paragraph">如果仍配置了订阅，则不会显示*Remove*选项。要使此选项可用、请通过清除任何关联设置、服务或数据来取消配置订阅。</block>
+  <block id="f718d4efc769e352af879333b97563c1" category="list-text">在要删除的订阅所在的行中，打开操作菜单并选择*Remove*。</block>
+  <block id="d945569d4f85da82c21c1eedda61f245" category="paragraph">您只能删除状态为*已取消订阅*和*已取消配置*的订阅。</block>
+  <block id="22a93e112ce29f0d1e8dfc0ede83e119" category="sidebar">管理直接许可证</block>
 </blocks>

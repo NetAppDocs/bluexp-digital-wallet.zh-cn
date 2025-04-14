@@ -26,7 +26,7 @@ sidebar:
       url: "/task-homepage.html"
     - title: 管理许可证
       entries:
-      - title: 管理数据服务许可证
+      - title: 管理直接许可证
         url: "/task-manage-data-services-licenses.html"
       - title: 管理 Cloud Volumes ONTAP 的许可证
         entries:

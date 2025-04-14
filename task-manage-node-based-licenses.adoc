@@ -82,8 +82,8 @@ BlueXP将许可证添加到电子钱包中。在将许可证与新的 Cloud Volu
 
 交换许可证将撤消 Cloud Volumes ONTAP 许可证并为此服务创建一个等价于美元的许可证：
 
-* Cloud Volumes ONTAP HA 对的许可转换为 51 TiB 数据服务许可证
-* Cloud Volumes ONTAP 单个节点的许可将转换为 32 TiB 数据服务许可证
+* Cloud Volumes ONTAP HA对的许可将转换为51 TiB直接许可证
+* Cloud Volumes ONTAP单节点的许可将转换为32 TiB直接许可证
 
 
 转换后的许可证的到期日期与Cloud Volumes ONTAP许可证相同。
