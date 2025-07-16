@@ -82,9 +82,13 @@ image:screenshot-subscriptions-expand.png["数字钱包中的\"订阅\"选项卡
 . 从BlueXP导航菜单中、选择*监管>数字电子钱包*。
 . 在*Overview*选项卡上，Cloud Volumes ONTAP磁贴显示为您的帐户配置的当前容量。
 . 选择*view*可查看每个许可包的已配置容量。
-. 选择*切换到传统视图*。
+. 选择*切换到高级视图*。
 +
-image:screenshot_digital_wallet_legacy_view.png["切换到旧视图按钮的屏幕截图"]
+image:screenshot_digital_wallet_legacy_view.png["切换到高级视图按钮的屏幕截图"]
+
+. 查看要查看的软件包的详细信息。
++
+image:screenshot_digital_wallet_standard_view.png["切换到标准视图按钮的屏幕截图"]
 
 
 
@@ -108,7 +112,7 @@ BlueXP始终首先尝试使用许可证付费。如果许可证不可用、则�
 . 从BlueXP导航菜单中、选择*监管>数字电子钱包*。
 . 选择 * 概述 * 选项卡。
 . 在Cloud Volumes ONTAP磁贴上，选择*View*。
-. 选择*切换到传统视图*。
+. 选择*切换到高级视图*。
 +
 image:screenshot_digital_wallet_legacy_view.png["切换到旧视图按钮的屏幕截图"]
 
